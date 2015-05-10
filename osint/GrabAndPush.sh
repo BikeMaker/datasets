@@ -14,6 +14,15 @@ wget -N -P data/ http://www.autoshun.org/files/shunlist.csv
 ##Grab datasets from Arend.de
 wget -N -P data/ http://www.t-arend.de/linux/badguys.txt
 
+##Various other datasets
+wget -N -P data/ http://botscout.com/last_caught_cache.htm
+wget -N -P data/ http://virbl.org/download/virbl.dnsbl.bit.nl.txt
+wget -N -P data/ http://charles.the-haleys.org/ssh_dico_attack_hdeny_format.php/hostsdeny.txt
+wget -N -P data/ https://www.packetmail.net/iprep.txt
+wget -N -P data/ http://www.projecthoneypot.org/list_of_ips.php?rss=1
+wget -N -P data/ http://dragonresearchgroup.org/insight/sshpwauth.txt
+wget -N -P data/ http://dragonresearchgroup.org/insight/vncprobe.txt
+wget -N -P data/ https://feodotracker.abuse.ch/blocklist/?download=ipblocklist
 
 ##Grab datasets from the CIArmy group
 wget -N -P data/ http://cinsscore.com/list/ci-badguys.txt
@@ -62,7 +71,7 @@ wget -N -P data/ http://www.malwaredomainlist.com/hostslist/domains.txt
 
 ##Grab data from Malware Group
 wget -N -P data/ http://www.malwaregroup.com/ipaddresses/malicious
-
+wget -N -P data/ http://www.malwaregroup.com/ipaddresses
 ##Grab data from MalC0de
 wget -N -P data/ http://malc0de.com/bl/ZONES
 wget -N -P data/ http://malc0de.com/bl/IP_Blacklist.txt
@@ -74,6 +83,7 @@ wget -N -P data/ https://isc.sans.edu/api/topips/records/2000
 ##Grab data from OpenBL
 wget -N -P data/ http://www.openbl.org/lists/base.txt
 wget -N -P data/ http://www.openbl.org/lists/base_all.txt
+wget -N -P data/ http://www.openbl.org/lists/base_30days.txt
 
 ##Grab data from StopForumSpam
 wget -N -P data/ http://www.stopforumspam.com/downloads/toxic_ip_cidr.txt
@@ -85,7 +95,7 @@ wget -N -P data/ http://www.stopforumspam.com/downloads/listed_username_30.zip
 wget -N -P data/ http://www.stopforumspam.com/downloads/listed_username_30_all.zip
 
 ##Add to the repository
-git add data/*.*
+git add data/*.* data/*
 
 ##Commit the changes in an insecure manner 
 git commit -m 'automated update via cron'
