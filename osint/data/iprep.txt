@@ -26,15 +26,9 @@
 #     Sat Jun 21 2014 - Time for some necessary indexes -- db.findings.createIndex({ 'packetmail_honeypot' : 1 }, { 'background' : 1 }); db.findings.createIndex({ 'packetmail_honeypot.last_seen' : 1 }, { 'background' : 1 });
 #     Mon Mar 23 2015 - Fixed typo in field definitions.
 #
-# This list was last updated on Sun May 10 01:00:02 2015
+# This list was last updated on Sun May 10 02:00:02 2015
 #
 # IP; last_seen; context; cumulative history
-82.97.23.215; 2015-05-08 06:07:59; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 1
-201.212.223.242; 2015-05-08 06:14:25; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 1
-112.134.145.59; 2015-05-08 06:15:01; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 1
-208.109.198.188; 2015-05-08 06:22:57; Honeypot hits in 3600 hash-collection seconds: 2; Cumulative honeypot hits for IP over all days: 3
-180.190.176.98; 2015-05-08 06:24:40; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 1
-202.109.143.88; 2015-05-08 06:27:12; Honeypot hits in 3600 hash-collection seconds: 3; Cumulative honeypot hits for IP over all days: 33
 115.160.65.159; 2015-05-08 07:02:58; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 1
 125.227.28.202; 2015-05-08 07:11:02; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 1
 213.251.192.202; 2015-05-08 07:11:25; Honeypot hits in 3600 hash-collection seconds: 4; Cumulative honeypot hits for IP over all days: 347
@@ -198,7 +192,6 @@
 208.66.71.108; 2015-05-08 23:20:42; Honeypot hits in 3600 hash-collection seconds: 2; Cumulative honeypot hits for IP over all days: 28
 192.64.177.20; 2015-05-08 23:26:34; Honeypot hits in 3600 hash-collection seconds: 2; Cumulative honeypot hits for IP over all days: 3
 58.218.204.239; 2015-05-08 23:32:31; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 43
-72.167.30.210; 2015-05-08 23:34:57; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 7
 69.175.75.210; 2015-05-08 23:35:35; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 1
 82.80.26.152; 2015-05-08 23:45:57; Honeypot hits in 3600 hash-collection seconds: 2; Cumulative honeypot hits for IP over all days: 3
 185.25.151.159; 2015-05-08 23:51:45; Honeypot hits in 3600 hash-collection seconds: 2; Cumulative honeypot hits for IP over all days: 19
@@ -388,11 +381,9 @@
 110.227.63.34; 2015-05-09 13:58:15; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 1
 81.137.225.47; 2015-05-09 13:58:33; Honeypot hits in 3600 hash-collection seconds: 2; Cumulative honeypot hits for IP over all days: 3
 59.90.103.155; 2015-05-09 13:58:54; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 7
-194.63.142.101; 2015-05-09 14:02:36; Honeypot hits in 3600 hash-collection seconds: 2; Cumulative honeypot hits for IP over all days: 1173
 176.58.199.80; 2015-05-09 14:03:47; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 1
 5.143.76.50; 2015-05-09 14:05:03; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 4
 121.40.157.148; 2015-05-09 14:07:03; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 1
-222.186.160.52; 2015-05-09 14:08:29; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 107
 153.34.223.107; 2015-05-09 14:14:36; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 1
 202.83.16.236; 2015-05-09 14:18:23; Honeypot hits in 3600 hash-collection seconds: 3; Cumulative honeypot hits for IP over all days: 6
 61.48.66.86; 2015-05-09 14:42:06; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 1
@@ -462,7 +453,6 @@
 192.64.9.123; 2015-05-09 18:43:21; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 2082
 61.240.144.67; 2015-05-09 18:43:49; Honeypot hits in 3600 hash-collection seconds: 2; Cumulative honeypot hits for IP over all days: 123118
 77.43.152.77; 2015-05-09 18:57:42; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 1
-103.28.38.6; 2015-05-09 18:57:44; Honeypot hits in 3600 hash-collection seconds: 2; Cumulative honeypot hits for IP over all days: 62
 104.219.251.14; 2015-05-09 18:58:52; Honeypot hits in 3600 hash-collection seconds: 2; Cumulative honeypot hits for IP over all days: 3
 94.75.181.175; 2015-05-09 19:00:56; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 1
 191.101.31.100; 2015-05-09 19:01:54; Honeypot hits in 3600 hash-collection seconds: 2; Cumulative honeypot hits for IP over all days: 302
@@ -474,12 +464,10 @@
 78.189.104.203; 2015-05-09 19:20:00; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 1
 185.14.232.171; 2015-05-09 19:25:44; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 199
 83.230.112.38; 2015-05-09 19:28:51; Honeypot hits in 3600 hash-collection seconds: 4; Cumulative honeypot hits for IP over all days: 10
-85.214.246.93; 2015-05-09 19:31:44; Honeypot hits in 3600 hash-collection seconds: 2; Cumulative honeypot hits for IP over all days: 1888
 185.49.15.23; 2015-05-09 19:33:11; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 2297
 183.136.216.4; 2015-05-09 19:38:08; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 187
 216.218.206.78; 2015-05-09 19:39:02; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 26
 216.218.206.66; 2015-05-09 19:39:52; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 797
-50.30.119.83; 2015-05-09 19:41:06; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 218
 203.162.79.155; 2015-05-09 19:42:44; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 504
 71.104.154.27; 2015-05-09 19:46:57; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 1
 81.30.113.247; 2015-05-09 19:50:27; Honeypot hits in 3600 hash-collection seconds: 2; Cumulative honeypot hits for IP over all days: 176
@@ -490,18 +478,14 @@
 117.56.141.133; 2015-05-09 20:00:13; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 1
 78.188.46.190; 2015-05-09 20:04:07; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 1
 148.102.17.234; 2015-05-09 20:04:27; Honeypot hits in 3600 hash-collection seconds: 2; Cumulative honeypot hits for IP over all days: 6
-221.229.166.98; 2015-05-09 20:06:48; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 278
-194.63.140.189; 2015-05-09 20:08:22; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 645
 114.225.22.24; 2015-05-09 20:09:03; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 1
 216.108.226.71; 2015-05-09 20:10:28; Honeypot hits in 3600 hash-collection seconds: 2; Cumulative honeypot hits for IP over all days: 3
 78.188.193.136; 2015-05-09 20:10:29; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 1
-61.240.144.64; 2015-05-09 20:10:56; Honeypot hits in 3600 hash-collection seconds: 2; Cumulative honeypot hits for IP over all days: 127076
 107.200.57.49; 2015-05-09 20:21:29; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 1
 59.63.178.203; 2015-05-09 20:24:11; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 10
 197.231.244.24; 2015-05-09 20:26:36; Honeypot hits in 3600 hash-collection seconds: 2; Cumulative honeypot hits for IP over all days: 508
 222.186.21.166; 2015-05-09 20:27:38; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 34
 217.160.22.233; 2015-05-09 20:29:29; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 16
-69.11.252.171; 2015-05-09 20:29:50; Honeypot hits in 3600 hash-collection seconds: 2; Cumulative honeypot hits for IP over all days: 1833
 221.229.166.81; 2015-05-09 20:30:09; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 29
 5.56.133.144; 2015-05-09 20:33:18; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 4205
 78.129.231.92; 2015-05-09 20:39:16; Honeypot hits in 3600 hash-collection seconds: 2; Cumulative honeypot hits for IP over all days: 179
@@ -546,7 +530,6 @@
 115.28.167.155; 2015-05-09 22:17:24; Honeypot hits in 3600 hash-collection seconds: 2; Cumulative honeypot hits for IP over all days: 3
 202.93.176.243; 2015-05-09 22:18:29; Honeypot hits in 3600 hash-collection seconds: 2; Cumulative honeypot hits for IP over all days: 926
 222.186.21.117; 2015-05-09 22:20:57; Honeypot hits in 3600 hash-collection seconds: 2; Cumulative honeypot hits for IP over all days: 129
-92.27.146.164; 2015-05-09 22:21:45; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 161
 183.71.184.37; 2015-05-09 22:23:15; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 1
 58.218.205.67; 2015-05-09 22:23:36; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 63
 218.65.30.29; 2015-05-09 22:23:54; Honeypot hits in 3600 hash-collection seconds: 2; Cumulative honeypot hits for IP over all days: 3
@@ -558,7 +541,6 @@
 117.200.221.49; 2015-05-09 22:45:08; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 1
 208.70.56.60; 2015-05-09 22:46:10; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 4168
 201.151.179.124; 2015-05-09 22:47:55; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 118
-195.49.201.30; 2015-05-09 22:53:23; Honeypot hits in 3600 hash-collection seconds: 2; Cumulative honeypot hits for IP over all days: 57
 208.42.254.40; 2015-05-09 22:55:20; Honeypot hits in 3600 hash-collection seconds: 2; Cumulative honeypot hits for IP over all days: 99319
 222.186.34.23; 2015-05-09 22:56:33; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 156
 85.110.74.206; 2015-05-09 23:01:43; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 1
@@ -568,9 +550,6 @@
 46.252.148.85; 2015-05-09 23:06:29; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 2585
 103.28.37.174; 2015-05-09 23:14:04; Honeypot hits in 3600 hash-collection seconds: 2; Cumulative honeypot hits for IP over all days: 2286
 95.9.124.65; 2015-05-09 23:15:29; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 1
-98.191.250.42; 2015-05-09 23:15:48; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 845
-80.82.64.93; 2015-05-09 23:19:20; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 15732
-210.242.195.5; 2015-05-09 23:23:31; Honeypot hits in 3600 hash-collection seconds: 2; Cumulative honeypot hits for IP over all days: 320
 88.253.254.204; 2015-05-09 23:23:38; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 1
 85.214.155.83; 2015-05-09 23:25:19; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 1477
 219.233.26.195; 2015-05-09 23:26:54; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 230
@@ -579,19 +558,16 @@
 222.186.160.51; 2015-05-09 23:30:53; Honeypot hits in 3600 hash-collection seconds: 3; Cumulative honeypot hits for IP over all days: 89
 67.207.143.73; 2015-05-09 23:31:17; Honeypot hits in 3600 hash-collection seconds: 2; Cumulative honeypot hits for IP over all days: 618
 193.203.50.32; 2015-05-09 23:32:07; Honeypot hits in 3600 hash-collection seconds: 2; Cumulative honeypot hits for IP over all days: 820
-78.129.148.77; 2015-05-09 23:39:09; Honeypot hits in 3600 hash-collection seconds: 2; Cumulative honeypot hits for IP over all days: 3
 24.227.199.37; 2015-05-09 23:40:43; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 701
 58.218.205.69; 2015-05-09 23:42:46; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 81
 38.109.36.53; 2015-05-09 23:43:50; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 54
 177.101.97.90; 2015-05-09 23:48:34; Honeypot hits in 3600 hash-collection seconds: 2; Cumulative honeypot hits for IP over all days: 12
 222.186.21.82; 2015-05-09 23:50:47; Honeypot hits in 3600 hash-collection seconds: 2; Cumulative honeypot hits for IP over all days: 69
-208.115.227.42; 2015-05-09 23:53:11; Honeypot hits in 3600 hash-collection seconds: 2; Cumulative honeypot hits for IP over all days: 988
 50.63.56.230; 2015-05-09 23:54:22; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 7
 78.160.35.74; 2015-05-09 23:55:47; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 1
 222.89.166.12; 2015-05-09 23:58:25; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 132
 78.188.114.185; 2015-05-09 23:58:36; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 1
 95.211.209.132; 2015-05-09 23:59:11; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 552
-54.200.152.3; 2015-05-09 23:59:16; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 359
 61.176.223.77; 2015-05-09 23:59:30; Honeypot hits in 3600 hash-collection seconds: 2; Cumulative honeypot hits for IP over all days: 249
 86.56.158.88; 2015-05-10 00:01:57; Honeypot hits in 3600 hash-collection seconds: 2; Cumulative honeypot hits for IP over all days: 16
 121.88.5.177; 2015-05-10 00:02:24; Honeypot hits in 3600 hash-collection seconds: 2; Cumulative honeypot hits for IP over all days: 64
@@ -601,12 +577,10 @@
 188.40.95.125; 2015-05-10 00:10:13; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 3067
 222.186.160.50; 2015-05-10 00:13:24; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 127
 213.238.179.36; 2015-05-10 00:14:01; Honeypot hits in 3600 hash-collection seconds: 2; Cumulative honeypot hits for IP over all days: 3
-58.218.205.70; 2015-05-10 00:14:50; Honeypot hits in 3600 hash-collection seconds: 3; Cumulative honeypot hits for IP over all days: 40
 173.195.13.206; 2015-05-10 00:17:00; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 1
 69.65.17.70; 2015-05-10 00:17:56; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 359
 213.238.166.227; 2015-05-10 00:22:54; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 1
 178.19.107.117; 2015-05-10 00:23:12; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 294
-8.26.191.41; 2015-05-10 00:27:20; Honeypot hits in 3600 hash-collection seconds: 3; Cumulative honeypot hits for IP over all days: 19247
 50.57.71.147; 2015-05-10 00:29:00; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 950
 58.218.205.71; 2015-05-10 00:31:43; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 46
 180.153.113.141; 2015-05-10 00:31:58; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 1818
@@ -616,11 +590,9 @@
 93.180.63.163; 2015-05-10 00:38:20; Honeypot hits in 3600 hash-collection seconds: 2; Cumulative honeypot hits for IP over all days: 121
 61.240.144.66; 2015-05-10 00:38:40; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 152426
 41.208.71.254; 2015-05-10 00:39:45; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 12674
-94.180.115.53; 2015-05-10 00:46:04; Honeypot hits in 3600 hash-collection seconds: 2; Cumulative honeypot hits for IP over all days: 210
 199.168.112.38; 2015-05-10 00:47:44; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 680
 78.138.97.19; 2015-05-10 00:49:01; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 6895
 58.218.205.68; 2015-05-10 00:51:32; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 88
-115.136.23.244; 2015-05-10 00:52:14; Honeypot hits in 3600 hash-collection seconds: 2; Cumulative honeypot hits for IP over all days: 3
 222.49.177.0; 2015-05-10 00:52:30; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 1
 80.242.123.194; 2015-05-10 00:52:31; Honeypot hits in 3600 hash-collection seconds: 2; Cumulative honeypot hits for IP over all days: 80
 91.200.12.21; 2015-05-10 00:53:51; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 890
@@ -630,3 +602,35 @@
 209.197.191.75; 2015-05-10 00:57:15; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 1939
 71.39.117.84; 2015-05-10 00:58:04; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 14
 208.78.169.234; 2015-05-10 01:01:02; Honeypot hits in 3600 hash-collection seconds: 2; Cumulative honeypot hits for IP over all days: 56574
+50.30.119.83; 2015-05-10 01:03:17; Honeypot hits in 3600 hash-collection seconds: 2; Cumulative honeypot hits for IP over all days: 220
+72.167.30.210; 2015-05-10 01:06:11; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 10
+92.27.146.164; 2015-05-10 01:06:26; Honeypot hits in 3600 hash-collection seconds: 2; Cumulative honeypot hits for IP over all days: 163
+115.136.23.244; 2015-05-10 01:08:08; Honeypot hits in 3600 hash-collection seconds: 10; Cumulative honeypot hits for IP over all days: 55
+58.218.205.70; 2015-05-10 01:10:09; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 45
+94.180.115.53; 2015-05-10 01:12:36; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 211
+194.63.142.101; 2015-05-10 01:13:22; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 1174
+61.240.144.64; 2015-05-10 01:13:29; Honeypot hits in 3600 hash-collection seconds: 3; Cumulative honeypot hits for IP over all days: 127079
+195.49.201.30; 2015-05-10 01:15:30; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 61
+208.115.227.42; 2015-05-10 01:21:45; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 989
+194.63.140.189; 2015-05-10 01:22:38; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 648
+93.174.93.218; 2015-05-10 01:24:17; Honeypot hits in 3600 hash-collection seconds: 6; Cumulative honeypot hits for IP over all days: 53209
+8.26.191.41; 2015-05-10 01:24:55; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 19248
+110.245.92.53; 2015-05-10 01:25:57; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 1
+213.248.164.52; 2015-05-10 01:28:47; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 1
+221.229.166.98; 2015-05-10 01:28:54; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 281
+184.105.247.216; 2015-05-10 01:29:01; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 20
+184.105.247.196; 2015-05-10 01:29:15; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 651
+210.242.195.5; 2015-05-10 01:31:07; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 321
+119.68.139.35; 2015-05-10 01:34:22; Honeypot hits in 3600 hash-collection seconds: 2; Cumulative honeypot hits for IP over all days: 113
+185.35.62.123; 2015-05-10 01:34:45; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 1
+98.191.250.42; 2015-05-10 01:40:29; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 848
+69.11.252.171; 2015-05-10 01:42:16; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 1834
+188.3.164.139; 2015-05-10 01:46:14; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 1
+78.129.148.77; 2015-05-10 01:46:28; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 4
+85.214.246.93; 2015-05-10 01:49:51; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 1889
+185.35.62.122; 2015-05-10 01:50:17; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 1
+76.180.236.54; 2015-05-10 01:51:32; Honeypot hits in 3600 hash-collection seconds: 2; Cumulative honeypot hits for IP over all days: 185
+222.186.160.52; 2015-05-10 01:57:22; Honeypot hits in 3600 hash-collection seconds: 3; Cumulative honeypot hits for IP over all days: 115
+80.82.64.93; 2015-05-10 01:58:19; Honeypot hits in 3600 hash-collection seconds: 3; Cumulative honeypot hits for IP over all days: 15740
+103.28.38.6; 2015-05-10 01:59:07; Honeypot hits in 3600 hash-collection seconds: 1; Cumulative honeypot hits for IP over all days: 63
+54.200.152.3; 2015-05-10 02:00:48; Honeypot hits in 3600 hash-collection seconds: 2; Cumulative honeypot hits for IP over all days: 361
