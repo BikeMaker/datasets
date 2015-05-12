@@ -1,0 +1,14 @@
+So:
+
+You have a SIEM and other security technologies focused on detection and alerting
+As a result, you have lots of security alerts – and you think it is too damn many!
+You don’t have enough people to tune the systems that produced the alerts so that they produce fewer/better alerts
+Also, you do not have enough skilled SIEM people to triage / validate the alerts
+Instead, you want to buy a new, “magic bullet” tool that promises to “make better alerts”
+Your security budget: $$$$$. Budget after the magic tool purchase: $$
+The magic tool is deployed and – abracadabra! – your 23,543 alerts become 17 alerts
+What just happened? Where did they go?!
+Now you need skilled people to a) confirm that alerts that remained really do matter, b) that these alerts matter the most to you and also to c) confirm that alerts that vanished don’t matter
+If a), b) and c) are not to your perfect satisfaction, you now need skilled people to tune the new tool.
+Result? You bought a new tool to avoid hiring people, and now you need to hire people to run this tool. In fact, you needed, 3 security analysts @ $80K/year, and now you need a security data scientist @ $240K/year …
+Explain :–)
