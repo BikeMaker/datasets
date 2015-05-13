@@ -1,7 +1,8 @@
 <pre>
 VX Vault last 100 Links
-Tue, 12 May 2015 22:51:35 +0000
+Wed, 13 May 2015 16:36:00 +0000
 
+http://92.63.88.87:8080/bt/get.php
 http://176.103.54.73/x640001.exe
 http://89.144.2.115/arisx06.exe
 http://89.144.2.115/x640001.exe
@@ -102,4 +103,3 @@ http://hramy.com/33/71.exe
 http://ondeals.in/33/71.exe
 http://s1003689.experthost.com/33/71.exe
 http://drive.google.com/uc?export=download&confirm=no_antivirus&id=0B6qopIR-XBu6d1RRc19TU196aXM
-http://rogruz.su/user_img/best.exe
