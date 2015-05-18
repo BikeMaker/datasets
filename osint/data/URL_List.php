@@ -1,7 +1,16 @@
 <pre>
 VX Vault last 100 Links
-Mon, 18 May 2015 04:36:29 +0000
+Mon, 18 May 2015 18:50:23 +0000
 
+http://employmentrisk.com/images/1405uk77.exe
+http://globalfuturecorp.com/556/455.exe
+http://filip352.tk/File.exe
+http://solar.olympe.in/net.exe
+http://solar.olympe.in/keys.exe
+http://solar.olympe.in/baby.exe
+http://solar.olympe.in/solar.exe
+http://get-trust.com/koxoa/windowsphone1995.exe
+http://176.103.54.73/loader/x640001.exe
 http://orient-traders.com/pon/micro.exe
 http://relianceproducts.com/files/jxpiinstall.exe
 http://bluefile.biz/downloads/89a32f4287b4f654022c7e23d86e54f5305800.exe
@@ -94,12 +103,3 @@ http://94.102.51.147/s/lol.exe
 http://109.61.94.140/arisx06.exe
 http://www.kdaum.net/total22.exe
 http://www.kdaum.net/total00.exe
-http://itsurvive.com/cms/R1IO6DZMN8VX.jpg
-http://bitcoinsmsxpress.com/0fficekeyserial15.exe
-http://bitcoinsmsxpress.com/Ad0veSettings.exe
-http://bluefile.biz/downloads/850cda268cd9c80ee64365490ff9d8ae95232.exe
-http://w803796.blob1.ge.tt/streams/8c6l4KE2/1.exe?sig=-U0JL2kVNuTnrlN4GjRhABSVEkWReLDxOIo&type=download
-http://202.144.144.195/uploads/flash.exe
-http://202.144.144.195/uploads/moneylord02.exe
-http://selkirkconed.com/wp-content/uploads/2014/06/Lh1n1.exe
-http://alumagraphics.com/wp-content/uploads/2015/01/2704uk77.exe

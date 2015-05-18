@@ -84,7 +84,7 @@
   <input id="is_captcha" name="is_captcha" type="hidden" value="1" />
     <input class="text" id="report-filter" name="site" onFocus="this.value = &#x27;&#x27;" type="text" value="Search website..." />
   <input class="submit-bt" id="add-site" name="commit" type="submit" value="Search" />
-</form><form accept-charset="UTF-8" action="/public/recent_detections" id="search" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="N/NQUCBPokwUvfuB5mXLsmZOgTe37k4lTDM+NosxmN0=" /></div>
+</form><form accept-charset="UTF-8" action="/public/recent_detections" id="search" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="/HFtf6Ff5WFVOWMAd0jlpgESDlXZ/xQFcnGpKWMLkIQ=" /></div>
   <select id="risk" name="risk" onChange="this.form.submit();"><option value="-1">Show all entries</option>
 <option value="2">High Risk entries</option>
 <option value="3">Suspicious entries</option></select>
@@ -96,21 +96,75 @@
     <th>Last Detected At</th>
     <th>Details</th>
   </tr>
-    <tr class="susp-row">
-      <td><span>http://denascroche.blogspot.com.br</span></td>
-      <td>Suspicious</td>
-      <td>2015-05-18 04:11:02 UTC</td>
-      <td>
-        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fdenascroche.blogspot.com.br">Suspicious pages were found on this site.</a>
-        <br>
-      </td>
-    </tr>
     <tr class="error-row">
       <td><span>http://antispy-online90.com</span></td>
       <td>High Risk</td>
-      <td>2015-05-18 04:08:40 UTC</td>
+      <td>2015-05-18 18:07:03 UTC</td>
       <td>
         <a href="/public/reports/show_website?result=2&amp;site=http%3A%2F%2Fantispy-online90.com">High Risk pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://amirul-amin.blogspot.fr</span></td>
+      <td>Suspicious</td>
+      <td>2015-05-18 17:58:39 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Famirul-amin.blogspot.fr">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://amihero.blogspot.ru</span></td>
+      <td>Suspicious</td>
+      <td>2015-05-18 17:56:40 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Famihero.blogspot.ru">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://101.226.167.19</span></td>
+      <td>Suspicious</td>
+      <td>2015-05-18 17:56:21 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2F101.226.167.19">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span><a href="javascript:;" onclick="show_link('17776354');">http://angolamissuniverse2011.blogspot.c ...</a><div id="link_17776354" style="display: none;" title="URL">http://angolamissuniverse2011.blogspot.ca</div></span></td>
+      <td>Suspicious</td>
+      <td>2015-05-18 17:55:24 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fangolamissuniverse2011.blogspot.ca">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://anten.biz</span></td>
+      <td>Suspicious</td>
+      <td>2015-05-18 17:54:47 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fanten.biz">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://0839fc.com</span></td>
+      <td>Suspicious</td>
+      <td>2015-05-18 17:54:42 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2F0839fc.com">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://americas-heroes.us</span></td>
+      <td>Suspicious</td>
+      <td>2015-05-18 17:54:36 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Famericas-heroes.us">Suspicious pages were found on this site.</a>
         <br>
       </td>
     </tr>
@@ -122,10 +176,10 @@
     </div>
     
 
-<form accept-charset="UTF-8" action="/public/recent_detections" class="page-list" id="form_list677" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="N/NQUCBPokwUvfuB5mXLsmZOgTe37k4lTDM+NosxmN0=" /></div>
+<form accept-charset="UTF-8" action="/public/recent_detections" class="page-list" id="form_list102" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="/HFtf6Ff5WFVOWMAd0jlpgESDlXZ/xQFcnGpKWMLkIQ=" /></div>
   <input type='hidden' name='id' value=''>
   Display
-  <select class="page-list" id="list677" name="list"><option value="10">10 items per page</option>
+  <select class="page-list" id="list102" name="list"><option value="10">10 items per page</option>
 <option value="20">20 items per page</option>
 <option value="30">30 items per page</option>
 <option value="40">40 items per page</option>
