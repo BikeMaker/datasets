@@ -1,7 +1,16 @@
 <pre>
 VX Vault last 100 Links
-Tue, 19 May 2015 01:15:55 +0000
+Wed, 20 May 2015 02:38:09 +0000
 
+http://www.ilaunchmanager.com/x/wp-content/plugins/fb-infiltrator-personal/update.exe
+http://92.63.88.87:8080/bt/crypted.120.exe
+http://solar.olympe.in/solar.exe
+http://solar.olympe.in/baby.exe
+http://solar.olympe.in/keys.exe
+http://solar.olympe.in/net.exe
+http://aroeletroima.com.br/wp-content/themes/aroeletroima/ex_mailpv.exe
+http://sstiling.com.au/modules/mod_aratipas/cr_mss3.exe
+http://nickvuj.com/G4g1QuqwSi/9049b.exe
 http://employmentrisk.com/images/1405uk77.exe
 http://globalfuturecorp.com/556/455.exe
 http://filip352.tk/File.exe
@@ -94,12 +103,3 @@ http://94.139.202.72/suba002.exe
 http://91.194.254.245/uss/file.exe
 http://91.194.254.243/us405/file.exe
 http://91.194.254.241/us304/filet.exe
-http://91.194.254.235/us405/file.exe
-http://91.194.254.235/us274/filet.exe
-http://91.194.254.236/us274/file.exe
-http://91.194.254.237/us21/file.exe
-http://91.194.254.238/us21/filet.exe
-http://94.102.51.147/s/lol.exe
-http://109.61.94.140/arisx06.exe
-http://www.kdaum.net/total22.exe
-http://www.kdaum.net/total00.exe
