@@ -3,12 +3,13 @@
 // It will return 127.0.0.1 for domains serving malicious executables observed by malc0de.com/database/
 // This file will be automatically updated daily and populated with the last 30 days of malicious domains.
 // Additional information to get this working can be found http://www.malwaredomains.com/wordpress/?page_id=6
-// Last updated 2015-05-19	
+// Last updated 2015-06-03	
 
 zone "windows.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "faidns.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "datacardbar.info"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "masternae.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "riversaw.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "villeges.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "yuedea.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "abodefineliving.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
@@ -32,6 +33,7 @@ zone "daccordassessoria.com.br"  {type master; file "/etc/namedb/blockeddomain.h
 zone "ddirectdownload-about.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "dfkwout5.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "directexe.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "baidu.co.th"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "desk1992get.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "get1993desk.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "getdesk1994.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
@@ -60,11 +62,9 @@ zone "guanggaoyinshua.com"  {type master; file "/etc/namedb/blockeddomain.hosts"
 zone "downyouxi.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "softwaretop.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "shuianshanba.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "atfile.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "ddlmedia1002.info"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "dianxin777.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "riversaw.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "baidu.co.th"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "atfile.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "3utilities.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "7softwaredreams.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "acaciadeperus.com.br"  {type master; file "/etc/namedb/blockeddomain.hosts";};
