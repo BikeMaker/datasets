@@ -1,7 +1,10 @@
 <pre>
 VX Vault last 100 Links
-Wed, 03 Jun 2015 19:34:19 +0000
+Thu, 04 Jun 2015 20:23:52 +0000
 
+http://power2business.com/42/91.exe
+http://devenirtrader.biz/wp-content/themes/enfold/cr_mss3.exe
+http://rockpages.gr/KILMVj0l2wz/ee.exe
 http://docs.google.com/uc?authuser=0&id=0BzhWe_qK75wNbUd5WUl2TEFWMnc&export=download
 http://docs.google.com/uc?authuser=0&id=0BzhWe_qK75wNLWRQUi1nWnJvcjA&export=download
 http://sell-store.com/forum/priv/z/acez.exe
@@ -100,6 +103,3 @@ http://89.144.2.119/loader/arisx06.exe
 http://18.duote.org/ipg.exe
 http://55.duote.org/ipg.exe
 http://188.129.246.244/x640001.exe
-http://cyber-seal.site90.net/bla2.ini
-http://sweetloli.com/build.exe
-http://91.226.93.14:8080/stat/test.exe
