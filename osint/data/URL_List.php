@@ -1,7 +1,10 @@
 <pre>
 VX Vault last 100 Links
-Sun, 07 Jun 2015 17:03:16 +0000
+Tue, 09 Jun 2015 00:49:25 +0000
 
+http://so.lyehk.com/p2psearcher.exe
+http://serv55.tk/f/pp1.exe
+http://serv55.tk/f/22.exe
 http://power2business.com/42/91.exe
 http://devenirtrader.biz/wp-content/themes/enfold/cr_mss3.exe
 http://rockpages.gr/KILMVj0l2wz/ee.exe
@@ -100,6 +103,3 @@ http://219.235.1.198:8080/server.exe
 http://218.195.117.139:8080/svchost.exe
 http://222.186.21.111/77kb.exe
 http://89.144.2.119/loader/arisx06.exe
-http://18.duote.org/ipg.exe
-http://55.duote.org/ipg.exe
-http://188.129.246.244/x640001.exe
