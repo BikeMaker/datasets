@@ -1,7 +1,10 @@
 <pre>
 VX Vault last 100 Links
-Tue, 09 Jun 2015 00:49:25 +0000
+Wed, 10 Jun 2015 18:42:39 +0000
 
+http://kendra.fr/KINS/panel/bot.exe
+http://jahresbericht2013.wupsi.de/wp-content/themes/wupsi-scratch/cr_mss3.exe
+http://varbo.rs/B9Uxn2Dw34IbK/ee.exe
 http://so.lyehk.com/p2psearcher.exe
 http://serv55.tk/f/pp1.exe
 http://serv55.tk/f/22.exe
@@ -100,6 +103,3 @@ http://198.52.227.198/linux.exe
 http://203.33.9.5:123/Server.exe
 http://203.33.9.5:123/system.exe
 http://219.235.1.198:8080/server.exe
-http://218.195.117.139:8080/svchost.exe
-http://222.186.21.111/77kb.exe
-http://89.144.2.119/loader/arisx06.exe
