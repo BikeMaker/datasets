@@ -1,7 +1,11 @@
 <pre>
 VX Vault last 100 Links
-Fri, 12 Jun 2015 07:13:24 +0000
+Mon, 15 Jun 2015 07:17:07 +0000
 
+http://solar.olympe.in/popo.exe
+http://solar.olympe.in/keys.exe
+http://solar.olympe.in/im.exe
+http://solar.olympe.in/solar.exe
 http://winos.cn/include/js/hot.jpg
 http://winos.cn/include/js/gbsvs.jpg
 http://solar.olympe.in/ims.exe
@@ -99,7 +103,3 @@ http://82.146.54.187/tools/TorrentInjectorSmart.exe
 http://82.146.54.187/tools/ptdb_yandex.exe
 http://82.146.54.187/tools/ptdb_opera.exe
 http://82.146.54.187/tools/ptdb_fire.exe
-http://82.146.54.187/tools/ptdb_chrome.exe
-http://82.146.54.187/tools/ptdb.exe
-http://smrlbd.com/Panel/sat.exe
-http://smrlbd.com/Panel/yummy.exe
