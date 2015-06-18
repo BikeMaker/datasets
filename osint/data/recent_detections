@@ -84,7 +84,7 @@
   <input id="is_captcha" name="is_captcha" type="hidden" value="1" />
     <input class="text" id="report-filter" name="site" onFocus="this.value = &#x27;&#x27;" type="text" value="Search website..." />
   <input class="submit-bt" id="add-site" name="commit" type="submit" value="Search" />
-</form><form accept-charset="UTF-8" action="/public/recent_detections" id="search" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="EM6AlLv8r9ujXkHEhDYFpQ4AoGuJtUYhDoub6wlZD5A=" /></div>
+</form><form accept-charset="UTF-8" action="/public/recent_detections" id="search" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="1WoYuMXZzFiuT/NTXcLpZ0ak7FwqlJWWBBEYShSeed0=" /></div>
   <select id="risk" name="risk" onChange="this.form.submit();"><option value="-1">Show all entries</option>
 <option value="2">High Risk entries</option>
 <option value="3">Suspicious entries</option></select>
@@ -554,10 +554,10 @@
     </div>
     
 
-<form accept-charset="UTF-8" action="/public/recent_detections" class="page-list" id="form_list723" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="EM6AlLv8r9ujXkHEhDYFpQ4AoGuJtUYhDoub6wlZD5A=" /></div>
+<form accept-charset="UTF-8" action="/public/recent_detections" class="page-list" id="form_list205" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="1WoYuMXZzFiuT/NTXcLpZ0ak7FwqlJWWBBEYShSeed0=" /></div>
   <input type='hidden' name='id' value=''>
   Display
-  <select class="page-list" id="list723" name="list"><option value="10">10 items per page</option>
+  <select class="page-list" id="list205" name="list"><option value="10">10 items per page</option>
 <option value="20">20 items per page</option>
 <option value="30">30 items per page</option>
 <option value="40">40 items per page</option>
