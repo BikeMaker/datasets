@@ -1,7 +1,15 @@
 <pre>
 VX Vault last 100 Links
-Mon, 15 Jun 2015 07:17:07 +0000
+Thu, 18 Jun 2015 05:40:49 +0000
 
+http://pmetraining.co.uk/90/72.exe
+http://www.eci-international.com/99/43.exe
+http://www.10squared.co.uk/99/43.exe
+http://212.76.130.85/bt/bt/get9.php
+http://docs.google.com/uc?authuser=0&id=0BzhWe_qK75wNMUFXVkhDRlAxUTA&export=download
+http://www.acames.co.uk/99/43.exe
+http://s3.amazonaws.com/nimoru/NanoCore.exe
+http://176.103.55.73/loader/cclub02.exe
 http://solar.olympe.in/popo.exe
 http://solar.olympe.in/keys.exe
 http://solar.olympe.in/im.exe
@@ -95,11 +103,3 @@ http://screen.4nmv.de/image4223
 http://bbs.sjzu.org/34/140.exe
 http://176.103.54.73/loader/rain003.exe
 http://176.103.54.73/suba002.exe
-http://185.11.146.63/asap/LiGhT_bin.exe
-http://82.146.54.187/spy
-http://cl64195.tmweb.ru/aPd5xdpNgI.exe
-http://82.146.54.187/tools/record.exe
-http://82.146.54.187/tools/TorrentInjectorSmart.exe
-http://82.146.54.187/tools/ptdb_yandex.exe
-http://82.146.54.187/tools/ptdb_opera.exe
-http://82.146.54.187/tools/ptdb_fire.exe
