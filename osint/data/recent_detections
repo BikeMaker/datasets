@@ -84,7 +84,7 @@
   <input id="is_captcha" name="is_captcha" type="hidden" value="1" />
     <input class="text" id="report-filter" name="site" onFocus="this.value = &#x27;&#x27;" type="text" value="Search website..." />
   <input class="submit-bt" id="add-site" name="commit" type="submit" value="Search" />
-</form><form accept-charset="UTF-8" action="/public/recent_detections" id="search" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Qtt0SyAEhNM8nXmMT9+0LOxmItK0sJhD25VO2wUn7RY=" /></div>
+</form><form accept-charset="UTF-8" action="/public/recent_detections" id="search" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="twN8VnP1jcXjHDll3ajuX+XQRxWtpjrJiDBn2oJeXgk=" /></div>
   <select id="risk" name="risk" onChange="this.form.submit();"><option value="-1">Show all entries</option>
 <option value="2">High Risk entries</option>
 <option value="3">Suspicious entries</option></select>
@@ -96,6 +96,42 @@
     <th>Last Detected At</th>
     <th>Details</th>
   </tr>
+    <tr class="susp-row">
+      <td><span>http://192.185.217.107</span></td>
+      <td>Suspicious</td>
+      <td>2015-06-21 01:56:25 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2F192.185.217.107">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://amorhot.com</span></td>
+      <td>Suspicious</td>
+      <td>2015-06-21 01:54:03 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Famorhot.com">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://aachigroup.com</span></td>
+      <td>Suspicious</td>
+      <td>2015-06-21 01:52:41 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Faachigroup.com">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://3designcenter.com</span></td>
+      <td>Suspicious</td>
+      <td>2015-06-21 01:51:54 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2F3designcenter.com">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
     <tr class="error-row">
       <td><span>http://afyopku.cn</span></td>
       <td>High Risk</td>
@@ -358,15 +394,6 @@
       </td>
     </tr>
     <tr class="susp-row">
-      <td><span>http://3designcenter.com</span></td>
-      <td>Suspicious</td>
-      <td>2015-06-21 00:00:12 UTC</td>
-      <td>
-        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2F3designcenter.com">Suspicious pages were found on this site.</a>
-        <br>
-      </td>
-    </tr>
-    <tr class="susp-row">
       <td><span>http://51shengyi.com</span></td>
       <td>Suspicious</td>
       <td>2015-06-20 23:59:18 UTC</td>
@@ -519,33 +546,6 @@
         <br>
       </td>
     </tr>
-    <tr class="susp-row">
-      <td><span>http://addictedlifetv.com</span></td>
-      <td>Suspicious</td>
-      <td>2015-06-20 21:56:00 UTC</td>
-      <td>
-        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Faddictedlifetv.com">Suspicious pages were found on this site.</a>
-        <br>
-      </td>
-    </tr>
-    <tr class="susp-row">
-      <td><span>http://220.169.245.74</span></td>
-      <td>Suspicious</td>
-      <td>2015-06-20 21:55:54 UTC</td>
-      <td>
-        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2F220.169.245.74">Suspicious pages were found on this site.</a>
-        <br>
-      </td>
-    </tr>
-    <tr class="susp-row">
-      <td><span>http://194.60.242.251</span></td>
-      <td>Suspicious</td>
-      <td>2015-06-20 21:55:51 UTC</td>
-      <td>
-        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2F194.60.242.251">Suspicious pages were found on this site.</a>
-        <br>
-      </td>
-    </tr>
 </table>
 <div id ='pagination'>  
   <div class="pagination ajax"><span class="previous_page disabled"><span class="prev">&lsaquo;</span></span> <em class="current">1</em> <a href="#" onclick="$.ajax({url: &#x27;/public/recent_detections?page=2&#x27;, dataType: &#x27;script&#x27;, type: &#x27;post&#x27;});; return false;" rel="next">2</a> <a href="#" onclick="$.ajax({url: &#x27;/public/recent_detections?page=3&#x27;, dataType: &#x27;script&#x27;, type: &#x27;post&#x27;});; return false;">3</a> <a href="#" onclick="$.ajax({url: &#x27;/public/recent_detections?page=4&#x27;, dataType: &#x27;script&#x27;, type: &#x27;post&#x27;});; return false;">4</a> <a href="#" onclick="$.ajax({url: &#x27;/public/recent_detections?page=5&#x27;, dataType: &#x27;script&#x27;, type: &#x27;post&#x27;});; return false;">5</a> <a href="#" onclick="$.ajax({url: &#x27;/public/recent_detections?page=6&#x27;, dataType: &#x27;script&#x27;, type: &#x27;post&#x27;});; return false;">6</a> <a href="#" onclick="$.ajax({url: &#x27;/public/recent_detections?page=7&#x27;, dataType: &#x27;script&#x27;, type: &#x27;post&#x27;});; return false;">7</a> <a href="#" onclick="$.ajax({url: &#x27;/public/recent_detections?page=8&#x27;, dataType: &#x27;script&#x27;, type: &#x27;post&#x27;});; return false;">8</a> <a href="#" onclick="$.ajax({url: &#x27;/public/recent_detections?page=9&#x27;, dataType: &#x27;script&#x27;, type: &#x27;post&#x27;});; return false;">9</a> <span class="gap">&hellip;</span> <a href="#" onclick="$.ajax({url: &#x27;/public/recent_detections?page=12&#x27;, dataType: &#x27;script&#x27;, type: &#x27;post&#x27;});; return false;">12</a> <a href="#" onclick="$.ajax({url: &#x27;/public/recent_detections?page=13&#x27;, dataType: &#x27;script&#x27;, type: &#x27;post&#x27;});; return false;">13</a> <a class="next_page" href="#" onclick="$.ajax({url: &#x27;/public/recent_detections?page=2&#x27;, dataType: &#x27;script&#x27;, type: &#x27;post&#x27;});; return false;" rel="next"><span class="next">&rsaquo;</span></a></div>
@@ -554,10 +554,10 @@
     </div>
     
 
-<form accept-charset="UTF-8" action="/public/recent_detections" class="page-list" id="form_list36" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Qtt0SyAEhNM8nXmMT9+0LOxmItK0sJhD25VO2wUn7RY=" /></div>
+<form accept-charset="UTF-8" action="/public/recent_detections" class="page-list" id="form_list74" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="twN8VnP1jcXjHDll3ajuX+XQRxWtpjrJiDBn2oJeXgk=" /></div>
   <input type='hidden' name='id' value=''>
   Display
-  <select class="page-list" id="list36" name="list"><option value="10">10 items per page</option>
+  <select class="page-list" id="list74" name="list"><option value="10">10 items per page</option>
 <option value="20">20 items per page</option>
 <option value="30">30 items per page</option>
 <option value="40">40 items per page</option>
