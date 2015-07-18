@@ -64,6 +64,12 @@ bcde.wang.	MX 0 honeypot.example.com. ~
 *.bcde.wang.	MX 0 honeypot.example.com. ~
 bcde.wang.	TXT 'dnshijack : malicious : www.mwsl.org.cn/ : 20150703' ~
 
+kevedorozup.eu.	A 1.2.3.4 ~
+*.kevedorozup.eu.	A 1.2.3.4 ~
+kevedorozup.eu.	MX 0 honeypot.example.com. ~
+*.kevedorozup.eu.	MX 0 honeypot.example.com. ~
+kevedorozup.eu.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 e-cloudfinance.com.br.	A 1.2.3.4 ~
 *.e-cloudfinance.com.br.	A 1.2.3.4 ~
 e-cloudfinance.com.br.	MX 0 honeypot.example.com. ~
@@ -274,6 +280,12 @@ zjbdjd.com.	MX 0 honeypot.example.com. ~
 *.zjbdjd.com.	MX 0 honeypot.example.com. ~
 zjbdjd.com.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150530 : 20150322' ~
 
+storymine.net.	A 1.2.3.4 ~
+*.storymine.net.	A 1.2.3.4 ~
+storymine.net.	MX 0 honeypot.example.com. ~
+*.storymine.net.	MX 0 honeypot.example.com. ~
+storymine.net.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 alsnsb.com.	A 1.2.3.4 ~
 *.alsnsb.com.	A 1.2.3.4 ~
 alsnsb.com.	MX 0 honeypot.example.com. ~
@@ -466,11 +478,23 @@ gopalagribusiness.com.	MX 0 honeypot.example.com. ~
 *.gopalagribusiness.com.	MX 0 honeypot.example.com. ~
 gopalagribusiness.com.	TXT 'dnshijack : malicious : malwareurls.joxeankoret.com/ : 20150609' ~
 
+freshtravel.net.	A 1.2.3.4 ~
+*.freshtravel.net.	A 1.2.3.4 ~
+freshtravel.net.	MX 0 honeypot.example.com. ~
+*.freshtravel.net.	MX 0 honeypot.example.com. ~
+freshtravel.net.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 daizheha.com.	A 1.2.3.4 ~
 *.daizheha.com.	A 1.2.3.4 ~
 daizheha.com.	MX 0 honeypot.example.com. ~
 *.daizheha.com.	MX 0 honeypot.example.com. ~
 daizheha.com.	TXT 'dnshijack : malicious : malc0de.com/ : 20150702 : 20150515' ~
+
+decemberhouse.net.	A 1.2.3.4 ~
+*.decemberhouse.net.	A 1.2.3.4 ~
+decemberhouse.net.	MX 0 honeypot.example.com. ~
+*.decemberhouse.net.	MX 0 honeypot.example.com. ~
+decemberhouse.net.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 www.64mir.com.	A 1.2.3.4 ~
 *.www.64mir.com.	A 1.2.3.4 ~
@@ -694,6 +718,12 @@ divineschool.co.in.	MX 0 honeypot.example.com. ~
 *.divineschool.co.in.	MX 0 honeypot.example.com. ~
 divineschool.co.in.	TXT 'dnshijack : malicious : malwareurls.joxeankoret.com/ : 20150609' ~
 
+youngswanky.com.	A 1.2.3.4 ~
+*.youngswanky.com.	A 1.2.3.4 ~
+youngswanky.com.	MX 0 honeypot.example.com. ~
+*.youngswanky.com.	MX 0 honeypot.example.com. ~
+youngswanky.com.	TXT 'dnshijack : cryptowall : techhelplist.com : 20150705' ~
+
 wf.mail.3goda.host1393062.serv4.hostland.pro.	A 1.2.3.4 ~
 *.wf.mail.3goda.host1393062.serv4.hostland.pro.	A 1.2.3.4 ~
 wf.mail.3goda.host1393062.serv4.hostland.pro.	MX 0 honeypot.example.com. ~
@@ -730,11 +760,23 @@ keitarotds777.onlinepharmacy24h.net.	MX 0 honeypot.example.com. ~
 *.keitarotds777.onlinepharmacy24h.net.	MX 0 honeypot.example.com. ~
 keitarotds777.onlinepharmacy24h.net.	TXT 'dnshijack : malicious : cybercrime-tracker.net/ : 20150702 : 20150426' ~
 
+microforgeandfitting.in.	A 1.2.3.4 ~
+*.microforgeandfitting.in.	A 1.2.3.4 ~
+microforgeandfitting.in.	MX 0 honeypot.example.com. ~
+*.microforgeandfitting.in.	MX 0 honeypot.example.com. ~
+microforgeandfitting.in.	TXT 'dnshijack : cryptowall : techhelplist.com : 20150705' ~
+
 somabiking.co.il.	A 1.2.3.4 ~
 *.somabiking.co.il.	A 1.2.3.4 ~
 somabiking.co.il.	MX 0 honeypot.example.com. ~
 *.somabiking.co.il.	MX 0 honeypot.example.com. ~
 somabiking.co.il.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150613' ~
+
+jeluganusog.eu.	A 1.2.3.4 ~
+*.jeluganusog.eu.	A 1.2.3.4 ~
+jeluganusog.eu.	MX 0 honeypot.example.com. ~
+*.jeluganusog.eu.	MX 0 honeypot.example.com. ~
+jeluganusog.eu.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 enguzelpornolar.com.	A 1.2.3.4 ~
 *.enguzelpornolar.com.	A 1.2.3.4 ~
@@ -772,6 +814,12 @@ presidencycyprus-gov.com.	MX 0 honeypot.example.com. ~
 *.presidencycyprus-gov.com.	MX 0 honeypot.example.com. ~
 presidencycyprus-gov.com.	TXT 'dnshijack : phishing : krebsonsecurity.com : 20150528' ~
 
+mblmvrla.com.	A 1.2.3.4 ~
+*.mblmvrla.com.	A 1.2.3.4 ~
+mblmvrla.com.	MX 0 honeypot.example.com. ~
+*.mblmvrla.com.	MX 0 honeypot.example.com. ~
+mblmvrla.com.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 monzo.cz.	A 1.2.3.4 ~
 *.monzo.cz.	A 1.2.3.4 ~
 monzo.cz.	MX 0 honeypot.example.com. ~
@@ -796,6 +844,12 @@ ycyns.com.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 2015
 *.5000wdy.com.	MX 0 honeypot.example.com. ~
 5000wdy.com.	TXT 'dnshijack : malicious : malwareurls.joxeankoret.com/ : 20150702 : 20150515' ~
 
+granatebit.com.	A 1.2.3.4 ~
+*.granatebit.com.	A 1.2.3.4 ~
+granatebit.com.	MX 0 honeypot.example.com. ~
+*.granatebit.com.	MX 0 honeypot.example.com. ~
+granatebit.com.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 shunvdyw.com.	A 1.2.3.4 ~
 *.shunvdyw.com.	A 1.2.3.4 ~
 shunvdyw.com.	MX 0 honeypot.example.com. ~
@@ -807,6 +861,12 @@ alopsitta.sunnycentr.ru.	A 1.2.3.4 ~
 alopsitta.sunnycentr.ru.	MX 0 honeypot.example.com. ~
 *.alopsitta.sunnycentr.ru.	MX 0 honeypot.example.com. ~
 alopsitta.sunnycentr.ru.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150702 : 20150502' ~
+
+facewash.net.	A 1.2.3.4 ~
+*.facewash.net.	A 1.2.3.4 ~
+facewash.net.	MX 0 honeypot.example.com. ~
+*.facewash.net.	MX 0 honeypot.example.com. ~
+facewash.net.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 8abc.wang.	A 1.2.3.4 ~
 *.8abc.wang.	A 1.2.3.4 ~
@@ -958,6 +1018,12 @@ allsmail.com.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 2
 *.38popugaev.mobi.	MX 0 honeypot.example.com. ~
 38popugaev.mobi.	TXT 'dnshijack : attackpage : safebrowsing.google.com : 20150530 : 20150307 : 20141213' ~
 
+kiqousdgis.com.	A 1.2.3.4 ~
+*.kiqousdgis.com.	A 1.2.3.4 ~
+kiqousdgis.com.	MX 0 honeypot.example.com. ~
+*.kiqousdgis.com.	MX 0 honeypot.example.com. ~
+kiqousdgis.com.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 10results.info.	A 1.2.3.4 ~
 *.10results.info.	A 1.2.3.4 ~
 10results.info.	MX 0 honeypot.example.com. ~
@@ -1011,6 +1077,12 @@ oko1122.com.	A 1.2.3.4 ~
 oko1122.com.	MX 0 honeypot.example.com. ~
 *.oko1122.com.	MX 0 honeypot.example.com. ~
 oko1122.com.	TXT 'dnshijack : malware : malwareurls.joxeankoret.com/ : 20150702 : 20150508' ~
+
+mamixikusah.eu.	A 1.2.3.4 ~
+*.mamixikusah.eu.	A 1.2.3.4 ~
+mamixikusah.eu.	MX 0 honeypot.example.com. ~
+*.mamixikusah.eu.	MX 0 honeypot.example.com. ~
+mamixikusah.eu.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 onetouchlife.com.	A 1.2.3.4 ~
 *.onetouchlife.com.	A 1.2.3.4 ~
@@ -1372,6 +1444,12 @@ c-get.com.	MX 0 honeypot.example.com. ~
 *.c-get.com.	MX 0 honeypot.example.com. ~
 c-get.com.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150702 : 20150407' ~
 
+xuqufyduras.eu.	A 1.2.3.4 ~
+*.xuqufyduras.eu.	A 1.2.3.4 ~
+xuqufyduras.eu.	MX 0 honeypot.example.com. ~
+*.xuqufyduras.eu.	MX 0 honeypot.example.com. ~
+xuqufyduras.eu.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 zjkxlzxw.com.	A 1.2.3.4 ~
 *.zjkxlzxw.com.	A 1.2.3.4 ~
 zjkxlzxw.com.	MX 0 honeypot.example.com. ~
@@ -1516,6 +1594,12 @@ urschma.moongroup.ru.	MX 0 honeypot.example.com. ~
 *.urschma.moongroup.ru.	MX 0 honeypot.example.com. ~
 urschma.moongroup.ru.	TXT 'dnshijack : malicious : malwareurls.joxeankoret.com/ : 20150609' ~
 
+recognitionplate.com.	A 1.2.3.4 ~
+*.recognitionplate.com.	A 1.2.3.4 ~
+recognitionplate.com.	MX 0 honeypot.example.com. ~
+*.recognitionplate.com.	MX 0 honeypot.example.com. ~
+recognitionplate.com.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 xiao2013-05.yxdown.cn.	A 1.2.3.4 ~
 *.xiao2013-05.yxdown.cn.	A 1.2.3.4 ~
 xiao2013-05.yxdown.cn.	MX 0 honeypot.example.com. ~
@@ -1618,6 +1702,12 @@ bjhh998.com.	MX 0 honeypot.example.com. ~
 *.bjhh998.com.	MX 0 honeypot.example.com. ~
 bjhh998.com.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150702 : 20150407' ~
 
+bd.fxxz.com.	A 1.2.3.4 ~
+*.bd.fxxz.com.	A 1.2.3.4 ~
+bd.fxxz.com.	MX 0 honeypot.example.com. ~
+*.bd.fxxz.com.	MX 0 honeypot.example.com. ~
+bd.fxxz.com.	TXT 'dnshijack : attack_page : www.google.com/safebrowsing : 20150705' ~
+
 deblokgsm.free.fr.	A 1.2.3.4 ~
 *.deblokgsm.free.fr.	A 1.2.3.4 ~
 deblokgsm.free.fr.	MX 0 honeypot.example.com. ~
@@ -1629,6 +1719,12 @@ deblokgsm.free.fr.	TXT 'dnshijack : attack_page : www.google.com/safebrowsing : 
 51mutuo.zggys.com.	MX 0 honeypot.example.com. ~
 *.51mutuo.zggys.com.	MX 0 honeypot.example.com. ~
 51mutuo.zggys.com.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150530 : 20150322' ~
+
+update-windows-microsoft.com.	A 1.2.3.4 ~
+*.update-windows-microsoft.com.	A 1.2.3.4 ~
+update-windows-microsoft.com.	MX 0 honeypot.example.com. ~
+*.update-windows-microsoft.com.	MX 0 honeypot.example.com. ~
+update-windows-microsoft.com.	TXT 'dnshijack : malicious : malwr.com : 20150708' ~
 
 xiao2012-06.yxdown.cn.	A 1.2.3.4 ~
 *.xiao2012-06.yxdown.cn.	A 1.2.3.4 ~
@@ -1732,6 +1828,12 @@ gtp20.com.	MX 0 honeypot.example.com. ~
 *.gtp20.com.	MX 0 honeypot.example.com. ~
 gtp20.com.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150702 : 20150407' ~
 
+partytravel.net.	A 1.2.3.4 ~
+*.partytravel.net.	A 1.2.3.4 ~
+partytravel.net.	MX 0 honeypot.example.com. ~
+*.partytravel.net.	MX 0 honeypot.example.com. ~
+partytravel.net.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 jeanrey.fr.	A 1.2.3.4 ~
 *.jeanrey.fr.	A 1.2.3.4 ~
 jeanrey.fr.	MX 0 honeypot.example.com. ~
@@ -1767,6 +1869,12 @@ anhui-rili.com.	A 1.2.3.4 ~
 anhui-rili.com.	MX 0 honeypot.example.com. ~
 *.anhui-rili.com.	MX 0 honeypot.example.com. ~
 anhui-rili.com.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150530 : 20150327' ~
+
+mggproperties.com.	A 1.2.3.4 ~
+*.mggproperties.com.	A 1.2.3.4 ~
+mggproperties.com.	MX 0 honeypot.example.com. ~
+*.mggproperties.com.	MX 0 honeypot.example.com. ~
+mggproperties.com.	TXT 'dnshijack : cryptowall : techhelplist.com : 20150705' ~
 
 in.verify.apple.com.beninejeans.com.br.	A 1.2.3.4 ~
 *.in.verify.apple.com.beninejeans.com.br.	A 1.2.3.4 ~
@@ -1876,6 +1984,18 @@ www.doctorvj.com.	MX 0 honeypot.example.com. ~
 *.www.doctorvj.com.	MX 0 honeypot.example.com. ~
 www.doctorvj.com.	TXT 'dnshijack : malicious : malwareurls.joxeankoret.com : 20150530 : 20150315' ~
 
+dgscodhlppkk.com.	A 1.2.3.4 ~
+*.dgscodhlppkk.com.	A 1.2.3.4 ~
+dgscodhlppkk.com.	MX 0 honeypot.example.com. ~
+*.dgscodhlppkk.com.	MX 0 honeypot.example.com. ~
+dgscodhlppkk.com.	TXT 'dnshijack : c&c : private : 20150708' ~
+
+facelive.net.	A 1.2.3.4 ~
+*.facelive.net.	A 1.2.3.4 ~
+facelive.net.	MX 0 honeypot.example.com. ~
+*.facelive.net.	MX 0 honeypot.example.com. ~
+facelive.net.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 63810.com.	A 1.2.3.4 ~
 *.63810.com.	A 1.2.3.4 ~
 63810.com.	MX 0 honeypot.example.com. ~
@@ -1948,6 +2068,12 @@ kingpinmetal.com.	MX 0 honeypot.example.com. ~
 *.kingpinmetal.com.	MX 0 honeypot.example.com. ~
 kingpinmetal.com.	TXT 'dnshijack : attack_page : www.google.com/safebrowsing : 20150530 : 20150326' ~
 
+iausamajgsh.com.	A 1.2.3.4 ~
+*.iausamajgsh.com.	A 1.2.3.4 ~
+iausamajgsh.com.	MX 0 honeypot.example.com. ~
+*.iausamajgsh.com.	MX 0 honeypot.example.com. ~
+iausamajgsh.com.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 revistacannicas.com.ar.	A 1.2.3.4 ~
 *.revistacannicas.com.ar.	A 1.2.3.4 ~
 revistacannicas.com.ar.	MX 0 honeypot.example.com. ~
@@ -1965,6 +2091,12 @@ dlhuafu.cn.	A 1.2.3.4 ~
 dlhuafu.cn.	MX 0 honeypot.example.com. ~
 *.dlhuafu.cn.	MX 0 honeypot.example.com. ~
 dlhuafu.cn.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150702 : 20150407' ~
+
+kiaosigusisdf.com.	A 1.2.3.4 ~
+*.kiaosigusisdf.com.	A 1.2.3.4 ~
+kiaosigusisdf.com.	MX 0 honeypot.example.com. ~
+*.kiaosigusisdf.com.	MX 0 honeypot.example.com. ~
+kiaosigusisdf.com.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 eco-vard.ru.	A 1.2.3.4 ~
 *.eco-vard.ru.	A 1.2.3.4 ~
@@ -2067,6 +2199,12 @@ web2prox.com.	A 1.2.3.4 ~
 web2prox.com.	MX 0 honeypot.example.com. ~
 *.web2prox.com.	MX 0 honeypot.example.com. ~
 web2prox.com.	TXT 'dnshijack : malicious : malwareurls.joxeankoret.com/ : 20150609' ~
+
+lykil.eu.	A 1.2.3.4 ~
+*.lykil.eu.	A 1.2.3.4 ~
+lykil.eu.	MX 0 honeypot.example.com. ~
+*.lykil.eu.	MX 0 honeypot.example.com. ~
+lykil.eu.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 ynrenai.net.	A 1.2.3.4 ~
 *.ynrenai.net.	A 1.2.3.4 ~
@@ -2175,6 +2313,12 @@ ccs.org.nz.	A 1.2.3.4 ~
 ccs.org.nz.	MX 0 honeypot.example.com. ~
 *.ccs.org.nz.	MX 0 honeypot.example.com. ~
 ccs.org.nz.	TXT 'dnshijack : malicious : malwareurls.joxeankoret.com : 20150530 : 20150322' ~
+
+lyrex.eu.	A 1.2.3.4 ~
+*.lyrex.eu.	A 1.2.3.4 ~
+lyrex.eu.	MX 0 honeypot.example.com. ~
+*.lyrex.eu.	MX 0 honeypot.example.com. ~
+lyrex.eu.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 fr-service-espaceclientv3orangefridcontrat3346529pagenec.holismo.com.br.	A 1.2.3.4 ~
 *.fr-service-espaceclientv3orangefridcontrat3346529pagenec.holismo.com.br.	A 1.2.3.4 ~
@@ -2404,6 +2548,12 @@ ellokal.com.	MX 0 honeypot.example.com. ~
 *.ellokal.com.	MX 0 honeypot.example.com. ~
 ellokal.com.	TXT 'dnshijack : malicious : malwareurls.joxeankoret.com/ : 20150609' ~
 
+deephouse.net.	A 1.2.3.4 ~
+*.deephouse.net.	A 1.2.3.4 ~
+deephouse.net.	MX 0 honeypot.example.com. ~
+*.deephouse.net.	MX 0 honeypot.example.com. ~
+deephouse.net.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 get.yourdownmanage.com.	A 1.2.3.4 ~
 *.get.yourdownmanage.com.	A 1.2.3.4 ~
 get.yourdownmanage.com.	MX 0 honeypot.example.com. ~
@@ -2500,6 +2650,18 @@ resoki.longpaidoors.com.	MX 0 honeypot.example.com. ~
 *.resoki.longpaidoors.com.	MX 0 honeypot.example.com. ~
 resoki.longpaidoors.com.	TXT 'dnshijack : malicious : www.mwsl.org.cn/ : 20150702 : 20150413' ~
 
+smokestation.net.	A 1.2.3.4 ~
+*.smokestation.net.	A 1.2.3.4 ~
+smokestation.net.	MX 0 honeypot.example.com. ~
+*.smokestation.net.	MX 0 honeypot.example.com. ~
+smokestation.net.	TXT 'dnshijack : c&c : private : 20150708' ~
+
+fieldback.net.	A 1.2.3.4 ~
+*.fieldback.net.	A 1.2.3.4 ~
+fieldback.net.	MX 0 honeypot.example.com. ~
+*.fieldback.net.	MX 0 honeypot.example.com. ~
+fieldback.net.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 rodrisaconsulting.com.	A 1.2.3.4 ~
 *.rodrisaconsulting.com.	A 1.2.3.4 ~
 rodrisaconsulting.com.	MX 0 honeypot.example.com. ~
@@ -2548,17 +2710,35 @@ teste.pro.br.	MX 0 honeypot.example.com. ~
 *.teste.pro.br.	MX 0 honeypot.example.com. ~
 teste.pro.br.	TXT 'dnshijack : malicious : malwareurls.joxeankoret.com/ : 20150609' ~
 
+afterrain.net.	A 1.2.3.4 ~
+*.afterrain.net.	A 1.2.3.4 ~
+afterrain.net.	MX 0 honeypot.example.com. ~
+*.afterrain.net.	MX 0 honeypot.example.com. ~
+afterrain.net.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 www.tianwing.net.	A 1.2.3.4 ~
 *.www.tianwing.net.	A 1.2.3.4 ~
 www.tianwing.net.	MX 0 honeypot.example.com. ~
 *.www.tianwing.net.	MX 0 honeypot.example.com. ~
 www.tianwing.net.	TXT 'dnshijack : malicious : malwareurls.joxeankoret.com : 20150530 : 20150315' ~
 
+lyxos.eu.	A 1.2.3.4 ~
+*.lyxos.eu.	A 1.2.3.4 ~
+lyxos.eu.	MX 0 honeypot.example.com. ~
+*.lyxos.eu.	MX 0 honeypot.example.com. ~
+lyxos.eu.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 aurentia.ronin-file.ru.	A 1.2.3.4 ~
 *.aurentia.ronin-file.ru.	A 1.2.3.4 ~
 aurentia.ronin-file.ru.	MX 0 honeypot.example.com. ~
 *.aurentia.ronin-file.ru.	MX 0 honeypot.example.com. ~
 aurentia.ronin-file.ru.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150702 : 20150502' ~
+
+dscwgodlllls.net.	A 1.2.3.4 ~
+*.dscwgodlllls.net.	A 1.2.3.4 ~
+dscwgodlllls.net.	MX 0 honeypot.example.com. ~
+*.dscwgodlllls.net.	MX 0 honeypot.example.com. ~
+dscwgodlllls.net.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 www.tradingdirects.co.uk.	A 1.2.3.4 ~
 *.www.tradingdirects.co.uk.	A 1.2.3.4 ~
@@ -2589,6 +2769,12 @@ com-92t.net.	TXT 'dnshijack : malspam : www.mywot.com : 20150607' ~
 4006868488.cn.	MX 0 honeypot.example.com. ~
 *.4006868488.cn.	MX 0 honeypot.example.com. ~
 4006868488.cn.	TXT 'dnshijack : harmful : safebrowsing.clients.google.com : 20150530 : 20150320' ~
+
+htgyaukgtefif.com.	A 1.2.3.4 ~
+*.htgyaukgtefif.com.	A 1.2.3.4 ~
+htgyaukgtefif.com.	MX 0 honeypot.example.com. ~
+*.htgyaukgtefif.com.	MX 0 honeypot.example.com. ~
+htgyaukgtefif.com.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 photos2015816858.com.	A 1.2.3.4 ~
 *.photos2015816858.com.	A 1.2.3.4 ~
@@ -2710,6 +2896,12 @@ boruntrading.com.	MX 0 honeypot.example.com. ~
 *.boruntrading.com.	MX 0 honeypot.example.com. ~
 boruntrading.com.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150702 : 20150407' ~
 
+magaligilbert.com.	A 1.2.3.4 ~
+*.magaligilbert.com.	A 1.2.3.4 ~
+magaligilbert.com.	MX 0 honeypot.example.com. ~
+*.magaligilbert.com.	MX 0 honeypot.example.com. ~
+magaligilbert.com.	TXT 'dnshijack : cryptowall : techhelplist.com : 20150705' ~
+
 nanoputanas.com.	A 1.2.3.4 ~
 *.nanoputanas.com.	A 1.2.3.4 ~
 nanoputanas.com.	MX 0 honeypot.example.com. ~
@@ -2770,6 +2962,12 @@ w.mcdir.ru.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 201
 *.626217.com.	MX 0 honeypot.example.com. ~
 626217.com.	TXT 'dnshijack : attackpage : safebrowsing.google.com : 20150530 : 20150307 : 20141213' ~
 
+researchaward.com.	A 1.2.3.4 ~
+*.researchaward.com.	A 1.2.3.4 ~
+researchaward.com.	MX 0 honeypot.example.com. ~
+*.researchaward.com.	MX 0 honeypot.example.com. ~
+researchaward.com.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 com-f0k.net.	A 1.2.3.4 ~
 *.com-f0k.net.	A 1.2.3.4 ~
 com-f0k.net.	MX 0 honeypot.example.com. ~
@@ -2800,6 +2998,18 @@ bytim.net.	MX 0 honeypot.example.com. ~
 *.bytim.net.	MX 0 honeypot.example.com. ~
 bytim.net.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150702 : 20150502' ~
 
+storestteampowered.com.	A 1.2.3.4 ~
+*.storestteampowered.com.	A 1.2.3.4 ~
+storestteampowered.com.	MX 0 honeypot.example.com. ~
+*.storestteampowered.com.	MX 0 honeypot.example.com. ~
+storestteampowered.com.	TXT 'dnshijack : attack_page : www.google.com/safebrowsing : 20150705' ~
+
+bblogspot.com.	A 1.2.3.4 ~
+*.bblogspot.com.	A 1.2.3.4 ~
+bblogspot.com.	MX 0 honeypot.example.com. ~
+*.bblogspot.com.	MX 0 honeypot.example.com. ~
+bblogspot.com.	TXT 'dnshijack : attack_page : www.google.com/safebrowsing : 20150705' ~
+
 confidential101.com.	A 1.2.3.4 ~
 *.confidential101.com.	A 1.2.3.4 ~
 confidential101.com.	MX 0 honeypot.example.com. ~
@@ -2811,6 +3021,12 @@ paraisodasemocoes.com.br.	A 1.2.3.4 ~
 paraisodasemocoes.com.br.	MX 0 honeypot.example.com. ~
 *.paraisodasemocoes.com.br.	MX 0 honeypot.example.com. ~
 paraisodasemocoes.com.br.	TXT 'dnshijack : malicious : malwareurls.joxeankoret.com/ : 20150609' ~
+
+jsngshsyajngs.com.	A 1.2.3.4 ~
+*.jsngshsyajngs.com.	A 1.2.3.4 ~
+jsngshsyajngs.com.	MX 0 honeypot.example.com. ~
+*.jsngshsyajngs.com.	MX 0 honeypot.example.com. ~
+jsngshsyajngs.com.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 yuankouvip.com.	A 1.2.3.4 ~
 *.yuankouvip.com.	A 1.2.3.4 ~
@@ -2847,6 +3063,12 @@ go.jxvector.com.	A 1.2.3.4 ~
 go.jxvector.com.	MX 0 honeypot.example.com. ~
 *.go.jxvector.com.	MX 0 honeypot.example.com. ~
 go.jxvector.com.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150702 : 20150407' ~
+
+getadobeflashplayer.net.	A 1.2.3.4 ~
+*.getadobeflashplayer.net.	A 1.2.3.4 ~
+getadobeflashplayer.net.	MX 0 honeypot.example.com. ~
+*.getadobeflashplayer.net.	MX 0 honeypot.example.com. ~
+getadobeflashplayer.net.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 3yyj.cn.	A 1.2.3.4 ~
 *.3yyj.cn.	A 1.2.3.4 ~
@@ -2992,6 +3214,12 @@ www.alecctv.com.	MX 0 honeypot.example.com. ~
 *.www.alecctv.com.	MX 0 honeypot.example.com. ~
 www.alecctv.com.	TXT 'dnshijack : phishing : www.phishtank.com : 20150702 : 20150502' ~
 
+beticsbreak.gq.	A 1.2.3.4 ~
+*.beticsbreak.gq.	A 1.2.3.4 ~
+beticsbreak.gq.	MX 0 honeypot.example.com. ~
+*.beticsbreak.gq.	MX 0 honeypot.example.com. ~
+beticsbreak.gq.	TXT 'dnshijack : attack_page : www.google.com/safebrowsing : 20150705' ~
+
 azb.strony.tx.pl.	A 1.2.3.4 ~
 *.azb.strony.tx.pl.	A 1.2.3.4 ~
 azb.strony.tx.pl.	MX 0 honeypot.example.com. ~
@@ -3051,6 +3279,12 @@ dljsysj.com.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20
 009blog.com.	MX 0 honeypot.example.com. ~
 *.009blog.com.	MX 0 honeypot.example.com. ~
 009blog.com.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150530 : 20150322' ~
+
+iavtuhrcy.com.	A 1.2.3.4 ~
+*.iavtuhrcy.com.	A 1.2.3.4 ~
+iavtuhrcy.com.	MX 0 honeypot.example.com. ~
+*.iavtuhrcy.com.	MX 0 honeypot.example.com. ~
+iavtuhrcy.com.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 tauvhk.com.	A 1.2.3.4 ~
 *.tauvhk.com.	A 1.2.3.4 ~
@@ -3177,6 +3411,12 @@ lousecn.cn.	A 1.2.3.4 ~
 lousecn.cn.	MX 0 honeypot.example.com. ~
 *.lousecn.cn.	MX 0 honeypot.example.com. ~
 lousecn.cn.	TXT 'dnshijack : attack_page : www.google.com/safebrowsing : 20150530 : 20150326' ~
+
+lovely-cards.de.	A 1.2.3.4 ~
+*.lovely-cards.de.	A 1.2.3.4 ~
+lovely-cards.de.	MX 0 honeypot.example.com. ~
+*.lovely-cards.de.	MX 0 honeypot.example.com. ~
+lovely-cards.de.	TXT 'dnshijack : cryptowall : techhelplist.com : 20150705' ~
 
 gdrw4no.com.cn.	A 1.2.3.4 ~
 *.gdrw4no.com.cn.	A 1.2.3.4 ~
@@ -3394,6 +3634,12 @@ lio888.com.	MX 0 honeypot.example.com. ~
 *.lio888.com.	MX 0 honeypot.example.com. ~
 lio888.com.	TXT 'dnshijack : malicious : malwareurls.joxeankoret.com/ : 20150702 : 20150515' ~
 
+womanspace.net.	A 1.2.3.4 ~
+*.womanspace.net.	A 1.2.3.4 ~
+womanspace.net.	MX 0 honeypot.example.com. ~
+*.womanspace.net.	MX 0 honeypot.example.com. ~
+womanspace.net.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 www198.jixnbl.com.	A 1.2.3.4 ~
 *.www198.jixnbl.com.	A 1.2.3.4 ~
 www198.jixnbl.com.	MX 0 honeypot.example.com. ~
@@ -3423,6 +3669,12 @@ guliverservice2017q.com.	A 1.2.3.4 ~
 guliverservice2017q.com.	MX 0 honeypot.example.com. ~
 *.guliverservice2017q.com.	MX 0 honeypot.example.com. ~
 guliverservice2017q.com.	TXT 'dnshijack : pkybot : www.spamhaus.org/ : 20150628' ~
+
+edkomfepxxww.com.	A 1.2.3.4 ~
+*.edkomfepxxww.com.	A 1.2.3.4 ~
+edkomfepxxww.com.	MX 0 honeypot.example.com. ~
+*.edkomfepxxww.com.	MX 0 honeypot.example.com. ~
+edkomfepxxww.com.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 1ym.net.	A 1.2.3.4 ~
 *.1ym.net.	A 1.2.3.4 ~
@@ -3688,6 +3940,12 @@ haixingguoji.com.	MX 0 honeypot.example.com. ~
 *.haixingguoji.com.	MX 0 honeypot.example.com. ~
 haixingguoji.com.	TXT 'dnshijack : attack_page : www.google.com/safebrowsing : 20150530 : 20150326' ~
 
+vu5r3lgegi2mx9n.net.	A 1.2.3.4 ~
+*.vu5r3lgegi2mx9n.net.	A 1.2.3.4 ~
+vu5r3lgegi2mx9n.net.	MX 0 honeypot.example.com. ~
+*.vu5r3lgegi2mx9n.net.	MX 0 honeypot.example.com. ~
+vu5r3lgegi2mx9n.net.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 api.playermagno.com.	A 1.2.3.4 ~
 *.api.playermagno.com.	A 1.2.3.4 ~
 api.playermagno.com.	MX 0 honeypot.example.com. ~
@@ -3711,6 +3969,12 @@ cesarcell.ru.	A 1.2.3.4 ~
 cesarcell.ru.	MX 0 honeypot.example.com. ~
 *.cesarcell.ru.	MX 0 honeypot.example.com. ~
 cesarcell.ru.	TXT 'dnshijack : zemot : www.spamhaus.org/ : 20150528' ~
+
+bfoxyvqtolmn.com.	A 1.2.3.4 ~
+*.bfoxyvqtolmn.com.	A 1.2.3.4 ~
+bfoxyvqtolmn.com.	MX 0 honeypot.example.com. ~
+*.bfoxyvqtolmn.com.	MX 0 honeypot.example.com. ~
+bfoxyvqtolmn.com.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 ztkmne.com.	A 1.2.3.4 ~
 *.ztkmne.com.	A 1.2.3.4 ~
@@ -3753,6 +4017,12 @@ hfdjs.com.	A 1.2.3.4 ~
 hfdjs.com.	MX 0 honeypot.example.com. ~
 *.hfdjs.com.	MX 0 honeypot.example.com. ~
 hfdjs.com.	TXT 'dnshijack : attack_page : www.google.com/safebrowsing : 20150530 : 20150326' ~
+
+cidehoc.info.	A 1.2.3.4 ~
+*.cidehoc.info.	A 1.2.3.4 ~
+cidehoc.info.	MX 0 honeypot.example.com. ~
+*.cidehoc.info.	MX 0 honeypot.example.com. ~
+cidehoc.info.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 hymedoraw.com.	A 1.2.3.4 ~
 *.hymedoraw.com.	A 1.2.3.4 ~
@@ -3831,6 +4101,12 @@ xxrentioo.com.	A 1.2.3.4 ~
 xxrentioo.com.	MX 0 honeypot.example.com. ~
 *.xxrentioo.com.	MX 0 honeypot.example.com. ~
 xxrentioo.com.	TXT 'dnshijack : malicious : malwareurls.joxeankoret.com/ : 20150702 : 20150511' ~
+
+selllive.net.	A 1.2.3.4 ~
+*.selllive.net.	A 1.2.3.4 ~
+selllive.net.	MX 0 honeypot.example.com. ~
+*.selllive.net.	MX 0 honeypot.example.com. ~
+selllive.net.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 hyjmmeter.com.	A 1.2.3.4 ~
 *.hyjmmeter.com.	A 1.2.3.4 ~
@@ -4030,6 +4306,12 @@ nicaimm.com.	MX 0 honeypot.example.com. ~
 *.nicaimm.com.	MX 0 honeypot.example.com. ~
 nicaimm.com.	TXT 'dnshijack : malicious : malwareurls.joxeankoret.com/ : 20150702 : 20150515' ~
 
+quality-building.com.	A 1.2.3.4 ~
+*.quality-building.com.	A 1.2.3.4 ~
+quality-building.com.	MX 0 honeypot.example.com. ~
+*.quality-building.com.	MX 0 honeypot.example.com. ~
+quality-building.com.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 xiazhai.tuizhong.com.	A 1.2.3.4 ~
 *.xiazhai.tuizhong.com.	A 1.2.3.4 ~
 xiazhai.tuizhong.com.	MX 0 honeypot.example.com. ~
@@ -4150,6 +4432,18 @@ shanshangarments.com.	MX 0 honeypot.example.com. ~
 *.shanshangarments.com.	MX 0 honeypot.example.com. ~
 shanshangarments.com.	TXT 'dnshijack : malicious : malwareurls.joxeankoret.com/ : 20150609' ~
 
+driveshot.net.	A 1.2.3.4 ~
+*.driveshot.net.	A 1.2.3.4 ~
+driveshot.net.	MX 0 honeypot.example.com. ~
+*.driveshot.net.	MX 0 honeypot.example.com. ~
+driveshot.net.	TXT 'dnshijack : c&c : private : 20150708' ~
+
+metintekstil.com.tr.	A 1.2.3.4 ~
+*.metintekstil.com.tr.	A 1.2.3.4 ~
+metintekstil.com.tr.	MX 0 honeypot.example.com. ~
+*.metintekstil.com.tr.	MX 0 honeypot.example.com. ~
+metintekstil.com.tr.	TXT 'dnshijack : attack_page : www.google.com/safebrowsing : 20150705' ~
+
 pakitoday.com.	A 1.2.3.4 ~
 *.pakitoday.com.	A 1.2.3.4 ~
 pakitoday.com.	MX 0 honeypot.example.com. ~
@@ -4179,6 +4473,12 @@ xxddoo.com.	A 1.2.3.4 ~
 xxddoo.com.	MX 0 honeypot.example.com. ~
 *.xxddoo.com.	MX 0 honeypot.example.com. ~
 xxddoo.com.	TXT 'dnshijack : malicious : malwareurls.joxeankoret.com/ : 20150702 : 20150511' ~
+
+bolizarsospos.com.	A 1.2.3.4 ~
+*.bolizarsospos.com.	A 1.2.3.4 ~
+bolizarsospos.com.	MX 0 honeypot.example.com. ~
+*.bolizarsospos.com.	MX 0 honeypot.example.com. ~
+bolizarsospos.com.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 tedaobeta.xpg.uol.com.br.	A 1.2.3.4 ~
 *.tedaobeta.xpg.uol.com.br.	A 1.2.3.4 ~
@@ -4252,6 +4552,12 @@ xiao2013-17.yxdown.cn.	MX 0 honeypot.example.com. ~
 *.xiao2013-17.yxdown.cn.	MX 0 honeypot.example.com. ~
 xiao2013-17.yxdown.cn.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150530 : 20150327' ~
 
+christcommunitycogic.org.	A 1.2.3.4 ~
+*.christcommunitycogic.org.	A 1.2.3.4 ~
+christcommunitycogic.org.	MX 0 honeypot.example.com. ~
+*.christcommunitycogic.org.	MX 0 honeypot.example.com. ~
+christcommunitycogic.org.	TXT 'dnshijack : cryptowall : techhelplist.com : 20150705' ~
+
 santanders-service.com.	A 1.2.3.4 ~
 *.santanders-service.com.	A 1.2.3.4 ~
 santanders-service.com.	MX 0 honeypot.example.com. ~
@@ -4311,6 +4617,12 @@ lclled.com.	A 1.2.3.4 ~
 lclled.com.	MX 0 honeypot.example.com. ~
 *.lclled.com.	MX 0 honeypot.example.com. ~
 lclled.com.	TXT 'dnshijack : attack_page : www.google.com/safebrowsing : 20150530 : 20150326' ~
+
+craspatsp.com.	A 1.2.3.4 ~
+*.craspatsp.com.	A 1.2.3.4 ~
+craspatsp.com.	MX 0 honeypot.example.com. ~
+*.craspatsp.com.	MX 0 honeypot.example.com. ~
+craspatsp.com.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 icioudlogin.us.	A 1.2.3.4 ~
 *.icioudlogin.us.	A 1.2.3.4 ~
@@ -4564,6 +4876,12 @@ glok12.ru.	TXT 'dnshijack : malicious : safebrowsing.clients.google.com : 201506
 *.14198.com.	MX 0 honeypot.example.com. ~
 14198.com.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150530 : 20150322' ~
 
+bbevillea.vardtorg.ru.	A 1.2.3.4 ~
+*.bbevillea.vardtorg.ru.	A 1.2.3.4 ~
+bbevillea.vardtorg.ru.	MX 0 honeypot.example.com. ~
+*.bbevillea.vardtorg.ru.	MX 0 honeypot.example.com. ~
+bbevillea.vardtorg.ru.	TXT 'dnshijack : attack_page : www.google.com/safebrowsing : 20150705' ~
+
 webhostingmanagment3.ru.	A 1.2.3.4 ~
 *.webhostingmanagment3.ru.	A 1.2.3.4 ~
 webhostingmanagment3.ru.	MX 0 honeypot.example.com. ~
@@ -4582,11 +4900,23 @@ www.bancomers-enlinea-mx-net.net.	MX 0 honeypot.example.com. ~
 *.www.bancomers-enlinea-mx-net.net.	MX 0 honeypot.example.com. ~
 www.bancomers-enlinea-mx-net.net.	TXT 'dnshijack : malicious : intel.criticalstack.com : 20150702 : 20150502' ~
 
+mrueewva.com.	A 1.2.3.4 ~
+*.mrueewva.com.	A 1.2.3.4 ~
+mrueewva.com.	MX 0 honeypot.example.com. ~
+*.mrueewva.com.	MX 0 honeypot.example.com. ~
+mrueewva.com.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 pharmaspan.com.	A 1.2.3.4 ~
 *.pharmaspan.com.	A 1.2.3.4 ~
 pharmaspan.com.	MX 0 honeypot.example.com. ~
 *.pharmaspan.com.	MX 0 honeypot.example.com. ~
 pharmaspan.com.	TXT 'dnshijack : zeus : www.spamhaus.org/ : 20150628' ~
+
+purex.eu.	A 1.2.3.4 ~
+*.purex.eu.	A 1.2.3.4 ~
+purex.eu.	MX 0 honeypot.example.com. ~
+*.purex.eu.	MX 0 honeypot.example.com. ~
+purex.eu.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 dgdyhr.com.	A 1.2.3.4 ~
 *.dgdyhr.com.	A 1.2.3.4 ~
@@ -4623,6 +4953,12 @@ sea-songs.ru.	A 1.2.3.4 ~
 sea-songs.ru.	MX 0 honeypot.example.com. ~
 *.sea-songs.ru.	MX 0 honeypot.example.com. ~
 sea-songs.ru.	TXT 'dnshijack : zemot : www.spamhaus.org/ : 20150528' ~
+
+sellback.net.	A 1.2.3.4 ~
+*.sellback.net.	A 1.2.3.4 ~
+sellback.net.	MX 0 honeypot.example.com. ~
+*.sellback.net.	MX 0 honeypot.example.com. ~
+sellback.net.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 ourgenstatsstorage.com.	A 1.2.3.4 ~
 *.ourgenstatsstorage.com.	A 1.2.3.4 ~
@@ -4695,6 +5031,12 @@ v1.development.zee.divshot.io.	A 1.2.3.4 ~
 v1.development.zee.divshot.io.	MX 0 honeypot.example.com. ~
 *.v1.development.zee.divshot.io.	MX 0 honeypot.example.com. ~
 v1.development.zee.divshot.io.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150613' ~
+
+matheusprado.net.	A 1.2.3.4 ~
+*.matheusprado.net.	A 1.2.3.4 ~
+matheusprado.net.	MX 0 honeypot.example.com. ~
+*.matheusprado.net.	MX 0 honeypot.example.com. ~
+matheusprado.net.	TXT 'dnshijack : cryptowall : techhelplist.com : 20150705' ~
 
 wellsfrgoinfo.com.	A 1.2.3.4 ~
 *.wellsfrgoinfo.com.	A 1.2.3.4 ~
@@ -4816,6 +5158,12 @@ ministry-offinance.net.	MX 0 honeypot.example.com. ~
 *.ministry-offinance.net.	MX 0 honeypot.example.com. ~
 ministry-offinance.net.	TXT 'dnshijack : phishing : krebsonsecurity.com : 20150528' ~
 
+meyoxpuerpev.biz.	A 1.2.3.4 ~
+*.meyoxpuerpev.biz.	A 1.2.3.4 ~
+meyoxpuerpev.biz.	MX 0 honeypot.example.com. ~
+*.meyoxpuerpev.biz.	MX 0 honeypot.example.com. ~
+meyoxpuerpev.biz.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 terlino-serut2312.com.	A 1.2.3.4 ~
 *.terlino-serut2312.com.	A 1.2.3.4 ~
 terlino-serut2312.com.	MX 0 honeypot.example.com. ~
@@ -4935,6 +5283,12 @@ keys4nod.ru.	A 1.2.3.4 ~
 keys4nod.ru.	MX 0 honeypot.example.com. ~
 *.keys4nod.ru.	MX 0 honeypot.example.com. ~
 keys4nod.ru.	TXT 'dnshijack : malicious : malwareurls.joxeankoret.com/domains.txt : 20150702 : 20150416' ~
+
+mobilecomputingtoday.com.	A 1.2.3.4 ~
+*.mobilecomputingtoday.com.	A 1.2.3.4 ~
+mobilecomputingtoday.com.	MX 0 honeypot.example.com. ~
+*.mobilecomputingtoday.com.	MX 0 honeypot.example.com. ~
+mobilecomputingtoday.com.	TXT 'dnshijack : cryptowall : techhelplist.com : 20150705' ~
 
 hztw.com.cn.	A 1.2.3.4 ~
 *.hztw.com.cn.	A 1.2.3.4 ~
@@ -5067,6 +5421,12 @@ orasconnhd.com.	A 1.2.3.4 ~
 orasconnhd.com.	MX 0 honeypot.example.com. ~
 *.orasconnhd.com.	MX 0 honeypot.example.com. ~
 orasconnhd.com.	TXT 'dnshijack : phishing : krebsonsecurity.com : 20150528' ~
+
+ip-addr.es.	A 1.2.3.4 ~
+*.ip-addr.es.	A 1.2.3.4 ~
+ip-addr.es.	MX 0 honeypot.example.com. ~
+*.ip-addr.es.	MX 0 honeypot.example.com. ~
+ip-addr.es.	TXT 'dnshijack : cryptowall : techhelplist.com : 20150705' ~
 
 entirebestfiles.com.	A 1.2.3.4 ~
 *.entirebestfiles.com.	A 1.2.3.4 ~
@@ -5253,6 +5613,12 @@ downloadizer.net.	A 1.2.3.4 ~
 downloadizer.net.	MX 0 honeypot.example.com. ~
 *.downloadizer.net.	MX 0 honeypot.example.com. ~
 downloadizer.net.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150702 : 20150407' ~
+
+lifeover.net.	A 1.2.3.4 ~
+*.lifeover.net.	A 1.2.3.4 ~
+lifeover.net.	MX 0 honeypot.example.com. ~
+*.lifeover.net.	MX 0 honeypot.example.com. ~
+lifeover.net.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 ycshiweitian.com.	A 1.2.3.4 ~
 *.ycshiweitian.com.	A 1.2.3.4 ~
@@ -5578,6 +5944,12 @@ fcda-ng.org.	MX 0 honeypot.example.com. ~
 *.fcda-ng.org.	MX 0 honeypot.example.com. ~
 fcda-ng.org.	TXT 'dnshijack : phishing : krebsonsecurity.com : 20150528' ~
 
+kaikialexus.com.	A 1.2.3.4 ~
+*.kaikialexus.com.	A 1.2.3.4 ~
+kaikialexus.com.	MX 0 honeypot.example.com. ~
+*.kaikialexus.com.	MX 0 honeypot.example.com. ~
+kaikialexus.com.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 nje9.cn.	A 1.2.3.4 ~
 *.nje9.cn.	A 1.2.3.4 ~
 nje9.cn.	MX 0 honeypot.example.com. ~
@@ -5607,6 +5979,12 @@ love2068.cn.	A 1.2.3.4 ~
 love2068.cn.	MX 0 honeypot.example.com. ~
 *.love2068.cn.	MX 0 honeypot.example.com. ~
 love2068.cn.	TXT 'dnshijack : attack_page : www.google.com/safebrowsing : 20150530 : 20150326' ~
+
+vonak.eu.	A 1.2.3.4 ~
+*.vonak.eu.	A 1.2.3.4 ~
+vonak.eu.	MX 0 honeypot.example.com. ~
+*.vonak.eu.	MX 0 honeypot.example.com. ~
+vonak.eu.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 bbs.nxdushi.com.	A 1.2.3.4 ~
 *.bbs.nxdushi.com.	A 1.2.3.4 ~
@@ -5806,6 +6184,12 @@ zdxut6.com.	MX 0 honeypot.example.com. ~
 *.zdxut6.com.	MX 0 honeypot.example.com. ~
 zdxut6.com.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150613 :  : 023wys.com : malicious : www.mwsl.org.cn/ : 20150615' ~
 
+fieldtalk.net.	A 1.2.3.4 ~
+*.fieldtalk.net.	A 1.2.3.4 ~
+fieldtalk.net.	MX 0 honeypot.example.com. ~
+*.fieldtalk.net.	MX 0 honeypot.example.com. ~
+fieldtalk.net.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 idcln.com.	A 1.2.3.4 ~
 *.idcln.com.	A 1.2.3.4 ~
 idcln.com.	MX 0 honeypot.example.com. ~
@@ -5932,6 +6316,12 @@ com-le5.net.	MX 0 honeypot.example.com. ~
 *.com-le5.net.	MX 0 honeypot.example.com. ~
 com-le5.net.	TXT 'dnshijack : malspam : www.mywot.com : 20150607' ~
 
+loveyourneighbortour.com.	A 1.2.3.4 ~
+*.loveyourneighbortour.com.	A 1.2.3.4 ~
+loveyourneighbortour.com.	MX 0 honeypot.example.com. ~
+*.loveyourneighbortour.com.	MX 0 honeypot.example.com. ~
+loveyourneighbortour.com.	TXT 'dnshijack : cryptowall : techhelplist.com : 20150705' ~
+
 preview.licenseacquisition.org.	A 1.2.3.4 ~
 *.preview.licenseacquisition.org.	A 1.2.3.4 ~
 preview.licenseacquisition.org.	MX 0 honeypot.example.com. ~
@@ -6046,6 +6436,12 @@ globoxtech.com.	MX 0 honeypot.example.com. ~
 *.globoxtech.com.	MX 0 honeypot.example.com. ~
 globoxtech.com.	TXT 'dnshijack : phishing : krebsonsecurity.com : 20150528' ~
 
+srkofotydkmgvrp.com.	A 1.2.3.4 ~
+*.srkofotydkmgvrp.com.	A 1.2.3.4 ~
+srkofotydkmgvrp.com.	MX 0 honeypot.example.com. ~
+*.srkofotydkmgvrp.com.	MX 0 honeypot.example.com. ~
+srkofotydkmgvrp.com.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 dhgoireh.pw.	A 1.2.3.4 ~
 *.dhgoireh.pw.	A 1.2.3.4 ~
 dhgoireh.pw.	MX 0 honeypot.example.com. ~
@@ -6093,6 +6489,12 @@ konicnt.com.	A 1.2.3.4 ~
 konicnt.com.	MX 0 honeypot.example.com. ~
 *.konicnt.com.	MX 0 honeypot.example.com. ~
 konicnt.com.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150525' ~
+
+paycrafts.com.	A 1.2.3.4 ~
+*.paycrafts.com.	A 1.2.3.4 ~
+paycrafts.com.	MX 0 honeypot.example.com. ~
+*.paycrafts.com.	MX 0 honeypot.example.com. ~
+paycrafts.com.	TXT 'dnshijack : cryptowall : techhelplist.com : 20150705' ~
 
 up2disk.com.	A 1.2.3.4 ~
 *.up2disk.com.	A 1.2.3.4 ~
@@ -6352,6 +6754,12 @@ lzxsw100.com.	MX 0 honeypot.example.com. ~
 *.lzxsw100.com.	MX 0 honeypot.example.com. ~
 lzxsw100.com.	TXT 'dnshijack : malicious : malwareurls.joxeankoret.com/ : 20150702 : 20150515' ~
 
+codedtunes.zapto.org.	A 1.2.3.4 ~
+*.codedtunes.zapto.org.	A 1.2.3.4 ~
+codedtunes.zapto.org.	MX 0 honeypot.example.com. ~
+*.codedtunes.zapto.org.	MX 0 honeypot.example.com. ~
+codedtunes.zapto.org.	TXT 'dnshijack : zeus : zeustracker.abuse.ch : 20150705' ~
+
 www.00game.net.	A 1.2.3.4 ~
 *.www.00game.net.	A 1.2.3.4 ~
 www.00game.net.	MX 0 honeypot.example.com. ~
@@ -6610,6 +7018,12 @@ dulimusic.com.	MX 0 honeypot.example.com. ~
 *.dulimusic.com.	MX 0 honeypot.example.com. ~
 dulimusic.com.	TXT 'dnshijack : malicious : www.mwsl.org.cn/ : 20150615' ~
 
+mouthpeace.net.	A 1.2.3.4 ~
+*.mouthpeace.net.	A 1.2.3.4 ~
+mouthpeace.net.	MX 0 honeypot.example.com. ~
+*.mouthpeace.net.	MX 0 honeypot.example.com. ~
+mouthpeace.net.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 awerdeall.com.	A 1.2.3.4 ~
 *.awerdeall.com.	A 1.2.3.4 ~
 awerdeall.com.	MX 0 honeypot.example.com. ~
@@ -6723,6 +7137,12 @@ www65.456nvren.com.	A 1.2.3.4 ~
 www65.456nvren.com.	MX 0 honeypot.example.com. ~
 *.www65.456nvren.com.	MX 0 honeypot.example.com. ~
 www65.456nvren.com.	TXT 'dnshijack : malicious : malwareurls.joxeankoret.com/ : 20150619' ~
+
+galik.eu.	A 1.2.3.4 ~
+*.galik.eu.	A 1.2.3.4 ~
+galik.eu.	MX 0 honeypot.example.com. ~
+*.galik.eu.	MX 0 honeypot.example.com. ~
+galik.eu.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 rightgoing.com.	A 1.2.3.4 ~
 *.rightgoing.com.	A 1.2.3.4 ~
@@ -6939,6 +7359,12 @@ game.zxqp11690.com.	A 1.2.3.4 ~
 game.zxqp11690.com.	MX 0 honeypot.example.com. ~
 *.game.zxqp11690.com.	MX 0 honeypot.example.com. ~
 game.zxqp11690.com.	TXT 'dnshijack : malicious : www.mwsl.org.cn/ : 20150703' ~
+
+purac.eu.	A 1.2.3.4 ~
+*.purac.eu.	A 1.2.3.4 ~
+purac.eu.	MX 0 honeypot.example.com. ~
+*.purac.eu.	MX 0 honeypot.example.com. ~
+purac.eu.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 0559edu.com.	A 1.2.3.4 ~
 *.0559edu.com.	A 1.2.3.4 ~
@@ -7162,6 +7588,12 @@ cbvbwgp.com.	MX 0 honeypot.example.com. ~
 *.cbvbwgp.com.	MX 0 honeypot.example.com. ~
 cbvbwgp.com.	TXT 'dnshijack : attackpage : safebrowsing.google.com : 20150530 : 20150307 : 20141213' ~
 
+ankaraotodoseme.org.	A 1.2.3.4 ~
+*.ankaraotodoseme.org.	A 1.2.3.4 ~
+ankaraotodoseme.org.	MX 0 honeypot.example.com. ~
+*.ankaraotodoseme.org.	MX 0 honeypot.example.com. ~
+ankaraotodoseme.org.	TXT 'dnshijack : cryptowall : techhelplist.com : 20150705' ~
+
 cctvec.com.	A 1.2.3.4 ~
 *.cctvec.com.	A 1.2.3.4 ~
 cctvec.com.	MX 0 honeypot.example.com. ~
@@ -7227,6 +7659,12 @@ gigaia.com.	A 1.2.3.4 ~
 gigaia.com.	MX 0 honeypot.example.com. ~
 *.gigaia.com.	MX 0 honeypot.example.com. ~
 gigaia.com.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150702 : 20150407' ~
+
+volez.eu.	A 1.2.3.4 ~
+*.volez.eu.	A 1.2.3.4 ~
+volez.eu.	MX 0 honeypot.example.com. ~
+*.volez.eu.	MX 0 honeypot.example.com. ~
+volez.eu.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 sub.dunhiri.com.	A 1.2.3.4 ~
 *.sub.dunhiri.com.	A 1.2.3.4 ~
@@ -7414,6 +7852,12 @@ com-vq3.net.	TXT 'dnshijack : malspam : www.mywot.com : 20150607' ~
 *.20161115.	MX 0 honeypot.example.com. ~
 20161115.	TXT 'dnshijack : inttools.ru : malicious : freepcsecurity.co.uk/ : relisted : 20141231 : 20130215 : 20141231' ~
 
+maoribooks.com.	A 1.2.3.4 ~
+*.maoribooks.com.	A 1.2.3.4 ~
+maoribooks.com.	MX 0 honeypot.example.com. ~
+*.maoribooks.com.	MX 0 honeypot.example.com. ~
+maoribooks.com.	TXT 'dnshijack : cryptowall : techhelplist.com : 20150705' ~
+
 hosthuntsville.com.	A 1.2.3.4 ~
 *.hosthuntsville.com.	A 1.2.3.4 ~
 hosthuntsville.com.	MX 0 honeypot.example.com. ~
@@ -7522,6 +7966,12 @@ boryin.net.	MX 0 honeypot.example.com. ~
 *.boryin.net.	MX 0 honeypot.example.com. ~
 boryin.net.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150702 : 20150502' ~
 
+yjwxlmnbexd3x.com.	A 1.2.3.4 ~
+*.yjwxlmnbexd3x.com.	A 1.2.3.4 ~
+yjwxlmnbexd3x.com.	MX 0 honeypot.example.com. ~
+*.yjwxlmnbexd3x.com.	MX 0 honeypot.example.com. ~
+yjwxlmnbexd3x.com.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 st1ph.eu.pn.	A 1.2.3.4 ~
 *.st1ph.eu.pn.	A 1.2.3.4 ~
 st1ph.eu.pn.	MX 0 honeypot.example.com. ~
@@ -7594,6 +8044,12 @@ hfzhiyuan.com.	MX 0 honeypot.example.com. ~
 *.hfzhiyuan.com.	MX 0 honeypot.example.com. ~
 hfzhiyuan.com.	TXT 'dnshijack : attack_page : www.google.com/safebrowsing : 20150530 : 20150326' ~
 
+qexer.eu.	A 1.2.3.4 ~
+*.qexer.eu.	A 1.2.3.4 ~
+qexer.eu.	MX 0 honeypot.example.com. ~
+*.qexer.eu.	MX 0 honeypot.example.com. ~
+qexer.eu.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 400cao.com.	A 1.2.3.4 ~
 *.400cao.com.	A 1.2.3.4 ~
 400cao.com.	MX 0 honeypot.example.com. ~
@@ -7611,6 +8067,18 @@ youtuebe.info.	A 1.2.3.4 ~
 youtuebe.info.	MX 0 honeypot.example.com. ~
 *.youtuebe.info.	MX 0 honeypot.example.com. ~
 youtuebe.info.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150702 : 20150404' ~
+
+wheelover.net.	A 1.2.3.4 ~
+*.wheelover.net.	A 1.2.3.4 ~
+wheelover.net.	MX 0 honeypot.example.com. ~
+*.wheelover.net.	MX 0 honeypot.example.com. ~
+wheelover.net.	TXT 'dnshijack : c&c : private : 20150708' ~
+
+cniuybkgxelo.com.	A 1.2.3.4 ~
+*.cniuybkgxelo.com.	A 1.2.3.4 ~
+cniuybkgxelo.com.	MX 0 honeypot.example.com. ~
+*.cniuybkgxelo.com.	MX 0 honeypot.example.com. ~
+cniuybkgxelo.com.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 security-message.support.	A 1.2.3.4 ~
 *.security-message.support.	A 1.2.3.4 ~
@@ -7648,6 +8116,12 @@ arwinia.ronin-file.ru.	TXT 'dnshijack : attack_page : safebrowsing.clients.googl
 *.022sy.com.	MX 0 honeypot.example.com. ~
 022sy.com.	TXT 'dnshijack : malicious : www.mwsl.org.cn/ : 20150702 : 20150521' ~
 
+pphigrppk.com.	A 1.2.3.4 ~
+*.pphigrppk.com.	A 1.2.3.4 ~
+pphigrppk.com.	MX 0 honeypot.example.com. ~
+*.pphigrppk.com.	MX 0 honeypot.example.com. ~
+pphigrppk.com.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 darom2015.hut4.ru.	A 1.2.3.4 ~
 *.darom2015.hut4.ru.	A 1.2.3.4 ~
 darom2015.hut4.ru.	MX 0 honeypot.example.com. ~
@@ -7677,6 +8151,12 @@ invest.whoknowsmygameplan.com.	A 1.2.3.4 ~
 invest.whoknowsmygameplan.com.	MX 0 honeypot.example.com. ~
 *.invest.whoknowsmygameplan.com.	MX 0 honeypot.example.com. ~
 invest.whoknowsmygameplan.com.	TXT 'dnshijack : malicious : malwareurls.joxeankoret.com/ : 20150609' ~
+
+vrbkjlwe.com.	A 1.2.3.4 ~
+*.vrbkjlwe.com.	A 1.2.3.4 ~
+vrbkjlwe.com.	MX 0 honeypot.example.com. ~
+*.vrbkjlwe.com.	MX 0 honeypot.example.com. ~
+vrbkjlwe.com.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 527818.com.	A 1.2.3.4 ~
 *.527818.com.	A 1.2.3.4 ~
@@ -7725,6 +8205,12 @@ laobaozj.com.	A 1.2.3.4 ~
 laobaozj.com.	MX 0 honeypot.example.com. ~
 *.laobaozj.com.	MX 0 honeypot.example.com. ~
 laobaozj.com.	TXT 'dnshijack : attackpage : safebrowsing.google.com : 20150530 : 20150307 : 20141213' ~
+
+summerspace.net.	A 1.2.3.4 ~
+*.summerspace.net.	A 1.2.3.4 ~
+summerspace.net.	MX 0 honeypot.example.com. ~
+*.summerspace.net.	MX 0 honeypot.example.com. ~
+summerspace.net.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 0351qd.com.	A 1.2.3.4 ~
 *.0351qd.com.	A 1.2.3.4 ~
@@ -7815,6 +8301,12 @@ allagha.vardtorg.ru.	A 1.2.3.4 ~
 allagha.vardtorg.ru.	MX 0 honeypot.example.com. ~
 *.allagha.vardtorg.ru.	MX 0 honeypot.example.com. ~
 allagha.vardtorg.ru.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150702 : 20150502' ~
+
+puregivytoh.eu.	A 1.2.3.4 ~
+*.puregivytoh.eu.	A 1.2.3.4 ~
+puregivytoh.eu.	MX 0 honeypot.example.com. ~
+*.puregivytoh.eu.	MX 0 honeypot.example.com. ~
+puregivytoh.eu.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 dl.mithlumen.com.	A 1.2.3.4 ~
 *.dl.mithlumen.com.	A 1.2.3.4 ~
@@ -8116,6 +8608,12 @@ gibbusoft.net.	MX 0 honeypot.example.com. ~
 *.gibbusoft.net.	MX 0 honeypot.example.com. ~
 gibbusoft.net.	TXT 'dnshijack : phishing : krebsonsecurity.com : 20150528' ~
 
+lifegift.net.	A 1.2.3.4 ~
+*.lifegift.net.	A 1.2.3.4 ~
+lifegift.net.	MX 0 honeypot.example.com. ~
+*.lifegift.net.	MX 0 honeypot.example.com. ~
+lifegift.net.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 www277.qshfwj.com.	A 1.2.3.4 ~
 *.www277.qshfwj.com.	A 1.2.3.4 ~
 www277.qshfwj.com.	MX 0 honeypot.example.com. ~
@@ -8284,6 +8782,12 @@ zhenfei.com.cn.	MX 0 honeypot.example.com. ~
 *.zhenfei.com.cn.	MX 0 honeypot.example.com. ~
 zhenfei.com.cn.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150530 : 20150322' ~
 
+drivetalk.net.	A 1.2.3.4 ~
+*.drivetalk.net.	A 1.2.3.4 ~
+drivetalk.net.	MX 0 honeypot.example.com. ~
+*.drivetalk.net.	MX 0 honeypot.example.com. ~
+drivetalk.net.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 duozzz.com.	A 1.2.3.4 ~
 *.duozzz.com.	A 1.2.3.4 ~
 duozzz.com.	MX 0 honeypot.example.com. ~
@@ -8344,6 +8848,12 @@ hnxinglu.com.	MX 0 honeypot.example.com. ~
 *.hnxinglu.com.	MX 0 honeypot.example.com. ~
 hnxinglu.com.	TXT 'dnshijack : attack_page : www.google.com/safebrowsing : 20150530 : 20150326' ~
 
+mljjbohxllcd.com.	A 1.2.3.4 ~
+*.mljjbohxllcd.com.	A 1.2.3.4 ~
+mljjbohxllcd.com.	MX 0 honeypot.example.com. ~
+*.mljjbohxllcd.com.	MX 0 honeypot.example.com. ~
+mljjbohxllcd.com.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 brnorn.com.	A 1.2.3.4 ~
 *.brnorn.com.	A 1.2.3.4 ~
 brnorn.com.	MX 0 honeypot.example.com. ~
@@ -8373,6 +8883,12 @@ sweettalk.co.	A 1.2.3.4 ~
 sweettalk.co.	MX 0 honeypot.example.com. ~
 *.sweettalk.co.	MX 0 honeypot.example.com. ~
 sweettalk.co.	TXT 'dnshijack : script.exploit : dwm.cc : 20150702 : 20150430' ~
+
+gater.eu.	A 1.2.3.4 ~
+*.gater.eu.	A 1.2.3.4 ~
+gater.eu.	MX 0 honeypot.example.com. ~
+*.gater.eu.	MX 0 honeypot.example.com. ~
+gater.eu.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 913916.com.	A 1.2.3.4 ~
 *.913916.com.	A 1.2.3.4 ~
@@ -8464,6 +8980,12 @@ xyl081217.com.	MX 0 honeypot.example.com. ~
 *.xyl081217.com.	MX 0 honeypot.example.com. ~
 xyl081217.com.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150525' ~
 
+ganiq.eu.	A 1.2.3.4 ~
+*.ganiq.eu.	A 1.2.3.4 ~
+ganiq.eu.	MX 0 honeypot.example.com. ~
+*.ganiq.eu.	MX 0 honeypot.example.com. ~
+ganiq.eu.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 bjssj0917.com.	A 1.2.3.4 ~
 *.bjssj0917.com.	A 1.2.3.4 ~
 bjssj0917.com.	MX 0 honeypot.example.com. ~
@@ -8506,6 +9028,12 @@ jsbwpg.com.	MX 0 honeypot.example.com. ~
 *.jsbwpg.com.	MX 0 honeypot.example.com. ~
 jsbwpg.com.	TXT 'dnshijack : attack_page : www.google.com/safebrowsing : 20150530 : 20150326' ~
 
+fcleplqrwfchzio6s.com.	A 1.2.3.4 ~
+*.fcleplqrwfchzio6s.com.	A 1.2.3.4 ~
+fcleplqrwfchzio6s.com.	MX 0 honeypot.example.com. ~
+*.fcleplqrwfchzio6s.com.	MX 0 honeypot.example.com. ~
+fcleplqrwfchzio6s.com.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 leuco.com.cn.	A 1.2.3.4 ~
 *.leuco.com.cn.	A 1.2.3.4 ~
 leuco.com.cn.	MX 0 honeypot.example.com. ~
@@ -8517,6 +9045,12 @@ leuco.com.cn.	TXT 'dnshijack : attack_page : www.google.com/safebrowsing : 20150
 6782728.com.	MX 0 honeypot.example.com. ~
 *.6782728.com.	MX 0 honeypot.example.com. ~
 6782728.com.	TXT 'dnshijack : malware : malwareurls.joxeankoret.com/ : 20150702 : 20150508' ~
+
+pured.eu.	A 1.2.3.4 ~
+*.pured.eu.	A 1.2.3.4 ~
+pured.eu.	MX 0 honeypot.example.com. ~
+*.pured.eu.	MX 0 honeypot.example.com. ~
+pured.eu.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 cmpartners.com.au.	A 1.2.3.4 ~
 *.cmpartners.com.au.	A 1.2.3.4 ~
@@ -8607,6 +9141,12 @@ bslukq.com.	A 1.2.3.4 ~
 bslukq.com.	MX 0 honeypot.example.com. ~
 *.bslukq.com.	MX 0 honeypot.example.com. ~
 bslukq.com.	TXT 'dnshijack : malicious : malwareurls.joxeankoret.com/ : 20150702 : 20150511' ~
+
+kyguaisaidus.com.	A 1.2.3.4 ~
+*.kyguaisaidus.com.	A 1.2.3.4 ~
+kyguaisaidus.com.	MX 0 honeypot.example.com. ~
+*.kyguaisaidus.com.	MX 0 honeypot.example.com. ~
+kyguaisaidus.com.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 11vbvb.com.	A 1.2.3.4 ~
 *.11vbvb.com.	A 1.2.3.4 ~
@@ -8728,6 +9268,12 @@ atterso.elkablog.ru.	MX 0 honeypot.example.com. ~
 *.atterso.elkablog.ru.	MX 0 honeypot.example.com. ~
 atterso.elkablog.ru.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150702 : 20150502' ~
 
+simpleforever.net.	A 1.2.3.4 ~
+*.simpleforever.net.	A 1.2.3.4 ~
+simpleforever.net.	MX 0 honeypot.example.com. ~
+*.simpleforever.net.	MX 0 honeypot.example.com. ~
+simpleforever.net.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 nichelect.com.	A 1.2.3.4 ~
 *.nichelect.com.	A 1.2.3.4 ~
 nichelect.com.	MX 0 honeypot.example.com. ~
@@ -8758,6 +9304,12 @@ tp008.pw.	MX 0 honeypot.example.com. ~
 *.tp008.pw.	MX 0 honeypot.example.com. ~
 tp008.pw.	TXT 'dnshijack : attack_page : safebrowsing.google.com : 20150702 : 20150507' ~
 
+cinema175.com.	A 1.2.3.4 ~
+*.cinema175.com.	A 1.2.3.4 ~
+cinema175.com.	MX 0 honeypot.example.com. ~
+*.cinema175.com.	MX 0 honeypot.example.com. ~
+cinema175.com.	TXT 'dnshijack : cryptowall : techhelplist.com : 20150705' ~
+
 chizhoumingchan.com.	A 1.2.3.4 ~
 *.chizhoumingchan.com.	A 1.2.3.4 ~
 chizhoumingchan.com.	MX 0 honeypot.example.com. ~
@@ -8775,6 +9327,12 @@ bggr.me.	A 1.2.3.4 ~
 bggr.me.	MX 0 honeypot.example.com. ~
 *.bggr.me.	MX 0 honeypot.example.com. ~
 bggr.me.	TXT 'dnshijack : phishing : openphish.com : 20150703' ~
+
+godblessmikenigga.com.	A 1.2.3.4 ~
+*.godblessmikenigga.com.	A 1.2.3.4 ~
+godblessmikenigga.com.	MX 0 honeypot.example.com. ~
+*.godblessmikenigga.com.	MX 0 honeypot.example.com. ~
+godblessmikenigga.com.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 dscexp.org.	A 1.2.3.4 ~
 *.dscexp.org.	A 1.2.3.4 ~
@@ -8877,6 +9435,12 @@ dodecanesiandream.com.	TXT 'dnshijack : malicious : malwareurls.joxeankoret.com/
 99976.com.	MX 0 honeypot.example.com. ~
 *.99976.com.	MX 0 honeypot.example.com. ~
 99976.com.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150530 : 20150327' ~
+
+qetuluvolos.eu.	A 1.2.3.4 ~
+*.qetuluvolos.eu.	A 1.2.3.4 ~
+qetuluvolos.eu.	MX 0 honeypot.example.com. ~
+*.qetuluvolos.eu.	MX 0 honeypot.example.com. ~
+qetuluvolos.eu.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 www.redangel.hk.	A 1.2.3.4 ~
 *.www.redangel.hk.	A 1.2.3.4 ~
@@ -8997,6 +9561,12 @@ glqkm.com.	A 1.2.3.4 ~
 glqkm.com.	MX 0 honeypot.example.com. ~
 *.glqkm.com.	MX 0 honeypot.example.com. ~
 glqkm.com.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150702 : 20150407' ~
+
+puput.eu.	A 1.2.3.4 ~
+*.puput.eu.	A 1.2.3.4 ~
+puput.eu.	MX 0 honeypot.example.com. ~
+*.puput.eu.	MX 0 honeypot.example.com. ~
+puput.eu.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 appsservicehelpcenter.de.	A 1.2.3.4 ~
 *.appsservicehelpcenter.de.	A 1.2.3.4 ~
@@ -9232,6 +9802,12 @@ yeshigongzhu.com.	MX 0 honeypot.example.com. ~
 *.yeshigongzhu.com.	MX 0 honeypot.example.com. ~
 yeshigongzhu.com.	TXT 'dnshijack : malicious : malwareurls.joxeankoret.com/ : 20150702 : 20150515' ~
 
+marusic.info.	A 1.2.3.4 ~
+*.marusic.info.	A 1.2.3.4 ~
+marusic.info.	MX 0 honeypot.example.com. ~
+*.marusic.info.	MX 0 honeypot.example.com. ~
+marusic.info.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 ratkaner.ru.	A 1.2.3.4 ~
 *.ratkaner.ru.	A 1.2.3.4 ~
 ratkaner.ru.	MX 0 honeypot.example.com. ~
@@ -9250,6 +9826,12 @@ contato183.danet.a78.org.	MX 0 honeypot.example.com. ~
 *.contato183.danet.a78.org.	MX 0 honeypot.example.com. ~
 contato183.danet.a78.org.	TXT 'dnshijack : malicious : malwareurls.joxeankoret.com/ : 20150607' ~
 
+pupujeguper.eu.	A 1.2.3.4 ~
+*.pupujeguper.eu.	A 1.2.3.4 ~
+pupujeguper.eu.	MX 0 honeypot.example.com. ~
+*.pupujeguper.eu.	MX 0 honeypot.example.com. ~
+pupujeguper.eu.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 themagno.com.	A 1.2.3.4 ~
 *.themagno.com.	A 1.2.3.4 ~
 themagno.com.	MX 0 honeypot.example.com. ~
@@ -9261,6 +9843,12 @@ bddy.pw.	A 1.2.3.4 ~
 bddy.pw.	MX 0 honeypot.example.com. ~
 *.bddy.pw.	MX 0 honeypot.example.com. ~
 bddy.pw.	TXT 'dnshijack : malicious : www.mwsl.org.cn/ : 20150703' ~
+
+vocab.eu.	A 1.2.3.4 ~
+*.vocab.eu.	A 1.2.3.4 ~
+vocab.eu.	MX 0 honeypot.example.com. ~
+*.vocab.eu.	MX 0 honeypot.example.com. ~
+vocab.eu.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 xiguasew.com.	A 1.2.3.4 ~
 *.xiguasew.com.	A 1.2.3.4 ~
@@ -9279,6 +9867,12 @@ fslhtk.com.	A 1.2.3.4 ~
 fslhtk.com.	MX 0 honeypot.example.com. ~
 *.fslhtk.com.	MX 0 honeypot.example.com. ~
 fslhtk.com.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150702 : 20150406' ~
+
+www.sumterswebdesign.com.	A 1.2.3.4 ~
+*.www.sumterswebdesign.com.	A 1.2.3.4 ~
+www.sumterswebdesign.com.	MX 0 honeypot.example.com. ~
+*.www.sumterswebdesign.com.	MX 0 honeypot.example.com. ~
+www.sumterswebdesign.com.	TXT 'dnshijack : cryptowall : techhelplist.com : 20150705' ~
 
 plugandprofit.org.	A 1.2.3.4 ~
 *.plugandprofit.org.	A 1.2.3.4 ~
@@ -9496,6 +10090,12 @@ mrhaizheo.com.	MX 0 honeypot.example.com. ~
 *.mrhaizheo.com.	MX 0 honeypot.example.com. ~
 mrhaizheo.com.	TXT 'dnshijack : phishing : krebsonsecurity.com : 20150528' ~
 
+governmenttalk.com.	A 1.2.3.4 ~
+*.governmenttalk.com.	A 1.2.3.4 ~
+governmenttalk.com.	MX 0 honeypot.example.com. ~
+*.governmenttalk.com.	MX 0 honeypot.example.com. ~
+governmenttalk.com.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 vkinternational.net.	A 1.2.3.4 ~
 *.vkinternational.net.	A 1.2.3.4 ~
 vkinternational.net.	MX 0 honeypot.example.com. ~
@@ -9526,6 +10126,18 @@ cimb-online.com.	TXT 'dnshijack : phishing : krebsonsecurity.com : 20150528' ~
 *.52djcy.com.	MX 0 honeypot.example.com. ~
 52djcy.com.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150530 : 20150322' ~
 
+kqueidsugsdoa.com.	A 1.2.3.4 ~
+*.kqueidsugsdoa.com.	A 1.2.3.4 ~
+kqueidsugsdoa.com.	MX 0 honeypot.example.com. ~
+*.kqueidsugsdoa.com.	MX 0 honeypot.example.com. ~
+kqueidsugsdoa.com.	TXT 'dnshijack : c&c : private : 20150708' ~
+
+media-meet-bowl.com.	A 1.2.3.4 ~
+*.media-meet-bowl.com.	A 1.2.3.4 ~
+media-meet-bowl.com.	MX 0 honeypot.example.com. ~
+*.media-meet-bowl.com.	MX 0 honeypot.example.com. ~
+media-meet-bowl.com.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 0523bxgs.com.	A 1.2.3.4 ~
 *.0523bxgs.com.	A 1.2.3.4 ~
 0523bxgs.com.	MX 0 honeypot.example.com. ~
@@ -9537,6 +10149,12 @@ gzcaiyan.com.	A 1.2.3.4 ~
 gzcaiyan.com.	MX 0 honeypot.example.com. ~
 *.gzcaiyan.com.	MX 0 honeypot.example.com. ~
 gzcaiyan.com.	TXT 'dnshijack : attack_page : www.google.com/safebrowsing : 20150530 : 20150326' ~
+
+dealwithhell.com.	A 1.2.3.4 ~
+*.dealwithhell.com.	A 1.2.3.4 ~
+dealwithhell.com.	MX 0 honeypot.example.com. ~
+*.dealwithhell.com.	MX 0 honeypot.example.com. ~
+dealwithhell.com.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 bedlinksgh.com.	A 1.2.3.4 ~
 *.bedlinksgh.com.	A 1.2.3.4 ~
@@ -9634,6 +10252,12 @@ thesavvyunistudent.com.	MX 0 honeypot.example.com. ~
 *.thesavvyunistudent.com.	MX 0 honeypot.example.com. ~
 thesavvyunistudent.com.	TXT 'dnshijack : phishing : www.phishtank.com : 20150702 : 20150416' ~
 
+sweetflower.net.	A 1.2.3.4 ~
+*.sweetflower.net.	A 1.2.3.4 ~
+sweetflower.net.	MX 0 honeypot.example.com. ~
+*.sweetflower.net.	MX 0 honeypot.example.com. ~
+sweetflower.net.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 us1u.us.	A 1.2.3.4 ~
 *.us1u.us.	A 1.2.3.4 ~
 us1u.us.	MX 0 honeypot.example.com. ~
@@ -9675,6 +10299,12 @@ ksnsse.com.	A 1.2.3.4 ~
 ksnsse.com.	MX 0 honeypot.example.com. ~
 *.ksnsse.com.	MX 0 honeypot.example.com. ~
 ksnsse.com.	TXT 'dnshijack : malicious : malwareurls.joxeankoret.com/ : 20150702 : 20150515' ~
+
+lysen.eu.	A 1.2.3.4 ~
+*.lysen.eu.	A 1.2.3.4 ~
+lysen.eu.	MX 0 honeypot.example.com. ~
+*.lysen.eu.	MX 0 honeypot.example.com. ~
+lysen.eu.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 eiqikan.com.	A 1.2.3.4 ~
 *.eiqikan.com.	A 1.2.3.4 ~
@@ -9808,11 +10438,23 @@ domgs.com.	MX 0 honeypot.example.com. ~
 *.domgs.com.	MX 0 honeypot.example.com. ~
 domgs.com.	TXT 'dnshijack : phishing : krebsonsecurity.com : 20150528' ~
 
+adolfforua.com.	A 1.2.3.4 ~
+*.adolfforua.com.	A 1.2.3.4 ~
+adolfforua.com.	MX 0 honeypot.example.com. ~
+*.adolfforua.com.	MX 0 honeypot.example.com. ~
+adolfforua.com.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 dommonsterportal.ru.	A 1.2.3.4 ~
 *.dommonsterportal.ru.	A 1.2.3.4 ~
 dommonsterportal.ru.	MX 0 honeypot.example.com. ~
 *.dommonsterportal.ru.	MX 0 honeypot.example.com. ~
 dommonsterportal.ru.	TXT 'dnshijack : malicious : http://www.nictasoft.com/ : 20150621' ~
+
+nihnihnih.com.	A 1.2.3.4 ~
+*.nihnihnih.com.	A 1.2.3.4 ~
+nihnihnih.com.	MX 0 honeypot.example.com. ~
+*.nihnihnih.com.	MX 0 honeypot.example.com. ~
+nihnihnih.com.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 pllysvaatteiden.rvexecutives.com.	A 1.2.3.4 ~
 *.pllysvaatteiden.rvexecutives.com.	A 1.2.3.4 ~
@@ -9850,6 +10492,12 @@ carequinha.pt.	MX 0 honeypot.example.com. ~
 *.carequinha.pt.	MX 0 honeypot.example.com. ~
 carequinha.pt.	TXT 'dnshijack : malware : malwareurls.joxeankoret.com/ : 20150702 : 20150508' ~
 
+kubjwduqsiau.com.	A 1.2.3.4 ~
+*.kubjwduqsiau.com.	A 1.2.3.4 ~
+kubjwduqsiau.com.	MX 0 honeypot.example.com. ~
+*.kubjwduqsiau.com.	MX 0 honeypot.example.com. ~
+kubjwduqsiau.com.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 com-si1.net.	A 1.2.3.4 ~
 *.com-si1.net.	A 1.2.3.4 ~
 com-si1.net.	MX 0 honeypot.example.com. ~
@@ -9861,6 +10509,12 @@ eduardohaiek.com.	A 1.2.3.4 ~
 eduardohaiek.com.	MX 0 honeypot.example.com. ~
 *.eduardohaiek.com.	MX 0 honeypot.example.com. ~
 eduardohaiek.com.	TXT 'dnshijack : malspam : blog.dynamoo.com/ : 20150702 : 20150406' ~
+
+membertravel.net.	A 1.2.3.4 ~
+*.membertravel.net.	A 1.2.3.4 ~
+membertravel.net.	MX 0 honeypot.example.com. ~
+*.membertravel.net.	MX 0 honeypot.example.com. ~
+membertravel.net.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 lnqgw.com.	A 1.2.3.4 ~
 *.lnqgw.com.	A 1.2.3.4 ~
@@ -9921,6 +10575,12 @@ yishanzf.cn.	A 1.2.3.4 ~
 yishanzf.cn.	MX 0 honeypot.example.com. ~
 *.yishanzf.cn.	MX 0 honeypot.example.com. ~
 yishanzf.cn.	TXT 'dnshijack : malware : malwareurls.joxeankoret.com/ : 20150702 : 20150508' ~
+
+novomyfexij.eu.	A 1.2.3.4 ~
+*.novomyfexij.eu.	A 1.2.3.4 ~
+novomyfexij.eu.	MX 0 honeypot.example.com. ~
+*.novomyfexij.eu.	MX 0 honeypot.example.com. ~
+novomyfexij.eu.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 findbestvideo.com.	A 1.2.3.4 ~
 *.findbestvideo.com.	A 1.2.3.4 ~
@@ -10132,17 +10792,35 @@ xjgyb.com.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 2015
 *.8.nh-cx.com.cn.	MX 0 honeypot.example.com. ~
 8.nh-cx.com.cn.	TXT 'dnshijack : malicious : www.mwsl.org.cn/ : 20150604' ~
 
+asxlemnbyioy.com.	A 1.2.3.4 ~
+*.asxlemnbyioy.com.	A 1.2.3.4 ~
+asxlemnbyioy.com.	MX 0 honeypot.example.com. ~
+*.asxlemnbyioy.com.	MX 0 honeypot.example.com. ~
+asxlemnbyioy.com.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 www373.pp5611.com.	A 1.2.3.4 ~
 *.www373.pp5611.com.	A 1.2.3.4 ~
 www373.pp5611.com.	MX 0 honeypot.example.com. ~
 *.www373.pp5611.com.	MX 0 honeypot.example.com. ~
 www373.pp5611.com.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150621' ~
 
+covermontislol.com.	A 1.2.3.4 ~
+*.covermontislol.com.	A 1.2.3.4 ~
+covermontislol.com.	MX 0 honeypot.example.com. ~
+*.covermontislol.com.	MX 0 honeypot.example.com. ~
+covermontislol.com.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 baichenge.com.	A 1.2.3.4 ~
 *.baichenge.com.	A 1.2.3.4 ~
 baichenge.com.	MX 0 honeypot.example.com. ~
 *.baichenge.com.	MX 0 honeypot.example.com. ~
 baichenge.com.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150702 : 20150515' ~
+
+www.schenkdirgesundheit.com.	A 1.2.3.4 ~
+*.www.schenkdirgesundheit.com.	A 1.2.3.4 ~
+www.schenkdirgesundheit.com.	MX 0 honeypot.example.com. ~
+*.www.schenkdirgesundheit.com.	MX 0 honeypot.example.com. ~
+www.schenkdirgesundheit.com.	TXT 'dnshijack : cryptowall : techhelplist.com : 20150705' ~
 
 dpgjjs.com.	A 1.2.3.4 ~
 *.dpgjjs.com.	A 1.2.3.4 ~
@@ -10167,6 +10845,12 @@ megaradio.rs.	A 1.2.3.4 ~
 megaradio.rs.	MX 0 honeypot.example.com. ~
 *.megaradio.rs.	MX 0 honeypot.example.com. ~
 megaradio.rs.	TXT 'dnshijack : malicious : malwareurls.joxeankoret.com/ : 20150609' ~
+
+jktndnudkhrhvhhj.com.	A 1.2.3.4 ~
+*.jktndnudkhrhvhhj.com.	A 1.2.3.4 ~
+jktndnudkhrhvhhj.com.	MX 0 honeypot.example.com. ~
+*.jktndnudkhrhvhhj.com.	MX 0 honeypot.example.com. ~
+jktndnudkhrhvhhj.com.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 vishwa.me.	A 1.2.3.4 ~
 *.vishwa.me.	A 1.2.3.4 ~
@@ -10353,6 +11037,12 @@ guarusite.com.br.	A 1.2.3.4 ~
 guarusite.com.br.	MX 0 honeypot.example.com. ~
 *.guarusite.com.br.	MX 0 honeypot.example.com. ~
 guarusite.com.br.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150703' ~
+
+pupom.eu.	A 1.2.3.4 ~
+*.pupom.eu.	A 1.2.3.4 ~
+pupom.eu.	MX 0 honeypot.example.com. ~
+*.pupom.eu.	MX 0 honeypot.example.com. ~
+pupom.eu.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 file6desktop.com.	A 1.2.3.4 ~
 *.file6desktop.com.	A 1.2.3.4 ~
@@ -10786,6 +11476,12 @@ fengshuijia.com.cn.	MX 0 honeypot.example.com. ~
 *.fengshuijia.com.cn.	MX 0 honeypot.example.com. ~
 fengshuijia.com.cn.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150702 : 20150406' ~
 
+lscyqrjofqmtn.com.	A 1.2.3.4 ~
+*.lscyqrjofqmtn.com.	A 1.2.3.4 ~
+lscyqrjofqmtn.com.	MX 0 honeypot.example.com. ~
+*.lscyqrjofqmtn.com.	MX 0 honeypot.example.com. ~
+lscyqrjofqmtn.com.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 www250.dm599.com.	A 1.2.3.4 ~
 *.www250.dm599.com.	A 1.2.3.4 ~
 www250.dm599.com.	MX 0 honeypot.example.com. ~
@@ -10882,6 +11578,12 @@ cllssc.com.	MX 0 honeypot.example.com. ~
 *.cllssc.com.	MX 0 honeypot.example.com. ~
 cllssc.com.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150702 : 20150407' ~
 
+beautyleg8.com.	A 1.2.3.4 ~
+*.beautyleg8.com.	A 1.2.3.4 ~
+beautyleg8.com.	MX 0 honeypot.example.com. ~
+*.beautyleg8.com.	MX 0 honeypot.example.com. ~
+beautyleg8.com.	TXT 'dnshijack : attack_page : www.google.com/safebrowsing : 20150705' ~
+
 redangel.hk.	A 1.2.3.4 ~
 *.redangel.hk.	A 1.2.3.4 ~
 redangel.hk.	MX 0 honeypot.example.com. ~
@@ -10899,6 +11601,12 @@ warfacexxx.1gb.ru.	A 1.2.3.4 ~
 warfacexxx.1gb.ru.	MX 0 honeypot.example.com. ~
 *.warfacexxx.1gb.ru.	MX 0 honeypot.example.com. ~
 warfacexxx.1gb.ru.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150613' ~
+
+ospokonek.pl.	A 1.2.3.4 ~
+*.ospokonek.pl.	A 1.2.3.4 ~
+ospokonek.pl.	MX 0 honeypot.example.com. ~
+*.ospokonek.pl.	MX 0 honeypot.example.com. ~
+ospokonek.pl.	TXT 'dnshijack : attack_page : www.google.com/safebrowsing : 20150705' ~
 
 zjknx.cn.	A 1.2.3.4 ~
 *.zjknx.cn.	A 1.2.3.4 ~
@@ -10941,6 +11649,12 @@ g7aut.has.it.	A 1.2.3.4 ~
 g7aut.has.it.	MX 0 honeypot.example.com. ~
 *.g7aut.has.it.	MX 0 honeypot.example.com. ~
 g7aut.has.it.	TXT 'dnshijack : attack_page : www.google.com/safebrowsing : 20150628' ~
+
+queenhouse.net.	A 1.2.3.4 ~
+*.queenhouse.net.	A 1.2.3.4 ~
+queenhouse.net.	MX 0 honeypot.example.com. ~
+*.queenhouse.net.	MX 0 honeypot.example.com. ~
+queenhouse.net.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 adultfreevideos.net.	A 1.2.3.4 ~
 *.adultfreevideos.net.	A 1.2.3.4 ~
@@ -11049,6 +11763,12 @@ jdwkjeyumdxbc.com.	A 1.2.3.4 ~
 jdwkjeyumdxbc.com.	MX 0 honeypot.example.com. ~
 *.jdwkjeyumdxbc.com.	MX 0 honeypot.example.com. ~
 jdwkjeyumdxbc.com.	TXT 'dnshijack : necurs : isc.sans.org : 20150525' ~
+
+lyman.eu.	A 1.2.3.4 ~
+*.lyman.eu.	A 1.2.3.4 ~
+lyman.eu.	MX 0 honeypot.example.com. ~
+*.lyman.eu.	MX 0 honeypot.example.com. ~
+lyman.eu.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 le589.com.	A 1.2.3.4 ~
 *.le589.com.	A 1.2.3.4 ~
@@ -11235,6 +11955,12 @@ xdjwjcszwsgm4c.com.	A 1.2.3.4 ~
 xdjwjcszwsgm4c.com.	MX 0 honeypot.example.com. ~
 *.xdjwjcszwsgm4c.com.	MX 0 honeypot.example.com. ~
 xdjwjcszwsgm4c.com.	TXT 'dnshijack : angler_ek : malware-traffic-analysis.net/ : 20150609' ~
+
+registrydefenderplatinum.com.	A 1.2.3.4 ~
+*.registrydefenderplatinum.com.	A 1.2.3.4 ~
+registrydefenderplatinum.com.	MX 0 honeypot.example.com. ~
+*.registrydefenderplatinum.com.	MX 0 honeypot.example.com. ~
+registrydefenderplatinum.com.	TXT 'dnshijack : attack_page : www.google.com/safebrowsing : 20150705' ~
 
 cabomarlinisportfishing.com.	A 1.2.3.4 ~
 *.cabomarlinisportfishing.com.	A 1.2.3.4 ~
@@ -11632,6 +12358,12 @@ downloadfiles-cdn.com.	TXT 'dnshijack : malicious : malwareurls.joxeankoret.com/
 *.9mf3ds4a.6123337.com.	MX 0 honeypot.example.com. ~
 9mf3ds4a.6123337.com.	TXT 'dnshijack : malicious : www.mwsl.org.cn/ : 20150604' ~
 
+campoflor.com.	A 1.2.3.4 ~
+*.campoflor.com.	A 1.2.3.4 ~
+campoflor.com.	MX 0 honeypot.example.com. ~
+*.campoflor.com.	MX 0 honeypot.example.com. ~
+campoflor.com.	TXT 'dnshijack : cryptowall : techhelplist.com : 20150705' ~
+
 art.theartofkansas.com.	A 1.2.3.4 ~
 *.art.theartofkansas.com.	A 1.2.3.4 ~
 art.theartofkansas.com.	MX 0 honeypot.example.com. ~
@@ -11643,6 +12375,12 @@ aratrioza.proelkaforum.ru.	A 1.2.3.4 ~
 aratrioza.proelkaforum.ru.	MX 0 honeypot.example.com. ~
 *.aratrioza.proelkaforum.ru.	MX 0 honeypot.example.com. ~
 aratrioza.proelkaforum.ru.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150702 : 20150508' ~
+
+g19291dccae4ade732f3bc40bc1a12f886.tk.	A 1.2.3.4 ~
+*.g19291dccae4ade732f3bc40bc1a12f886.tk.	A 1.2.3.4 ~
+g19291dccae4ade732f3bc40bc1a12f886.tk.	MX 0 honeypot.example.com. ~
+*.g19291dccae4ade732f3bc40bc1a12f886.tk.	MX 0 honeypot.example.com. ~
+g19291dccae4ade732f3bc40bc1a12f886.tk.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 yqybjyw.com.	A 1.2.3.4 ~
 *.yqybjyw.com.	A 1.2.3.4 ~
@@ -11716,6 +12454,12 @@ interior-examples.ru.	MX 0 honeypot.example.com. ~
 *.interior-examples.ru.	MX 0 honeypot.example.com. ~
 interior-examples.ru.	TXT 'dnshijack : malicious : malwareurls.joxeankoret.com : 20150530 : 20150313' ~
 
+vocer.eu.	A 1.2.3.4 ~
+*.vocer.eu.	A 1.2.3.4 ~
+vocer.eu.	MX 0 honeypot.example.com. ~
+*.vocer.eu.	MX 0 honeypot.example.com. ~
+vocer.eu.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 gu.dmr4cdnd.com.	A 1.2.3.4 ~
 *.gu.dmr4cdnd.com.	A 1.2.3.4 ~
 gu.dmr4cdnd.com.	MX 0 honeypot.example.com. ~
@@ -11751,6 +12495,12 @@ xn--tnqs5dd3km46c.com.	A 1.2.3.4 ~
 xn--tnqs5dd3km46c.com.	MX 0 honeypot.example.com. ~
 *.xn--tnqs5dd3km46c.com.	MX 0 honeypot.example.com. ~
 xn--tnqs5dd3km46c.com.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150530 : 20150327' ~
+
+dkissxelrocixtrlzbbrdwrp.net.	A 1.2.3.4 ~
+*.dkissxelrocixtrlzbbrdwrp.net.	A 1.2.3.4 ~
+dkissxelrocixtrlzbbrdwrp.net.	MX 0 honeypot.example.com. ~
+*.dkissxelrocixtrlzbbrdwrp.net.	MX 0 honeypot.example.com. ~
+dkissxelrocixtrlzbbrdwrp.net.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 hlzx8.com.	A 1.2.3.4 ~
 *.hlzx8.com.	A 1.2.3.4 ~
@@ -11865,6 +12615,12 @@ krisbel.com.	A 1.2.3.4 ~
 krisbel.com.	MX 0 honeypot.example.com. ~
 *.krisbel.com.	MX 0 honeypot.example.com. ~
 krisbel.com.	TXT 'dnshijack : attackpage : safebrowsing.google.com : 20150530 : 20150307 : 20141213' ~
+
+w3eyyllv9hgk919.com.	A 1.2.3.4 ~
+*.w3eyyllv9hgk919.com.	A 1.2.3.4 ~
+w3eyyllv9hgk919.com.	MX 0 honeypot.example.com. ~
+*.w3eyyllv9hgk919.com.	MX 0 honeypot.example.com. ~
+w3eyyllv9hgk919.com.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 smartgeoproject.ru.	A 1.2.3.4 ~
 *.smartgeoproject.ru.	A 1.2.3.4 ~
@@ -12039,6 +12795,12 @@ sunnycentr.ru.	A 1.2.3.4 ~
 sunnycentr.ru.	MX 0 honeypot.example.com. ~
 *.sunnycentr.ru.	MX 0 honeypot.example.com. ~
 sunnycentr.ru.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150702 : 20150508' ~
+
+donotshotnigers.com.	A 1.2.3.4 ~
+*.donotshotnigers.com.	A 1.2.3.4 ~
+donotshotnigers.com.	MX 0 honeypot.example.com. ~
+*.donotshotnigers.com.	MX 0 honeypot.example.com. ~
+donotshotnigers.com.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 ultimatepopupkiller.com.	A 1.2.3.4 ~
 *.ultimatepopupkiller.com.	A 1.2.3.4 ~
@@ -12388,6 +13150,12 @@ llhan.com.	MX 0 honeypot.example.com. ~
 *.llhan.com.	MX 0 honeypot.example.com. ~
 llhan.com.	TXT 'dnshijack : harmful : safebrowsing.clients.google.com : 20150530 : 20150320' ~
 
+galek.eu.	A 1.2.3.4 ~
+*.galek.eu.	A 1.2.3.4 ~
+galek.eu.	MX 0 honeypot.example.com. ~
+*.galek.eu.	MX 0 honeypot.example.com. ~
+galek.eu.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 clinicalhematologyunit.com.	A 1.2.3.4 ~
 *.clinicalhematologyunit.com.	A 1.2.3.4 ~
 clinicalhematologyunit.com.	MX 0 honeypot.example.com. ~
@@ -12435,6 +13203,12 @@ downloadmaster7.com.	A 1.2.3.4 ~
 downloadmaster7.com.	MX 0 honeypot.example.com. ~
 *.downloadmaster7.com.	MX 0 honeypot.example.com. ~
 downloadmaster7.com.	TXT 'dnshijack : malware : malwareurls.joxeankoret.com/ : 20150702 : 20150508' ~
+
+longhome.net.	A 1.2.3.4 ~
+*.longhome.net.	A 1.2.3.4 ~
+longhome.net.	MX 0 honeypot.example.com. ~
+*.longhome.net.	MX 0 honeypot.example.com. ~
+longhome.net.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 xqqd.net.	A 1.2.3.4 ~
 *.xqqd.net.	A 1.2.3.4 ~
@@ -12489,6 +13263,12 @@ openmailsx.com.	A 1.2.3.4 ~
 openmailsx.com.	MX 0 honeypot.example.com. ~
 *.openmailsx.com.	MX 0 honeypot.example.com. ~
 openmailsx.com.	TXT 'dnshijack : phishing : www.spamhaus.org/ : 20150619' ~
+
+freeweb7.com.	A 1.2.3.4 ~
+*.freeweb7.com.	A 1.2.3.4 ~
+freeweb7.com.	MX 0 honeypot.example.com. ~
+*.freeweb7.com.	MX 0 honeypot.example.com. ~
+freeweb7.com.	TXT 'dnshijack : attack_page : www.google.com/safebrowsing : 20150705' ~
 
 sddaiu.com.	A 1.2.3.4 ~
 *.sddaiu.com.	A 1.2.3.4 ~
@@ -12598,6 +13378,12 @@ ckcccc.com.	MX 0 honeypot.example.com. ~
 *.ckcccc.com.	MX 0 honeypot.example.com. ~
 ckcccc.com.	TXT 'dnshijack : malware : malwareurls.joxeankoret.com/ : 20150702 : 20150508' ~
 
+lotto-crushers.net.	A 1.2.3.4 ~
+*.lotto-crushers.net.	A 1.2.3.4 ~
+lotto-crushers.net.	MX 0 honeypot.example.com. ~
+*.lotto-crushers.net.	MX 0 honeypot.example.com. ~
+lotto-crushers.net.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150708' ~
+
 188luguan.com.	A 1.2.3.4 ~
 *.188luguan.com.	A 1.2.3.4 ~
 188luguan.com.	MX 0 honeypot.example.com. ~
@@ -12616,6 +13402,12 @@ ipintu.com.cn.	MX 0 honeypot.example.com. ~
 *.ipintu.com.cn.	MX 0 honeypot.example.com. ~
 ipintu.com.cn.	TXT 'dnshijack : attack_page : www.google.com/safebrowsing : 20150530 : 20150326' ~
 
+digusebyvad.eu.	A 1.2.3.4 ~
+*.digusebyvad.eu.	A 1.2.3.4 ~
+digusebyvad.eu.	MX 0 honeypot.example.com. ~
+*.digusebyvad.eu.	MX 0 honeypot.example.com. ~
+digusebyvad.eu.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 sunsender.ru.	A 1.2.3.4 ~
 *.sunsender.ru.	A 1.2.3.4 ~
 sunsender.ru.	MX 0 honeypot.example.com. ~
@@ -12627,6 +13419,12 @@ dwcentre.nl.	A 1.2.3.4 ~
 dwcentre.nl.	MX 0 honeypot.example.com. ~
 *.dwcentre.nl.	MX 0 honeypot.example.com. ~
 dwcentre.nl.	TXT 'dnshijack : malicious : malwareurls.joxeankoret.com/domains.txt : 20150702 : 20150416' ~
+
+megasdescargas.com.	A 1.2.3.4 ~
+*.megasdescargas.com.	A 1.2.3.4 ~
+megasdescargas.com.	MX 0 honeypot.example.com. ~
+*.megasdescargas.com.	MX 0 honeypot.example.com. ~
+megasdescargas.com.	TXT 'dnshijack : cryptowall : techhelplist.com : 20150705' ~
 
 czhjln.com.	A 1.2.3.4 ~
 *.czhjln.com.	A 1.2.3.4 ~
@@ -12814,6 +13612,12 @@ watchonlinetvchannels.com.	TXT 'dnshijack : malicious : malc0de.com/ : 20150702 
 *.36336.com.	MX 0 honeypot.example.com. ~
 36336.com.	TXT 'dnshijack : malicious : www.mwsl.org.cn/ : 20150604' ~
 
+nozulufynax.eu.	A 1.2.3.4 ~
+*.nozulufynax.eu.	A 1.2.3.4 ~
+nozulufynax.eu.	MX 0 honeypot.example.com. ~
+*.nozulufynax.eu.	MX 0 honeypot.example.com. ~
+nozulufynax.eu.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 jmgyhz.com.	A 1.2.3.4 ~
 *.jmgyhz.com.	A 1.2.3.4 ~
 jmgyhz.com.	MX 0 honeypot.example.com. ~
@@ -12843,6 +13647,12 @@ bookmark.t2t2.com.	A 1.2.3.4 ~
 bookmark.t2t2.com.	MX 0 honeypot.example.com. ~
 *.bookmark.t2t2.com.	MX 0 honeypot.example.com. ~
 bookmark.t2t2.com.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150525' ~
+
+babamamama.com.	A 1.2.3.4 ~
+*.babamamama.com.	A 1.2.3.4 ~
+babamamama.com.	MX 0 honeypot.example.com. ~
+*.babamamama.com.	MX 0 honeypot.example.com. ~
+babamamama.com.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 fillrodrigo.cf.	A 1.2.3.4 ~
 *.fillrodrigo.cf.	A 1.2.3.4 ~
@@ -13030,23 +13840,29 @@ dusmin.com.	MX 0 honeypot.example.com. ~
 *.dusmin.com.	MX 0 honeypot.example.com. ~
 dusmin.com.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150702 : 20150407' ~
 
+drivelive.net.	A 1.2.3.4 ~
+*.drivelive.net.	A 1.2.3.4 ~
+drivelive.net.	MX 0 honeypot.example.com. ~
+*.drivelive.net.	MX 0 honeypot.example.com. ~
+drivelive.net.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 dadiehost.com.	A 1.2.3.4 ~
 *.dadiehost.com.	A 1.2.3.4 ~
 dadiehost.com.	MX 0 honeypot.example.com. ~
 *.dadiehost.com.	MX 0 honeypot.example.com. ~
 dadiehost.com.	TXT 'dnshijack : phishing : krebsonsecurity.com : 20150528' ~
 
+mailpoet-tester.com.	A 1.2.3.4 ~
+*.mailpoet-tester.com.	A 1.2.3.4 ~
+mailpoet-tester.com.	MX 0 honeypot.example.com. ~
+*.mailpoet-tester.com.	MX 0 honeypot.example.com. ~
+mailpoet-tester.com.	TXT 'dnshijack : cryptowall : techhelplist.com : 20150705' ~
+
 hiptechsupport.com.	A 1.2.3.4 ~
 *.hiptechsupport.com.	A 1.2.3.4 ~
 hiptechsupport.com.	MX 0 honeypot.example.com. ~
 *.hiptechsupport.com.	MX 0 honeypot.example.com. ~
 hiptechsupport.com.	TXT 'dnshijack : malicious : www.malwaredomains.com : 20150625' ~
-
-goog1eanalitics.pw.	A 1.2.3.4 ~
-*.goog1eanalitics.pw.	A 1.2.3.4 ~
-goog1eanalitics.pw.	MX 0 honeypot.example.com. ~
-*.goog1eanalitics.pw.	MX 0 honeypot.example.com. ~
-goog1eanalitics.pw.	TXT 'dnshijack : redirect : malware-traffic-analysis.net/ : 20150530 : 20150320' ~
 
 amojogos.com.br.	A 1.2.3.4 ~
 *.amojogos.com.br.	A 1.2.3.4 ~
@@ -13102,11 +13918,23 @@ aaa.qjhb13.cn.	MX 0 honeypot.example.com. ~
 *.aaa.qjhb13.cn.	MX 0 honeypot.example.com. ~
 aaa.qjhb13.cn.	TXT 'dnshijack : malicious : www.mwsl.org.cn/ : 20150604' ~
 
+castleconifer.com.	A 1.2.3.4 ~
+*.castleconifer.com.	A 1.2.3.4 ~
+castleconifer.com.	MX 0 honeypot.example.com. ~
+*.castleconifer.com.	MX 0 honeypot.example.com. ~
+castleconifer.com.	TXT 'dnshijack : cryptowall : techhelplist.com : 20150705' ~
+
 hacimi.fengyidai.net.	A 1.2.3.4 ~
 *.hacimi.fengyidai.net.	A 1.2.3.4 ~
 hacimi.fengyidai.net.	MX 0 honeypot.example.com. ~
 *.hacimi.fengyidai.net.	MX 0 honeypot.example.com. ~
 hacimi.fengyidai.net.	TXT 'dnshijack : attack_page : www.google.com/safebrowsing : 20150530 : 20150326' ~
+
+payoptvars.com.	A 1.2.3.4 ~
+*.payoptvars.com.	A 1.2.3.4 ~
+payoptvars.com.	MX 0 honeypot.example.com. ~
+*.payoptvars.com.	MX 0 honeypot.example.com. ~
+payoptvars.com.	TXT 'dnshijack : cryptowall : techhelplist.com : 20150705' ~
 
 nsktpgiexicpnt.com.	A 1.2.3.4 ~
 *.nsktpgiexicpnt.com.	A 1.2.3.4 ~
@@ -13330,6 +14158,12 @@ zawut.cn.	MX 0 honeypot.example.com. ~
 *.zawut.cn.	MX 0 honeypot.example.com. ~
 zawut.cn.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150530 : 20150322' ~
 
+driveback.net.	A 1.2.3.4 ~
+*.driveback.net.	A 1.2.3.4 ~
+driveback.net.	MX 0 honeypot.example.com. ~
+*.driveback.net.	MX 0 honeypot.example.com. ~
+driveback.net.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 5seniu.com.	A 1.2.3.4 ~
 *.5seniu.com.	A 1.2.3.4 ~
 5seniu.com.	MX 0 honeypot.example.com. ~
@@ -13546,6 +14380,12 @@ update-docfiles.com.	MX 0 honeypot.example.com. ~
 *.update-docfiles.com.	MX 0 honeypot.example.com. ~
 update-docfiles.com.	TXT 'dnshijack : phishing : krebsonsecurity.com : 20150528' ~
 
+usawithgitler.com.	A 1.2.3.4 ~
+*.usawithgitler.com.	A 1.2.3.4 ~
+usawithgitler.com.	MX 0 honeypot.example.com. ~
+*.usawithgitler.com.	MX 0 honeypot.example.com. ~
+usawithgitler.com.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 althusia.protopstore.ru.	A 1.2.3.4 ~
 *.althusia.protopstore.ru.	A 1.2.3.4 ~
 althusia.protopstore.ru.	MX 0 honeypot.example.com. ~
@@ -13636,6 +14476,12 @@ bjjmywcb.com.	MX 0 honeypot.example.com. ~
 *.bjjmywcb.com.	MX 0 honeypot.example.com. ~
 bjjmywcb.com.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150621' ~
 
+eedc51af0df1f326147da8a84ca7f03301.tk.	A 1.2.3.4 ~
+*.eedc51af0df1f326147da8a84ca7f03301.tk.	A 1.2.3.4 ~
+eedc51af0df1f326147da8a84ca7f03301.tk.	MX 0 honeypot.example.com. ~
+*.eedc51af0df1f326147da8a84ca7f03301.tk.	MX 0 honeypot.example.com. ~
+eedc51af0df1f326147da8a84ca7f03301.tk.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 coffecups.ru.	A 1.2.3.4 ~
 *.coffecups.ru.	A 1.2.3.4 ~
 coffecups.ru.	MX 0 honeypot.example.com. ~
@@ -13695,6 +14541,12 @@ www.fchabkirchen-frauenberg.de.	A 1.2.3.4 ~
 www.fchabkirchen-frauenberg.de.	MX 0 honeypot.example.com. ~
 *.www.fchabkirchen-frauenberg.de.	MX 0 honeypot.example.com. ~
 www.fchabkirchen-frauenberg.de.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150621' ~
+
+yoga-du-rire.fr.	A 1.2.3.4 ~
+*.yoga-du-rire.fr.	A 1.2.3.4 ~
+yoga-du-rire.fr.	MX 0 honeypot.example.com. ~
+*.yoga-du-rire.fr.	MX 0 honeypot.example.com. ~
+yoga-du-rire.fr.	TXT 'dnshijack : attack_page : www.google.com/safebrowsing : 20150705' ~
 
 applesverify.com.	A 1.2.3.4 ~
 *.applesverify.com.	A 1.2.3.4 ~
@@ -13798,6 +14650,12 @@ winpter.ru.	MX 0 honeypot.example.com. ~
 *.winpter.ru.	MX 0 honeypot.example.com. ~
 winpter.ru.	TXT 'dnshijack : zemot : www.spamhaus.org/ : 20150528' ~
 
+partystation.net.	A 1.2.3.4 ~
+*.partystation.net.	A 1.2.3.4 ~
+partystation.net.	MX 0 honeypot.example.com. ~
+*.partystation.net.	MX 0 honeypot.example.com. ~
+partystation.net.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 alsblueshelpt.nl.	A 1.2.3.4 ~
 *.alsblueshelpt.nl.	A 1.2.3.4 ~
 alsblueshelpt.nl.	MX 0 honeypot.example.com. ~
@@ -13876,6 +14734,12 @@ fkjxzzc.com.	MX 0 honeypot.example.com. ~
 *.fkjxzzc.com.	MX 0 honeypot.example.com. ~
 fkjxzzc.com.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150702 : 20150406' ~
 
+kfbpartners.com.	A 1.2.3.4 ~
+*.kfbpartners.com.	A 1.2.3.4 ~
+kfbpartners.com.	MX 0 honeypot.example.com. ~
+*.kfbpartners.com.	MX 0 honeypot.example.com. ~
+kfbpartners.com.	TXT 'dnshijack : cryptowall : techhelplist.com : 20150705' ~
+
 solar.olympe.in.	A 1.2.3.4 ~
 *.solar.olympe.in.	A 1.2.3.4 ~
 solar.olympe.in.	MX 0 honeypot.example.com. ~
@@ -13936,6 +14800,12 @@ dvyiub.com.	MX 0 honeypot.example.com. ~
 *.dvyiub.com.	MX 0 honeypot.example.com. ~
 dvyiub.com.	TXT 'dnshijack : malicious : malwareurls.joxeankoret.com/ : 20150702 : 20150515' ~
 
+crowdtravel.net.	A 1.2.3.4 ~
+*.crowdtravel.net.	A 1.2.3.4 ~
+crowdtravel.net.	MX 0 honeypot.example.com. ~
+*.crowdtravel.net.	MX 0 honeypot.example.com. ~
+crowdtravel.net.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 diboine.com.	A 1.2.3.4 ~
 *.diboine.com.	A 1.2.3.4 ~
 diboine.com.	MX 0 honeypot.example.com. ~
@@ -13977,6 +14847,12 @@ j-5.info.	A 1.2.3.4 ~
 j-5.info.	MX 0 honeypot.example.com. ~
 *.j-5.info.	MX 0 honeypot.example.com. ~
 j-5.info.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150621' ~
+
+freshspace.net.	A 1.2.3.4 ~
+*.freshspace.net.	A 1.2.3.4 ~
+freshspace.net.	MX 0 honeypot.example.com. ~
+*.freshspace.net.	MX 0 honeypot.example.com. ~
+freshspace.net.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 mamadyz.com.	A 1.2.3.4 ~
 *.mamadyz.com.	A 1.2.3.4 ~
@@ -14266,6 +15142,12 @@ ajzl8090.com.	MX 0 honeypot.example.com. ~
 *.ajzl8090.com.	MX 0 honeypot.example.com. ~
 ajzl8090.com.	TXT 'dnshijack : malicious : www.mwsl.org.cn/ : 20150615' ~
 
+fieldhouse.net.	A 1.2.3.4 ~
+*.fieldhouse.net.	A 1.2.3.4 ~
+fieldhouse.net.	MX 0 honeypot.example.com. ~
+*.fieldhouse.net.	MX 0 honeypot.example.com. ~
+fieldhouse.net.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 bvpdf9.u9a.wentserver.com.	A 1.2.3.4 ~
 *.bvpdf9.u9a.wentserver.com.	A 1.2.3.4 ~
 bvpdf9.u9a.wentserver.com.	MX 0 honeypot.example.com. ~
@@ -14331,6 +15213,12 @@ ww1.minecraftget.com.	TXT 'dnshijack : attack_page : safebrowsing.clients.google
 4chd.com.	MX 0 honeypot.example.com. ~
 *.4chd.com.	MX 0 honeypot.example.com. ~
 4chd.com.	TXT 'dnshijack : phishing : openphish.com : 20150604' ~
+
+pumot.eu.	A 1.2.3.4 ~
+*.pumot.eu.	A 1.2.3.4 ~
+pumot.eu.	MX 0 honeypot.example.com. ~
+*.pumot.eu.	MX 0 honeypot.example.com. ~
+pumot.eu.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 down.nishuoa.com.	A 1.2.3.4 ~
 *.down.nishuoa.com.	A 1.2.3.4 ~
@@ -14416,6 +15304,12 @@ xiao2013-06.yxdown.cn.	MX 0 honeypot.example.com. ~
 *.xiao2013-06.yxdown.cn.	MX 0 honeypot.example.com. ~
 xiao2013-06.yxdown.cn.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150702 : 20150404' ~
 
+arabicgermany.com.	A 1.2.3.4 ~
+*.arabicgermany.com.	A 1.2.3.4 ~
+arabicgermany.com.	MX 0 honeypot.example.com. ~
+*.arabicgermany.com.	MX 0 honeypot.example.com. ~
+arabicgermany.com.	TXT 'dnshijack : cryptowall : techhelplist.com : 20150705' ~
+
 ubsagonline.com.	A 1.2.3.4 ~
 *.ubsagonline.com.	A 1.2.3.4 ~
 ubsagonline.com.	MX 0 honeypot.example.com. ~
@@ -14482,6 +15376,12 @@ accesssbnkplc.com.	MX 0 honeypot.example.com. ~
 *.accesssbnkplc.com.	MX 0 honeypot.example.com. ~
 accesssbnkplc.com.	TXT 'dnshijack : phishing : krebsonsecurity.com : 20150528' ~
 
+eichoepieb.co.vu.	A 1.2.3.4 ~
+*.eichoepieb.co.vu.	A 1.2.3.4 ~
+eichoepieb.co.vu.	MX 0 honeypot.example.com. ~
+*.eichoepieb.co.vu.	MX 0 honeypot.example.com. ~
+eichoepieb.co.vu.	TXT 'dnshijack : attack_page : www.google.com/safebrowsing : 20150705' ~
+
 aimeiltd.com.	A 1.2.3.4 ~
 *.aimeiltd.com.	A 1.2.3.4 ~
 aimeiltd.com.	MX 0 honeypot.example.com. ~
@@ -14541,6 +15441,12 @@ gangda.info.	A 1.2.3.4 ~
 gangda.info.	MX 0 honeypot.example.com. ~
 *.gangda.info.	MX 0 honeypot.example.com. ~
 gangda.info.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150702 : 20150406' ~
+
+bdirectdownload-about.com.	A 1.2.3.4 ~
+*.bdirectdownload-about.com.	A 1.2.3.4 ~
+bdirectdownload-about.com.	MX 0 honeypot.example.com. ~
+*.bdirectdownload-about.com.	MX 0 honeypot.example.com. ~
+bdirectdownload-about.com.	TXT 'dnshijack : attack_page : www.google.com/safebrowsing : 20150705' ~
 
 fetish-art.net.	A 1.2.3.4 ~
 *.fetish-art.net.	A 1.2.3.4 ~
@@ -14746,6 +15652,12 @@ qqkmonskrfgn.ru.	MX 0 honeypot.example.com. ~
 *.qqkmonskrfgn.ru.	MX 0 honeypot.example.com. ~
 qqkmonskrfgn.ru.	TXT 'dnshijack : malicious : www.spamhaus.org/ : 20150528' ~
 
+lyryx.eu.	A 1.2.3.4 ~
+*.lyryx.eu.	A 1.2.3.4 ~
+lyryx.eu.	MX 0 honeypot.example.com. ~
+*.lyryx.eu.	MX 0 honeypot.example.com. ~
+lyryx.eu.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 hoaoyo.com.	A 1.2.3.4 ~
 *.hoaoyo.com.	A 1.2.3.4 ~
 hoaoyo.com.	MX 0 honeypot.example.com. ~
@@ -14787,6 +15699,12 @@ jsyhxx.com.	A 1.2.3.4 ~
 jsyhxx.com.	MX 0 honeypot.example.com. ~
 *.jsyhxx.com.	MX 0 honeypot.example.com. ~
 jsyhxx.com.	TXT 'dnshijack : attack_page : www.google.com/safebrowsing : 20150530 : 20150326' ~
+
+milimalipali.com.	A 1.2.3.4 ~
+*.milimalipali.com.	A 1.2.3.4 ~
+milimalipali.com.	MX 0 honeypot.example.com. ~
+*.milimalipali.com.	MX 0 honeypot.example.com. ~
+milimalipali.com.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 copycs.com.	A 1.2.3.4 ~
 *.copycs.com.	A 1.2.3.4 ~
@@ -15088,6 +16006,12 @@ wermerwrt.com.	MX 0 honeypot.example.com. ~
 *.wermerwrt.com.	MX 0 honeypot.example.com. ~
 wermerwrt.com.	TXT 'dnshijack : pkybot : www.spamhaus.org/ : 20150628' ~
 
+lykemujebeq.eu.	A 1.2.3.4 ~
+*.lykemujebeq.eu.	A 1.2.3.4 ~
+lykemujebeq.eu.	MX 0 honeypot.example.com. ~
+*.lykemujebeq.eu.	MX 0 honeypot.example.com. ~
+lykemujebeq.eu.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 freshloginsdoc.com.	A 1.2.3.4 ~
 *.freshloginsdoc.com.	A 1.2.3.4 ~
 freshloginsdoc.com.	MX 0 honeypot.example.com. ~
@@ -15105,6 +16029,12 @@ geailu.pw.	A 1.2.3.4 ~
 geailu.pw.	MX 0 honeypot.example.com. ~
 *.geailu.pw.	MX 0 honeypot.example.com. ~
 geailu.pw.	TXT 'dnshijack : malicious : malwareurls.joxeankoret.com : 20150530 : 20150322' ~
+
+volac.eu.	A 1.2.3.4 ~
+*.volac.eu.	A 1.2.3.4 ~
+volac.eu.	MX 0 honeypot.example.com. ~
+*.volac.eu.	MX 0 honeypot.example.com. ~
+volac.eu.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 jerry-sno.ru.	A 1.2.3.4 ~
 *.jerry-sno.ru.	A 1.2.3.4 ~
@@ -15196,11 +16126,23 @@ yanuo02.com.	MX 0 honeypot.example.com. ~
 *.yanuo02.com.	MX 0 honeypot.example.com. ~
 yanuo02.com.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150530 : 20150327' ~
 
+memberclose.net.	A 1.2.3.4 ~
+*.memberclose.net.	A 1.2.3.4 ~
+memberclose.net.	MX 0 honeypot.example.com. ~
+*.memberclose.net.	MX 0 honeypot.example.com. ~
+memberclose.net.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 ehhood.info.	A 1.2.3.4 ~
 *.ehhood.info.	A 1.2.3.4 ~
 ehhood.info.	MX 0 honeypot.example.com. ~
 *.ehhood.info.	MX 0 honeypot.example.com. ~
 ehhood.info.	TXT 'dnshijack : malicious : malwareurls.joxeankoret.com/ : 20150702 : 20150515' ~
+
+facetalk.net.	A 1.2.3.4 ~
+*.facetalk.net.	A 1.2.3.4 ~
+facetalk.net.	MX 0 honeypot.example.com. ~
+*.facetalk.net.	MX 0 honeypot.example.com. ~
+facetalk.net.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 bathlineuae.com.	A 1.2.3.4 ~
 *.bathlineuae.com.	A 1.2.3.4 ~
@@ -15231,6 +16173,12 @@ lovoeev.com.	A 1.2.3.4 ~
 lovoeev.com.	MX 0 honeypot.example.com. ~
 *.lovoeev.com.	MX 0 honeypot.example.com. ~
 lovoeev.com.	TXT 'dnshijack : malicious : malwareurls.joxeankoret.com/ : 20150702 : 20150515' ~
+
+www.savingmummy.com.au.	A 1.2.3.4 ~
+*.www.savingmummy.com.au.	A 1.2.3.4 ~
+www.savingmummy.com.au.	MX 0 honeypot.example.com. ~
+*.www.savingmummy.com.au.	MX 0 honeypot.example.com. ~
+www.savingmummy.com.au.	TXT 'dnshijack : cryptowall : techhelplist.com : 20150705' ~
 
 swzhb.com.	A 1.2.3.4 ~
 *.swzhb.com.	A 1.2.3.4 ~
@@ -15292,6 +16240,18 @@ yihaotui.com.	MX 0 honeypot.example.com. ~
 *.yihaotui.com.	MX 0 honeypot.example.com. ~
 yihaotui.com.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150530 : 20150327' ~
 
+loverocksusa.com.	A 1.2.3.4 ~
+*.loverocksusa.com.	A 1.2.3.4 ~
+loverocksusa.com.	MX 0 honeypot.example.com. ~
+*.loverocksusa.com.	MX 0 honeypot.example.com. ~
+loverocksusa.com.	TXT 'dnshijack : cryptowall : techhelplist.com : 20150705' ~
+
+loagifts.com.	A 1.2.3.4 ~
+*.loagifts.com.	A 1.2.3.4 ~
+loagifts.com.	MX 0 honeypot.example.com. ~
+*.loagifts.com.	MX 0 honeypot.example.com. ~
+loagifts.com.	TXT 'dnshijack : cryptowall : techhelplist.com : 20150705' ~
+
 bradleya.co.uk.	A 1.2.3.4 ~
 *.bradleya.co.uk.	A 1.2.3.4 ~
 bradleya.co.uk.	MX 0 honeypot.example.com. ~
@@ -15315,6 +16275,12 @@ aramaribo.pro-sun-centr.ru.	A 1.2.3.4 ~
 aramaribo.pro-sun-centr.ru.	MX 0 honeypot.example.com. ~
 *.aramaribo.pro-sun-centr.ru.	MX 0 honeypot.example.com. ~
 aramaribo.pro-sun-centr.ru.	TXT 'dnshijack : malicious : malwareurls.joxeankoret.com/ : 20150609' ~
+
+crynigermike.com.	A 1.2.3.4 ~
+*.crynigermike.com.	A 1.2.3.4 ~
+crynigermike.com.	MX 0 honeypot.example.com. ~
+*.crynigermike.com.	MX 0 honeypot.example.com. ~
+crynigermike.com.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 czwndl.com.	A 1.2.3.4 ~
 *.czwndl.com.	A 1.2.3.4 ~
@@ -15465,6 +16431,12 @@ promotionsale.biz.	A 1.2.3.4 ~
 promotionsale.biz.	MX 0 honeypot.example.com. ~
 *.promotionsale.biz.	MX 0 honeypot.example.com. ~
 promotionsale.biz.	TXT 'dnshijack : phishing : krebsonsecurity.com : 20150528' ~
+
+masawocipel.eu.	A 1.2.3.4 ~
+*.masawocipel.eu.	A 1.2.3.4 ~
+masawocipel.eu.	MX 0 honeypot.example.com. ~
+*.masawocipel.eu.	MX 0 honeypot.example.com. ~
+masawocipel.eu.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 uyqrwg.com.	A 1.2.3.4 ~
 *.uyqrwg.com.	A 1.2.3.4 ~
@@ -15670,17 +16642,41 @@ gta5onlinemoneyserver.com.	MX 0 honeypot.example.com. ~
 *.gta5onlinemoneyserver.com.	MX 0 honeypot.example.com. ~
 gta5onlinemoneyserver.com.	TXT 'dnshijack : malicious : www.spam404.com/ : 20150702 : 20150412' ~
 
+djnmllhgwtff.net.	A 1.2.3.4 ~
+*.djnmllhgwtff.net.	A 1.2.3.4 ~
+djnmllhgwtff.net.	MX 0 honeypot.example.com. ~
+*.djnmllhgwtff.net.	MX 0 honeypot.example.com. ~
+djnmllhgwtff.net.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 shymkov.ru.	A 1.2.3.4 ~
 *.shymkov.ru.	A 1.2.3.4 ~
 shymkov.ru.	MX 0 honeypot.example.com. ~
 *.shymkov.ru.	MX 0 honeypot.example.com. ~
 shymkov.ru.	TXT 'dnshijack : harmful : safebrowsing.clients.google.com : 20150530 : 20150320' ~
 
+fighttravel.net.	A 1.2.3.4 ~
+*.fighttravel.net.	A 1.2.3.4 ~
+fighttravel.net.	MX 0 honeypot.example.com. ~
+*.fighttravel.net.	MX 0 honeypot.example.com. ~
+fighttravel.net.	TXT 'dnshijack : c&c : private : 20150708' ~
+
+alejandropawliszyn.com.	A 1.2.3.4 ~
+*.alejandropawliszyn.com.	A 1.2.3.4 ~
+alejandropawliszyn.com.	MX 0 honeypot.example.com. ~
+*.alejandropawliszyn.com.	MX 0 honeypot.example.com. ~
+alejandropawliszyn.com.	TXT 'dnshijack : cryptowall : techhelplist.com : 20150705' ~
+
 nuttypiano.com.	A 1.2.3.4 ~
 *.nuttypiano.com.	A 1.2.3.4 ~
 nuttypiano.com.	MX 0 honeypot.example.com. ~
 *.nuttypiano.com.	MX 0 honeypot.example.com. ~
 nuttypiano.com.	TXT 'dnshijack : attackpage : safebrowsing.google.com : 20150530 : 20150307 : 20141213' ~
+
+ouljuvkvn.com.	A 1.2.3.4 ~
+*.ouljuvkvn.com.	A 1.2.3.4 ~
+ouljuvkvn.com.	MX 0 honeypot.example.com. ~
+*.ouljuvkvn.com.	MX 0 honeypot.example.com. ~
+ouljuvkvn.com.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 aratrioza.mir-vard.ru.	A 1.2.3.4 ~
 *.aratrioza.mir-vard.ru.	A 1.2.3.4 ~
@@ -15796,6 +16792,18 @@ tljpj.com.	MX 0 honeypot.example.com. ~
 *.tljpj.com.	MX 0 honeypot.example.com. ~
 tljpj.com.	TXT 'dnshijack : malicious : www.mwsl.org.cn/ : 20150604' ~
 
+ruygrsfjvpybuumq.com.	A 1.2.3.4 ~
+*.ruygrsfjvpybuumq.com.	A 1.2.3.4 ~
+ruygrsfjvpybuumq.com.	MX 0 honeypot.example.com. ~
+*.ruygrsfjvpybuumq.com.	MX 0 honeypot.example.com. ~
+ruygrsfjvpybuumq.com.	TXT 'dnshijack : c&c : private : 20150708' ~
+
+divisionbooster.com.	A 1.2.3.4 ~
+*.divisionbooster.com.	A 1.2.3.4 ~
+divisionbooster.com.	MX 0 honeypot.example.com. ~
+*.divisionbooster.com.	MX 0 honeypot.example.com. ~
+divisionbooster.com.	TXT 'dnshijack : cryptowall : techhelplist.com : 20150705' ~
+
 com-sd8.net.	A 1.2.3.4 ~
 *.com-sd8.net.	A 1.2.3.4 ~
 com-sd8.net.	MX 0 honeypot.example.com. ~
@@ -15807,6 +16815,12 @@ txx521.com.	A 1.2.3.4 ~
 txx521.com.	MX 0 honeypot.example.com. ~
 *.txx521.com.	MX 0 honeypot.example.com. ~
 txx521.com.	TXT 'dnshijack : malicious : malwareurls.joxeankoret.com/ : 20150702 : 20150515' ~
+
+analystfinance.com.	A 1.2.3.4 ~
+*.analystfinance.com.	A 1.2.3.4 ~
+analystfinance.com.	MX 0 honeypot.example.com. ~
+*.analystfinance.com.	MX 0 honeypot.example.com. ~
+analystfinance.com.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 alltraff.ru.	A 1.2.3.4 ~
 *.alltraff.ru.	A 1.2.3.4 ~
@@ -15982,6 +16996,12 @@ get.killedclicknext.com.	MX 0 honeypot.example.com. ~
 *.get.killedclicknext.com.	MX 0 honeypot.example.com. ~
 get.killedclicknext.com.	TXT 'dnshijack : malicious : safebrowsing.clients.google.com : 20150625' ~
 
+volym.eu.	A 1.2.3.4 ~
+*.volym.eu.	A 1.2.3.4 ~
+volym.eu.	MX 0 honeypot.example.com. ~
+*.volym.eu.	MX 0 honeypot.example.com. ~
+volym.eu.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 recargas.16mb.com.	A 1.2.3.4 ~
 *.recargas.16mb.com.	A 1.2.3.4 ~
 recargas.16mb.com.	MX 0 honeypot.example.com. ~
@@ -16036,11 +17056,23 @@ bnkaccess2my.com.	MX 0 honeypot.example.com. ~
 *.bnkaccess2my.com.	MX 0 honeypot.example.com. ~
 bnkaccess2my.com.	TXT 'dnshijack : phishing : krebsonsecurity.com : 20150528' ~
 
+beatcancerinms.com.	A 1.2.3.4 ~
+*.beatcancerinms.com.	A 1.2.3.4 ~
+beatcancerinms.com.	MX 0 honeypot.example.com. ~
+*.beatcancerinms.com.	MX 0 honeypot.example.com. ~
+beatcancerinms.com.	TXT 'dnshijack : cryptowall : techhelplist.com : 20150705' ~
+
 shruthilaya.in.	A 1.2.3.4 ~
 *.shruthilaya.in.	A 1.2.3.4 ~
 shruthilaya.in.	MX 0 honeypot.example.com. ~
 *.shruthilaya.in.	MX 0 honeypot.example.com. ~
 shruthilaya.in.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150613' ~
+
+rearbeab.com.	A 1.2.3.4 ~
+*.rearbeab.com.	A 1.2.3.4 ~
+rearbeab.com.	MX 0 honeypot.example.com. ~
+*.rearbeab.com.	MX 0 honeypot.example.com. ~
+rearbeab.com.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 4pda-ru.ru.	A 1.2.3.4 ~
 *.4pda-ru.ru.	A 1.2.3.4 ~
@@ -16126,6 +17158,12 @@ leferinktractors.com.	MX 0 honeypot.example.com. ~
 *.leferinktractors.com.	MX 0 honeypot.example.com. ~
 leferinktractors.com.	TXT 'dnshijack : malware : malwareurls.joxeankoret.com/ : 20150702 : 20150508' ~
 
+mduinfo.com.	A 1.2.3.4 ~
+*.mduinfo.com.	A 1.2.3.4 ~
+mduinfo.com.	MX 0 honeypot.example.com. ~
+*.mduinfo.com.	MX 0 honeypot.example.com. ~
+mduinfo.com.	TXT 'dnshijack : cryptowall : techhelplist.com : 20150705' ~
+
 kekle58.com.	A 1.2.3.4 ~
 *.kekle58.com.	A 1.2.3.4 ~
 kekle58.com.	MX 0 honeypot.example.com. ~
@@ -16136,7 +17174,7 @@ kekle58.com.	TXT 'dnshijack : malicious : malwareurls.joxeankoret.com/ : 2015070
 *.20160401.	A 1.2.3.4 ~
 20160401.	MX 0 honeypot.example.com. ~
 *.20160401.	MX 0 honeypot.example.com. ~
-20160401.	TXT 'dnshijack : techunion.net : attackpage : www.google.com/safebrowsing : 20150530 : 20150307 : 20150127 : 20150307 : 20150110' ~
+20160401.	TXT 'dnshijack : goog1eanalitics.pw : redirect : malware-traffic-analysis.net/ : 20150704 : 20150530 : 20150320' ~
 
 pqwaker.altervista.org.	A 1.2.3.4 ~
 *.pqwaker.altervista.org.	A 1.2.3.4 ~
@@ -16156,6 +17194,12 @@ uudyz.com.	MX 0 honeypot.example.com. ~
 *.uudyz.com.	MX 0 honeypot.example.com. ~
 uudyz.com.	TXT 'dnshijack : malicious : malwareurls.joxeankoret.com/ : 20150702 : 20150511' ~
 
+galen.eu.	A 1.2.3.4 ~
+*.galen.eu.	A 1.2.3.4 ~
+galen.eu.	MX 0 honeypot.example.com. ~
+*.galen.eu.	MX 0 honeypot.example.com. ~
+galen.eu.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 detenteisapre.cl.	A 1.2.3.4 ~
 *.detenteisapre.cl.	A 1.2.3.4 ~
 detenteisapre.cl.	MX 0 honeypot.example.com. ~
@@ -16173,6 +17217,12 @@ hit.fiberopticcapacitor.com.	A 1.2.3.4 ~
 hit.fiberopticcapacitor.com.	MX 0 honeypot.example.com. ~
 *.hit.fiberopticcapacitor.com.	MX 0 honeypot.example.com. ~
 hit.fiberopticcapacitor.com.	TXT 'dnshijack : malicious : malwareurls.joxeankoret.com/domains.txt : 20150702 : 20150416' ~
+
+dimaweb.info.	A 1.2.3.4 ~
+*.dimaweb.info.	A 1.2.3.4 ~
+dimaweb.info.	MX 0 honeypot.example.com. ~
+*.dimaweb.info.	MX 0 honeypot.example.com. ~
+dimaweb.info.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 jsdx.91xiazai.com.	A 1.2.3.4 ~
 *.jsdx.91xiazai.com.	A 1.2.3.4 ~
@@ -16216,6 +17266,12 @@ certacalhas.com.br.	MX 0 honeypot.example.com. ~
 *.certacalhas.com.br.	MX 0 honeypot.example.com. ~
 certacalhas.com.br.	TXT 'dnshijack : malicious : malwareurls.joxeankoret.com/ : 20150609' ~
 
+xwidget.com.	A 1.2.3.4 ~
+*.xwidget.com.	A 1.2.3.4 ~
+xwidget.com.	MX 0 honeypot.example.com. ~
+*.xwidget.com.	MX 0 honeypot.example.com. ~
+xwidget.com.	TXT 'dnshijack : attack_page : www.google.com/safebrowsing : 20150705' ~
+
 fjjsl.com.cn.	A 1.2.3.4 ~
 *.fjjsl.com.cn.	A 1.2.3.4 ~
 fjjsl.com.cn.	MX 0 honeypot.example.com. ~
@@ -16227,6 +17283,12 @@ gulfinternationalbnkuae.com.	A 1.2.3.4 ~
 gulfinternationalbnkuae.com.	MX 0 honeypot.example.com. ~
 *.gulfinternationalbnkuae.com.	MX 0 honeypot.example.com. ~
 gulfinternationalbnkuae.com.	TXT 'dnshijack : phishing : krebsonsecurity.com : 20150528' ~
+
+mobilefreevacations.com.	A 1.2.3.4 ~
+*.mobilefreevacations.com.	A 1.2.3.4 ~
+mobilefreevacations.com.	MX 0 honeypot.example.com. ~
+*.mobilefreevacations.com.	MX 0 honeypot.example.com. ~
+mobilefreevacations.com.	TXT 'dnshijack : cryptowall : techhelplist.com : 20150705' ~
 
 razercups.com.	A 1.2.3.4 ~
 *.razercups.com.	A 1.2.3.4 ~
@@ -16312,6 +17374,12 @@ users.otenet.gr.	MX 0 honeypot.example.com. ~
 *.users.otenet.gr.	MX 0 honeypot.example.com. ~
 users.otenet.gr.	TXT 'dnshijack : malicious : malwareurls.joxeankoret.com/ : 20150609' ~
 
+ugotkey.com.	A 1.2.3.4 ~
+*.ugotkey.com.	A 1.2.3.4 ~
+ugotkey.com.	MX 0 honeypot.example.com. ~
+*.ugotkey.com.	MX 0 honeypot.example.com. ~
+ugotkey.com.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 zhonghe-zg.com.	A 1.2.3.4 ~
 *.zhonghe-zg.com.	A 1.2.3.4 ~
 zhonghe-zg.com.	MX 0 honeypot.example.com. ~
@@ -16341,6 +17409,12 @@ downtopcget.com.	A 1.2.3.4 ~
 downtopcget.com.	MX 0 honeypot.example.com. ~
 *.downtopcget.com.	MX 0 honeypot.example.com. ~
 downtopcget.com.	TXT 'dnshijack : phishing : krebsonsecurity.com : 20150528' ~
+
+qetes.eu.	A 1.2.3.4 ~
+*.qetes.eu.	A 1.2.3.4 ~
+qetes.eu.	MX 0 honeypot.example.com. ~
+*.qetes.eu.	MX 0 honeypot.example.com. ~
+qetes.eu.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 doushimm.com.	A 1.2.3.4 ~
 *.doushimm.com.	A 1.2.3.4 ~
@@ -16540,6 +17614,18 @@ a.138z.com.	MX 0 honeypot.example.com. ~
 *.a.138z.com.	MX 0 honeypot.example.com. ~
 a.138z.com.	TXT 'dnshijack : malicious : www.mwsl.org.cn/ : 20150604' ~
 
+gader.eu.	A 1.2.3.4 ~
+*.gader.eu.	A 1.2.3.4 ~
+gader.eu.	MX 0 honeypot.example.com. ~
+*.gader.eu.	MX 0 honeypot.example.com. ~
+gader.eu.	TXT 'dnshijack : c&c : private : 20150708' ~
+
+www.retetethermomix.ro.	A 1.2.3.4 ~
+*.www.retetethermomix.ro.	A 1.2.3.4 ~
+www.retetethermomix.ro.	MX 0 honeypot.example.com. ~
+*.www.retetethermomix.ro.	MX 0 honeypot.example.com. ~
+www.retetethermomix.ro.	TXT 'dnshijack : cryptowall : techhelplist.com : 20150705' ~
+
 lajornadadeoriente.com.mx.	A 1.2.3.4 ~
 *.lajornadadeoriente.com.mx.	A 1.2.3.4 ~
 lajornadadeoriente.com.mx.	MX 0 honeypot.example.com. ~
@@ -16606,6 +17692,12 @@ urchilaa.com.	MX 0 honeypot.example.com. ~
 *.urchilaa.com.	MX 0 honeypot.example.com. ~
 urchilaa.com.	TXT 'dnshijack : phishing : krebsonsecurity.com : 20150528' ~
 
+crowdspace.net.	A 1.2.3.4 ~
+*.crowdspace.net.	A 1.2.3.4 ~
+crowdspace.net.	MX 0 honeypot.example.com. ~
+*.crowdspace.net.	MX 0 honeypot.example.com. ~
+crowdspace.net.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 alopsitta.ronin-house.ru.	A 1.2.3.4 ~
 *.alopsitta.ronin-house.ru.	A 1.2.3.4 ~
 alopsitta.ronin-house.ru.	MX 0 honeypot.example.com. ~
@@ -16660,6 +17752,12 @@ oxiouo.com.	MX 0 honeypot.example.com. ~
 *.oxiouo.com.	MX 0 honeypot.example.com. ~
 oxiouo.com.	TXT 'dnshijack : malicious : malwareurls.joxeankoret.com/ : 20150702 : 20150511' ~
 
+lifegold.net.	A 1.2.3.4 ~
+*.lifegold.net.	A 1.2.3.4 ~
+lifegold.net.	MX 0 honeypot.example.com. ~
+*.lifegold.net.	MX 0 honeypot.example.com. ~
+lifegold.net.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 styletechnology.me.	A 1.2.3.4 ~
 *.styletechnology.me.	A 1.2.3.4 ~
 styletechnology.me.	MX 0 honeypot.example.com. ~
@@ -16708,6 +17806,12 @@ quick-step-shop.ru.	MX 0 honeypot.example.com. ~
 *.quick-step-shop.ru.	MX 0 honeypot.example.com. ~
 quick-step-shop.ru.	TXT 'dnshijack : malicious : malwareurls.joxeankoret.com/ : 20150609' ~
 
+sellsure.net.	A 1.2.3.4 ~
+*.sellsure.net.	A 1.2.3.4 ~
+sellsure.net.	MX 0 honeypot.example.com. ~
+*.sellsure.net.	MX 0 honeypot.example.com. ~
+sellsure.net.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 alalaba.ronin-file.ru.	A 1.2.3.4 ~
 *.alalaba.ronin-file.ru.	A 1.2.3.4 ~
 alalaba.ronin-file.ru.	MX 0 honeypot.example.com. ~
@@ -16737,6 +17841,12 @@ comfortdownmanage.com.	A 1.2.3.4 ~
 comfortdownmanage.com.	MX 0 honeypot.example.com. ~
 *.comfortdownmanage.com.	MX 0 honeypot.example.com. ~
 comfortdownmanage.com.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150621' ~
+
+bcsynergies.com.	A 1.2.3.4 ~
+*.bcsynergies.com.	A 1.2.3.4 ~
+bcsynergies.com.	MX 0 honeypot.example.com. ~
+*.bcsynergies.com.	MX 0 honeypot.example.com. ~
+bcsynergies.com.	TXT 'dnshijack : attack_page : www.google.com/safebrowsing : 20150705' ~
 
 www118.lkkww.com.	A 1.2.3.4 ~
 *.www118.lkkww.com.	A 1.2.3.4 ~
@@ -16779,6 +17889,12 @@ forum.magnosoftware.com.	A 1.2.3.4 ~
 forum.magnosoftware.com.	MX 0 honeypot.example.com. ~
 *.forum.magnosoftware.com.	MX 0 honeypot.example.com. ~
 forum.magnosoftware.com.	TXT 'dnshijack : malicious : malwareurls.joxeankoret.com/ : 20150613' ~
+
+yembonegroup.com.	A 1.2.3.4 ~
+*.yembonegroup.com.	A 1.2.3.4 ~
+yembonegroup.com.	MX 0 honeypot.example.com. ~
+*.yembonegroup.com.	MX 0 honeypot.example.com. ~
+yembonegroup.com.	TXT 'dnshijack : attack_page : www.google.com/safebrowsing : 20150705' ~
 
 yxb77.com.	A 1.2.3.4 ~
 *.yxb77.com.	A 1.2.3.4 ~
@@ -16870,6 +17986,12 @@ skydovecourier.com.	MX 0 honeypot.example.com. ~
 *.skydovecourier.com.	MX 0 honeypot.example.com. ~
 skydovecourier.com.	TXT 'dnshijack : phishing : krebsonsecurity.com : 20150528' ~
 
+kentpetersmeyer.com.	A 1.2.3.4 ~
+*.kentpetersmeyer.com.	A 1.2.3.4 ~
+kentpetersmeyer.com.	MX 0 honeypot.example.com. ~
+*.kentpetersmeyer.com.	MX 0 honeypot.example.com. ~
+kentpetersmeyer.com.	TXT 'dnshijack : cryptowall : techhelplist.com : 20150705' ~
+
 xiao2013-12.yxdown.cn.	A 1.2.3.4 ~
 *.xiao2013-12.yxdown.cn.	A 1.2.3.4 ~
 xiao2013-12.yxdown.cn.	MX 0 honeypot.example.com. ~
@@ -16917,6 +18039,18 @@ collectorcon.com.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com
 77vvee.com.	MX 0 honeypot.example.com. ~
 *.77vvee.com.	MX 0 honeypot.example.com. ~
 77vvee.com.	TXT 'dnshijack : attackpage : safebrowsing.google.com : 20150530 : 20150307 : 20141213' ~
+
+vocakemenir.eu.	A 1.2.3.4 ~
+*.vocakemenir.eu.	A 1.2.3.4 ~
+vocakemenir.eu.	MX 0 honeypot.example.com. ~
+*.vocakemenir.eu.	MX 0 honeypot.example.com. ~
+vocakemenir.eu.	TXT 'dnshijack : c&c : private : 20150708' ~
+
+wlrfjgojtlqel.com.	A 1.2.3.4 ~
+*.wlrfjgojtlqel.com.	A 1.2.3.4 ~
+wlrfjgojtlqel.com.	MX 0 honeypot.example.com. ~
+*.wlrfjgojtlqel.com.	MX 0 honeypot.example.com. ~
+wlrfjgojtlqel.com.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 download.qweas.com.	A 1.2.3.4 ~
 *.download.qweas.com.	A 1.2.3.4 ~
@@ -17020,6 +18154,12 @@ ribnix.com.	MX 0 honeypot.example.com. ~
 *.ribnix.com.	MX 0 honeypot.example.com. ~
 ribnix.com.	TXT 'dnshijack : malicious : malwareurls.joxeankoret.com/ : 20150609' ~
 
+nailtalk.net.	A 1.2.3.4 ~
+*.nailtalk.net.	A 1.2.3.4 ~
+nailtalk.net.	MX 0 honeypot.example.com. ~
+*.nailtalk.net.	MX 0 honeypot.example.com. ~
+nailtalk.net.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 exejob.ru.	A 1.2.3.4 ~
 *.exejob.ru.	A 1.2.3.4 ~
 exejob.ru.	MX 0 honeypot.example.com. ~
@@ -17122,6 +18262,12 @@ atterso.onlinephoenix.ru.	MX 0 honeypot.example.com. ~
 *.atterso.onlinephoenix.ru.	MX 0 honeypot.example.com. ~
 atterso.onlinephoenix.ru.	TXT 'dnshijack : malicious : malwareurls.joxeankoret.com/ : 20150607' ~
 
+gadoc.eu.	A 1.2.3.4 ~
+*.gadoc.eu.	A 1.2.3.4 ~
+gadoc.eu.	MX 0 honeypot.example.com. ~
+*.gadoc.eu.	MX 0 honeypot.example.com. ~
+gadoc.eu.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 akradosa.sk.	A 1.2.3.4 ~
 *.akradosa.sk.	A 1.2.3.4 ~
 akradosa.sk.	MX 0 honeypot.example.com. ~
@@ -17151,6 +18297,12 @@ pc-pointers.com.	A 1.2.3.4 ~
 pc-pointers.com.	MX 0 honeypot.example.com. ~
 *.pc-pointers.com.	MX 0 honeypot.example.com. ~
 pc-pointers.com.	TXT 'dnshijack : iframe : labs.sucuri.net/?malware : 20150530 : 20150307 : 20141213' ~
+
+holiday-dream.com.	A 1.2.3.4 ~
+*.holiday-dream.com.	A 1.2.3.4 ~
+holiday-dream.com.	MX 0 honeypot.example.com. ~
+*.holiday-dream.com.	MX 0 honeypot.example.com. ~
+holiday-dream.com.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 wt9.97sky.cn.	A 1.2.3.4 ~
 *.wt9.97sky.cn.	A 1.2.3.4 ~
@@ -17218,6 +18370,12 @@ supportoffice.likescandy.com.	MX 0 honeypot.example.com. ~
 *.supportoffice.likescandy.com.	MX 0 honeypot.example.com. ~
 supportoffice.likescandy.com.	TXT 'dnshijack : njrat :  : cybertracker.malwarehunterteam.com/ : 20150604' ~
 
+summerstation.net.	A 1.2.3.4 ~
+*.summerstation.net.	A 1.2.3.4 ~
+summerstation.net.	MX 0 honeypot.example.com. ~
+*.summerstation.net.	MX 0 honeypot.example.com. ~
+summerstation.net.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 get.appearsbest.com.	A 1.2.3.4 ~
 *.get.appearsbest.com.	A 1.2.3.4 ~
 get.appearsbest.com.	MX 0 honeypot.example.com. ~
@@ -17247,6 +18405,12 @@ kangyuanshoes.com.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.co
 82sz.com.	MX 0 honeypot.example.com. ~
 *.82sz.com.	MX 0 honeypot.example.com. ~
 82sz.com.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150530 : 20150322' ~
+
+augisegduscqoa.com.	A 1.2.3.4 ~
+*.augisegduscqoa.com.	A 1.2.3.4 ~
+augisegduscqoa.com.	MX 0 honeypot.example.com. ~
+*.augisegduscqoa.com.	MX 0 honeypot.example.com. ~
+augisegduscqoa.com.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 auderda.ellogroup.ru.	A 1.2.3.4 ~
 *.auderda.ellogroup.ru.	A 1.2.3.4 ~
@@ -17428,11 +18592,29 @@ uvid.in.	MX 0 honeypot.example.com. ~
 *.uvid.in.	MX 0 honeypot.example.com. ~
 uvid.in.	TXT 'dnshijack : attack_page : www.google.com/safebrowsing : 20150628' ~
 
+edrotntexplore.info.	A 1.2.3.4 ~
+*.edrotntexplore.info.	A 1.2.3.4 ~
+edrotntexplore.info.	MX 0 honeypot.example.com. ~
+*.edrotntexplore.info.	MX 0 honeypot.example.com. ~
+edrotntexplore.info.	TXT 'dnshijack : c&c : private : 20150708' ~
+
+hcivqhccvbvf.net.	A 1.2.3.4 ~
+*.hcivqhccvbvf.net.	A 1.2.3.4 ~
+hcivqhccvbvf.net.	MX 0 honeypot.example.com. ~
+*.hcivqhccvbvf.net.	MX 0 honeypot.example.com. ~
+hcivqhccvbvf.net.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 gzknx.com.	A 1.2.3.4 ~
 *.gzknx.com.	A 1.2.3.4 ~
 gzknx.com.	MX 0 honeypot.example.com. ~
 *.gzknx.com.	MX 0 honeypot.example.com. ~
 gzknx.com.	TXT 'dnshijack : attack_page : www.google.com/safebrowsing : 20150530 : 20150326' ~
+
+purel.eu.	A 1.2.3.4 ~
+*.purel.eu.	A 1.2.3.4 ~
+purel.eu.	MX 0 honeypot.example.com. ~
+*.purel.eu.	MX 0 honeypot.example.com. ~
+purel.eu.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 62692222.com.	A 1.2.3.4 ~
 *.62692222.com.	A 1.2.3.4 ~
@@ -17896,6 +19078,12 @@ bt.lixingba.cn.	MX 0 honeypot.example.com. ~
 *.bt.lixingba.cn.	MX 0 honeypot.example.com. ~
 bt.lixingba.cn.	TXT 'dnshijack : malicious : www.mwsl.org.cn/ : 20150615' ~
 
+eevavaejoo.co.vu.	A 1.2.3.4 ~
+*.eevavaejoo.co.vu.	A 1.2.3.4 ~
+eevavaejoo.co.vu.	MX 0 honeypot.example.com. ~
+*.eevavaejoo.co.vu.	MX 0 honeypot.example.com. ~
+eevavaejoo.co.vu.	TXT 'dnshijack : attack_page : www.google.com/safebrowsing : 20150705' ~
+
 word2.ru.	A 1.2.3.4 ~
 *.word2.ru.	A 1.2.3.4 ~
 word2.ru.	MX 0 honeypot.example.com. ~
@@ -17992,6 +19180,12 @@ nossafail.blogspot.com.br.	MX 0 honeypot.example.com. ~
 *.nossafail.blogspot.com.br.	MX 0 honeypot.example.com. ~
 nossafail.blogspot.com.br.	TXT 'dnshijack : malicious : malwareurls.joxeankoret.com/ : 20150609' ~
 
+mdt-uae.com.	A 1.2.3.4 ~
+*.mdt-uae.com.	A 1.2.3.4 ~
+mdt-uae.com.	MX 0 honeypot.example.com. ~
+*.mdt-uae.com.	MX 0 honeypot.example.com. ~
+mdt-uae.com.	TXT 'dnshijack : cryptowall : techhelplist.com : 20150705' ~
+
 oinst03.eu.	A 1.2.3.4 ~
 *.oinst03.eu.	A 1.2.3.4 ~
 oinst03.eu.	MX 0 honeypot.example.com. ~
@@ -18027,6 +19221,18 @@ mailnine.com.	A 1.2.3.4 ~
 mailnine.com.	MX 0 honeypot.example.com. ~
 *.mailnine.com.	MX 0 honeypot.example.com. ~
 mailnine.com.	TXT 'dnshijack : phishing : krebsonsecurity.com : 20150528' ~
+
+pygsrnpckgqh2q.com.	A 1.2.3.4 ~
+*.pygsrnpckgqh2q.com.	A 1.2.3.4 ~
+pygsrnpckgqh2q.com.	MX 0 honeypot.example.com. ~
+*.pygsrnpckgqh2q.com.	MX 0 honeypot.example.com. ~
+pygsrnpckgqh2q.com.	TXT 'dnshijack : c&c : private : 20150708' ~
+
+qptxxvldpdfo.biz.	A 1.2.3.4 ~
+*.qptxxvldpdfo.biz.	A 1.2.3.4 ~
+qptxxvldpdfo.biz.	MX 0 honeypot.example.com. ~
+*.qptxxvldpdfo.biz.	MX 0 honeypot.example.com. ~
+qptxxvldpdfo.biz.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 interfacebgratis.comlu.com.	A 1.2.3.4 ~
 *.interfacebgratis.comlu.com.	A 1.2.3.4 ~
@@ -18106,6 +19312,12 @@ bdl.morsou.com.	MX 0 honeypot.example.com. ~
 *.bdl.morsou.com.	MX 0 honeypot.example.com. ~
 bdl.morsou.com.	TXT 'dnshijack : malicious : www.mwsl.org.cn/ : 20150615' ~
 
+maguysdifqitus.com.	A 1.2.3.4 ~
+*.maguysdifqitus.com.	A 1.2.3.4 ~
+maguysdifqitus.com.	MX 0 honeypot.example.com. ~
+*.maguysdifqitus.com.	MX 0 honeypot.example.com. ~
+maguysdifqitus.com.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 dbyig.com.	A 1.2.3.4 ~
 *.dbyig.com.	A 1.2.3.4 ~
 dbyig.com.	MX 0 honeypot.example.com. ~
@@ -18117,6 +19329,18 @@ yiheng.jztedu.com.	A 1.2.3.4 ~
 yiheng.jztedu.com.	MX 0 honeypot.example.com. ~
 *.yiheng.jztedu.com.	MX 0 honeypot.example.com. ~
 yiheng.jztedu.com.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150530 : 20150327' ~
+
+sweetvalley.net.	A 1.2.3.4 ~
+*.sweetvalley.net.	A 1.2.3.4 ~
+sweetvalley.net.	MX 0 honeypot.example.com. ~
+*.sweetvalley.net.	MX 0 honeypot.example.com. ~
+sweetvalley.net.	TXT 'dnshijack : c&c : private : 20150708' ~
+
+lyset.eu.	A 1.2.3.4 ~
+*.lyset.eu.	A 1.2.3.4 ~
+lyset.eu.	MX 0 honeypot.example.com. ~
+*.lyset.eu.	MX 0 honeypot.example.com. ~
+lyset.eu.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 post.teamepic.ca.	A 1.2.3.4 ~
 *.post.teamepic.ca.	A 1.2.3.4 ~
@@ -18159,6 +19383,12 @@ bpcrfectchoice1.com.	A 1.2.3.4 ~
 bpcrfectchoice1.com.	MX 0 honeypot.example.com. ~
 *.bpcrfectchoice1.com.	MX 0 honeypot.example.com. ~
 bpcrfectchoice1.com.	TXT 'dnshijack : passwordstealer : www.exposedbotnets.com/ : 20150604' ~
+
+purol.eu.	A 1.2.3.4 ~
+*.purol.eu.	A 1.2.3.4 ~
+purol.eu.	MX 0 honeypot.example.com. ~
+*.purol.eu.	MX 0 honeypot.example.com. ~
+purol.eu.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 www.yytt2012.com.	A 1.2.3.4 ~
 *.www.yytt2012.com.	A 1.2.3.4 ~
@@ -18280,6 +19510,12 @@ zzjgjjh.com.	MX 0 honeypot.example.com. ~
 *.zzjgjjh.com.	MX 0 honeypot.example.com. ~
 zzjgjjh.com.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150530 : 20150322' ~
 
+pujol.eu.	A 1.2.3.4 ~
+*.pujol.eu.	A 1.2.3.4 ~
+pujol.eu.	MX 0 honeypot.example.com. ~
+*.pujol.eu.	MX 0 honeypot.example.com. ~
+pujol.eu.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 brbyus.com.	A 1.2.3.4 ~
 *.brbyus.com.	A 1.2.3.4 ~
 brbyus.com.	MX 0 honeypot.example.com. ~
@@ -18381,6 +19617,12 @@ wpthemesdownloads.tk.	A 1.2.3.4 ~
 wpthemesdownloads.tk.	MX 0 honeypot.example.com. ~
 *.wpthemesdownloads.tk.	MX 0 honeypot.example.com. ~
 wpthemesdownloads.tk.	TXT 'dnshijack : malicious : malwareurls.joxeankoret.com/ : 20150609' ~
+
+lymos.eu.	A 1.2.3.4 ~
+*.lymos.eu.	A 1.2.3.4 ~
+lymos.eu.	MX 0 honeypot.example.com. ~
+*.lymos.eu.	MX 0 honeypot.example.com. ~
+lymos.eu.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 findmylphones.us.	A 1.2.3.4 ~
 *.findmylphones.us.	A 1.2.3.4 ~
@@ -18490,6 +19732,12 @@ bstandardch.com.	MX 0 honeypot.example.com. ~
 *.bstandardch.com.	MX 0 honeypot.example.com. ~
 bstandardch.com.	TXT 'dnshijack : phishing : krebsonsecurity.com : 20150528' ~
 
+gacek.eu.	A 1.2.3.4 ~
+*.gacek.eu.	A 1.2.3.4 ~
+gacek.eu.	MX 0 honeypot.example.com. ~
+*.gacek.eu.	MX 0 honeypot.example.com. ~
+gacek.eu.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 xczys.com.	A 1.2.3.4 ~
 *.xczys.com.	A 1.2.3.4 ~
 xczys.com.	MX 0 honeypot.example.com. ~
@@ -18513,6 +19761,12 @@ get.friendsgotoprod.com.	A 1.2.3.4 ~
 get.friendsgotoprod.com.	MX 0 honeypot.example.com. ~
 *.get.friendsgotoprod.com.	MX 0 honeypot.example.com. ~
 get.friendsgotoprod.com.	TXT 'dnshijack : malicious : safebrowsing.clients.google.com : 20150625' ~
+
+galip.eu.	A 1.2.3.4 ~
+*.galip.eu.	A 1.2.3.4 ~
+galip.eu.	MX 0 honeypot.example.com. ~
+*.galip.eu.	MX 0 honeypot.example.com. ~
+galip.eu.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 146460.com.	A 1.2.3.4 ~
 *.146460.com.	A 1.2.3.4 ~
@@ -18555,6 +19809,12 @@ landertech.com.	A 1.2.3.4 ~
 landertech.com.	MX 0 honeypot.example.com. ~
 *.landertech.com.	MX 0 honeypot.example.com. ~
 landertech.com.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150702 : 20150407' ~
+
+knownspace.net.	A 1.2.3.4 ~
+*.knownspace.net.	A 1.2.3.4 ~
+knownspace.net.	MX 0 honeypot.example.com. ~
+*.knownspace.net.	MX 0 honeypot.example.com. ~
+knownspace.net.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 com-2i7.net.	A 1.2.3.4 ~
 *.com-2i7.net.	A 1.2.3.4 ~
@@ -18712,6 +19972,12 @@ chinesevie.com.	TXT 'dnshijack : malware : malwareurls.joxeankoret.com/ : 201507
 *.61bb.net.	MX 0 honeypot.example.com. ~
 61bb.net.	TXT 'dnshijack : malicious : www.mwsl.org.cn/ : 20150604' ~
 
+mevtutorial.in.	A 1.2.3.4 ~
+*.mevtutorial.in.	A 1.2.3.4 ~
+mevtutorial.in.	MX 0 honeypot.example.com. ~
+*.mevtutorial.in.	MX 0 honeypot.example.com. ~
+mevtutorial.in.	TXT 'dnshijack : cryptowall : techhelplist.com : 20150705' ~
+
 unicograndegolf.com.	A 1.2.3.4 ~
 *.unicograndegolf.com.	A 1.2.3.4 ~
 unicograndegolf.com.	MX 0 honeypot.example.com. ~
@@ -18753,6 +20019,12 @@ webscr.cgi-bin.payzen.securesession.net.	A 1.2.3.4 ~
 webscr.cgi-bin.payzen.securesession.net.	MX 0 honeypot.example.com. ~
 *.webscr.cgi-bin.payzen.securesession.net.	MX 0 honeypot.example.com. ~
 webscr.cgi-bin.payzen.securesession.net.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150613' ~
+
+lyran.eu.	A 1.2.3.4 ~
+*.lyran.eu.	A 1.2.3.4 ~
+lyran.eu.	MX 0 honeypot.example.com. ~
+*.lyran.eu.	MX 0 honeypot.example.com. ~
+lyran.eu.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 orange.fr.yzstp.com.	A 1.2.3.4 ~
 *.orange.fr.yzstp.com.	A 1.2.3.4 ~
@@ -18886,6 +20158,12 @@ dskkkdjj329910.com.	TXT 'dnshijack : malicious : www.virustotal.com : 20150604' 
 *.606.xyz.	MX 0 honeypot.example.com. ~
 606.xyz.	TXT 'dnshijack : malicious : safebrowsing.clients.google.com : 20150604' ~
 
+aigunet.com.	A 1.2.3.4 ~
+*.aigunet.com.	A 1.2.3.4 ~
+aigunet.com.	MX 0 honeypot.example.com. ~
+*.aigunet.com.	MX 0 honeypot.example.com. ~
+aigunet.com.	TXT 'dnshijack : attack_page : www.google.com/safebrowsing : 20150705' ~
+
 20150901.	A 1.2.3.4 ~
 *.20150901.	A 1.2.3.4 ~
 20150901.	MX 0 honeypot.example.com. ~
@@ -18921,6 +20199,12 @@ tbaong.co.	A 1.2.3.4 ~
 tbaong.co.	MX 0 honeypot.example.com. ~
 *.tbaong.co.	MX 0 honeypot.example.com. ~
 tbaong.co.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150613' ~
+
+gatic.eu.	A 1.2.3.4 ~
+*.gatic.eu.	A 1.2.3.4 ~
+gatic.eu.	MX 0 honeypot.example.com. ~
+*.gatic.eu.	MX 0 honeypot.example.com. ~
+gatic.eu.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 atualizaseucadastro.vai.la.	A 1.2.3.4 ~
 *.atualizaseucadastro.vai.la.	A 1.2.3.4 ~
@@ -19036,6 +20320,12 @@ everton.com.	MX 0 honeypot.example.com. ~
 *.everton.com.	MX 0 honeypot.example.com. ~
 everton.com.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150702 : 20150508' ~
 
+galev.eu.	A 1.2.3.4 ~
+*.galev.eu.	A 1.2.3.4 ~
+galev.eu.	MX 0 honeypot.example.com. ~
+*.galev.eu.	MX 0 honeypot.example.com. ~
+galev.eu.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 jitaiqd.com.	A 1.2.3.4 ~
 *.jitaiqd.com.	A 1.2.3.4 ~
 jitaiqd.com.	MX 0 honeypot.example.com. ~
@@ -19126,6 +20416,12 @@ chizhoubymy.com.	MX 0 honeypot.example.com. ~
 *.chizhoubymy.com.	MX 0 honeypot.example.com. ~
 chizhoubymy.com.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150702 : 20150407' ~
 
+sykvfmrbjvj.com.	A 1.2.3.4 ~
+*.sykvfmrbjvj.com.	A 1.2.3.4 ~
+sykvfmrbjvj.com.	MX 0 honeypot.example.com. ~
+*.sykvfmrbjvj.com.	MX 0 honeypot.example.com. ~
+sykvfmrbjvj.com.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 wf-mail.don.ru.host1390940.serv53.hostland.pro.	A 1.2.3.4 ~
 *.wf-mail.don.ru.host1390940.serv53.hostland.pro.	A 1.2.3.4 ~
 wf-mail.don.ru.host1390940.serv53.hostland.pro.	MX 0 honeypot.example.com. ~
@@ -19167,6 +20463,12 @@ zbjkc.com.	A 1.2.3.4 ~
 zbjkc.com.	MX 0 honeypot.example.com. ~
 *.zbjkc.com.	MX 0 honeypot.example.com. ~
 zbjkc.com.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150530 : 20150322' ~
+
+walkhers.net.	A 1.2.3.4 ~
+*.walkhers.net.	A 1.2.3.4 ~
+walkhers.net.	MX 0 honeypot.example.com. ~
+*.walkhers.net.	MX 0 honeypot.example.com. ~
+walkhers.net.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 aaakemegood24.com.	A 1.2.3.4 ~
 *.aaakemegood24.com.	A 1.2.3.4 ~
@@ -19360,6 +20662,12 @@ imanaging.info.	MX 0 honeypot.example.com. ~
 *.imanaging.info.	MX 0 honeypot.example.com. ~
 imanaging.info.	TXT 'dnshijack : cryptowall : www.virustotal.com : 20150604' ~
 
+qekikyvutic.eu.	A 1.2.3.4 ~
+*.qekikyvutic.eu.	A 1.2.3.4 ~
+qekikyvutic.eu.	MX 0 honeypot.example.com. ~
+*.qekikyvutic.eu.	MX 0 honeypot.example.com. ~
+qekikyvutic.eu.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 51winjob.org.	A 1.2.3.4 ~
 *.51winjob.org.	A 1.2.3.4 ~
 51winjob.org.	MX 0 honeypot.example.com. ~
@@ -19396,6 +20704,12 @@ cuhmqe.com.	MX 0 honeypot.example.com. ~
 *.cuhmqe.com.	MX 0 honeypot.example.com. ~
 cuhmqe.com.	TXT 'dnshijack : malicious : malwareurls.joxeankoret.com/ : 20150702 : 20150515' ~
 
+thoughttravel.net.	A 1.2.3.4 ~
+*.thoughttravel.net.	A 1.2.3.4 ~
+thoughttravel.net.	MX 0 honeypot.example.com. ~
+*.thoughttravel.net.	MX 0 honeypot.example.com. ~
+thoughttravel.net.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 zsmisaki.com.	A 1.2.3.4 ~
 *.zsmisaki.com.	A 1.2.3.4 ~
 zsmisaki.com.	MX 0 honeypot.example.com. ~
@@ -19431,6 +20745,12 @@ limpiezaacuariodelnorte.com.	A 1.2.3.4 ~
 limpiezaacuariodelnorte.com.	MX 0 honeypot.example.com. ~
 *.limpiezaacuariodelnorte.com.	MX 0 honeypot.example.com. ~
 limpiezaacuariodelnorte.com.	TXT 'dnshijack : zeus : zeustracker.abuse.ch : 20150702 : 20150412' ~
+
+experiencetravel.net.	A 1.2.3.4 ~
+*.experiencetravel.net.	A 1.2.3.4 ~
+experiencetravel.net.	MX 0 honeypot.example.com. ~
+*.experiencetravel.net.	MX 0 honeypot.example.com. ~
+experiencetravel.net.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 anhuiguzhai.com.	A 1.2.3.4 ~
 *.anhuiguzhai.com.	A 1.2.3.4 ~
@@ -19570,6 +20890,12 @@ diankan.cc.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 201
 *.195193.com.	MX 0 honeypot.example.com. ~
 195193.com.	TXT 'dnshijack : malicious : malwareurls.joxeankoret.com/ : 20150702 : 20150511' ~
 
+giggag.com.	A 1.2.3.4 ~
+*.giggag.com.	A 1.2.3.4 ~
+giggag.com.	MX 0 honeypot.example.com. ~
+*.giggag.com.	MX 0 honeypot.example.com. ~
+giggag.com.	TXT 'dnshijack : attack_page : www.google.com/safebrowsing : 20150705' ~
+
 yfdiet.com.	A 1.2.3.4 ~
 *.yfdiet.com.	A 1.2.3.4 ~
 yfdiet.com.	MX 0 honeypot.example.com. ~
@@ -19708,17 +21034,41 @@ dxcrystal.com.	MX 0 honeypot.example.com. ~
 *.dxcrystal.com.	MX 0 honeypot.example.com. ~
 dxcrystal.com.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150702 : 20150407' ~
 
+yvyyyuttddll.com.	A 1.2.3.4 ~
+*.yvyyyuttddll.com.	A 1.2.3.4 ~
+yvyyyuttddll.com.	MX 0 honeypot.example.com. ~
+*.yvyyyuttddll.com.	MX 0 honeypot.example.com. ~
+yvyyyuttddll.com.	TXT 'dnshijack : c&c : private : 20150708' ~
+
+gadic.eu.	A 1.2.3.4 ~
+*.gadic.eu.	A 1.2.3.4 ~
+gadic.eu.	MX 0 honeypot.example.com. ~
+*.gadic.eu.	MX 0 honeypot.example.com. ~
+gadic.eu.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 st-bo.kz.	A 1.2.3.4 ~
 *.st-bo.kz.	A 1.2.3.4 ~
 st-bo.kz.	MX 0 honeypot.example.com. ~
 *.st-bo.kz.	MX 0 honeypot.example.com. ~
 st-bo.kz.	TXT 'dnshijack : malicious : malwareurls.joxeankoret.com : 20150530 : 20150322' ~
 
+focus-store-score.com.	A 1.2.3.4 ~
+*.focus-store-score.com.	A 1.2.3.4 ~
+focus-store-score.com.	MX 0 honeypot.example.com. ~
+*.focus-store-score.com.	MX 0 honeypot.example.com. ~
+focus-store-score.com.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 downlaod1.vstart.net.	A 1.2.3.4 ~
 *.downlaod1.vstart.net.	A 1.2.3.4 ~
 downlaod1.vstart.net.	MX 0 honeypot.example.com. ~
 *.downlaod1.vstart.net.	MX 0 honeypot.example.com. ~
 downlaod1.vstart.net.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150702 : 20150407' ~
+
+bothtalk.net.	A 1.2.3.4 ~
+*.bothtalk.net.	A 1.2.3.4 ~
+bothtalk.net.	MX 0 honeypot.example.com. ~
+*.bothtalk.net.	MX 0 honeypot.example.com. ~
+bothtalk.net.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 66jjkk.com.	A 1.2.3.4 ~
 *.66jjkk.com.	A 1.2.3.4 ~
@@ -19840,6 +21190,12 @@ chimedix.com.	MX 0 honeypot.example.com. ~
 *.chimedix.com.	MX 0 honeypot.example.com. ~
 chimedix.com.	TXT 'dnshijack : malicious : malwareurls.joxeankoret.com/ : 20150619' ~
 
+simplemodern.net.	A 1.2.3.4 ~
+*.simplemodern.net.	A 1.2.3.4 ~
+simplemodern.net.	MX 0 honeypot.example.com. ~
+*.simplemodern.net.	MX 0 honeypot.example.com. ~
+simplemodern.net.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 20160931.	A 1.2.3.4 ~
 *.20160931.	A 1.2.3.4 ~
 20160931.	MX 0 honeypot.example.com. ~
@@ -19869,6 +21225,12 @@ pollhouse.com.	A 1.2.3.4 ~
 pollhouse.com.	MX 0 honeypot.example.com. ~
 *.pollhouse.com.	MX 0 honeypot.example.com. ~
 pollhouse.com.	TXT 'dnshijack : phishing : krebsonsecurity.com : 20150528' ~
+
+afterlive.net.	A 1.2.3.4 ~
+*.afterlive.net.	A 1.2.3.4 ~
+afterlive.net.	MX 0 honeypot.example.com. ~
+*.afterlive.net.	MX 0 honeypot.example.com. ~
+afterlive.net.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 20160901.	A 1.2.3.4 ~
 *.20160901.	A 1.2.3.4 ~
@@ -20062,6 +21424,12 @@ th595.cn.	MX 0 honeypot.example.com. ~
 *.th595.cn.	MX 0 honeypot.example.com. ~
 th595.cn.	TXT 'dnshijack : www.google.com/safebrowsing : 20150628' ~
 
+waterspace.net.	A 1.2.3.4 ~
+*.waterspace.net.	A 1.2.3.4 ~
+waterspace.net.	MX 0 honeypot.example.com. ~
+*.waterspace.net.	MX 0 honeypot.example.com. ~
+waterspace.net.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 pahilyahoo.godisgreat.co.za.	A 1.2.3.4 ~
 *.pahilyahoo.godisgreat.co.za.	A 1.2.3.4 ~
 pahilyahoo.godisgreat.co.za.	MX 0 honeypot.example.com. ~
@@ -20170,6 +21538,12 @@ guerar6.org.	MX 0 honeypot.example.com. ~
 *.guerar6.org.	MX 0 honeypot.example.com. ~
 guerar6.org.	TXT 'dnshijack : malicious : malwareurls.joxeankoret.com : 20150530 : 20150313' ~
 
+usaalwayswar.com.	A 1.2.3.4 ~
+*.usaalwayswar.com.	A 1.2.3.4 ~
+usaalwayswar.com.	MX 0 honeypot.example.com. ~
+*.usaalwayswar.com.	MX 0 honeypot.example.com. ~
+usaalwayswar.com.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 3231198.com.	A 1.2.3.4 ~
 *.3231198.com.	A 1.2.3.4 ~
 3231198.com.	MX 0 honeypot.example.com. ~
@@ -20181,6 +21555,12 @@ guerar6.org.	TXT 'dnshijack : malicious : malwareurls.joxeankoret.com : 20150530
 622620.com.	MX 0 honeypot.example.com. ~
 *.622620.com.	MX 0 honeypot.example.com. ~
 622620.com.	TXT 'dnshijack : malicious : www.mwsl.org.cn/ : 20150604' ~
+
+payforusa.com.	A 1.2.3.4 ~
+*.payforusa.com.	A 1.2.3.4 ~
+payforusa.com.	MX 0 honeypot.example.com. ~
+*.payforusa.com.	MX 0 honeypot.example.com. ~
+payforusa.com.	TXT 'dnshijack : cryptowall : techhelplist.com : 20150705' ~
 
 apexplumbing.net.	A 1.2.3.4 ~
 *.apexplumbing.net.	A 1.2.3.4 ~
@@ -20308,6 +21688,12 @@ bisaneema.org.	MX 0 honeypot.example.com. ~
 *.bisaneema.org.	MX 0 honeypot.example.com. ~
 bisaneema.org.	TXT 'dnshijack : malware : malwareurls.joxeankoret.com/ : 20150702 : 20150508' ~
 
+qexofyqihid.eu.	A 1.2.3.4 ~
+*.qexofyqihid.eu.	A 1.2.3.4 ~
+qexofyqihid.eu.	MX 0 honeypot.example.com. ~
+*.qexofyqihid.eu.	MX 0 honeypot.example.com. ~
+qexofyqihid.eu.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 czbhzx.com.	A 1.2.3.4 ~
 *.czbhzx.com.	A 1.2.3.4 ~
 czbhzx.com.	MX 0 honeypot.example.com. ~
@@ -20355,6 +21741,12 @@ minecraftcode.me.	A 1.2.3.4 ~
 minecraftcode.me.	MX 0 honeypot.example.com. ~
 *.minecraftcode.me.	MX 0 honeypot.example.com. ~
 minecraftcode.me.	TXT 'dnshijack : harmful : safebrowsing.clients.google.com : 20150530 : 20150329' ~
+
+quality-click.com.	A 1.2.3.4 ~
+*.quality-click.com.	A 1.2.3.4 ~
+quality-click.com.	MX 0 honeypot.example.com. ~
+*.quality-click.com.	MX 0 honeypot.example.com. ~
+quality-click.com.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 aresplus.com.	A 1.2.3.4 ~
 *.aresplus.com.	A 1.2.3.4 ~
@@ -20410,6 +21802,12 @@ hao0506.com.	MX 0 honeypot.example.com. ~
 *.hao0506.com.	MX 0 honeypot.example.com. ~
 hao0506.com.	TXT 'dnshijack : attack_page : www.google.com/safebrowsing : 20150530 : 20150326' ~
 
+curlmyip.com.	A 1.2.3.4 ~
+*.curlmyip.com.	A 1.2.3.4 ~
+curlmyip.com.	MX 0 honeypot.example.com. ~
+*.curlmyip.com.	MX 0 honeypot.example.com. ~
+curlmyip.com.	TXT 'dnshijack : cryptowall : techhelplist.com : 20150705' ~
+
 bjcps.com.cn.	A 1.2.3.4 ~
 *.bjcps.com.cn.	A 1.2.3.4 ~
 bjcps.com.cn.	MX 0 honeypot.example.com. ~
@@ -20463,6 +21861,12 @@ xtqizu.com.	A 1.2.3.4 ~
 xtqizu.com.	MX 0 honeypot.example.com. ~
 *.xtqizu.com.	MX 0 honeypot.example.com. ~
 xtqizu.com.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150530 : 20150327' ~
+
+mbjuayiqowue.com.	A 1.2.3.4 ~
+*.mbjuayiqowue.com.	A 1.2.3.4 ~
+mbjuayiqowue.com.	MX 0 honeypot.example.com. ~
+*.mbjuayiqowue.com.	MX 0 honeypot.example.com. ~
+mbjuayiqowue.com.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 asoppdy.com.	A 1.2.3.4 ~
 *.asoppdy.com.	A 1.2.3.4 ~
@@ -20578,6 +21982,12 @@ xiongweiok.cn.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 
 *.17zhidao.com.	MX 0 honeypot.example.com. ~
 17zhidao.com.	TXT 'dnshijack : harmful : safebrowsing.clients.google.com : 20150530 : 20150315' ~
 
+motomiles.com.	A 1.2.3.4 ~
+*.motomiles.com.	A 1.2.3.4 ~
+motomiles.com.	MX 0 honeypot.example.com. ~
+*.motomiles.com.	MX 0 honeypot.example.com. ~
+motomiles.com.	TXT 'dnshijack : cryptowall : techhelplist.com : 20150705' ~
+
 securityupdaters.somee.com.	A 1.2.3.4 ~
 *.securityupdaters.somee.com.	A 1.2.3.4 ~
 securityupdaters.somee.com.	MX 0 honeypot.example.com. ~
@@ -20619,12 +22029,6 @@ tomloraso.com.	A 1.2.3.4 ~
 tomloraso.com.	MX 0 honeypot.example.com. ~
 *.tomloraso.com.	MX 0 honeypot.example.com. ~
 tomloraso.com.	TXT 'dnshijack : malicious : malwareurls.joxeankoret.com/ : 20150609' ~
-
-freedns.afraid.org.	A 1.2.3.4 ~
-*.freedns.afraid.org.	A 1.2.3.4 ~
-freedns.afraid.org.	MX 0 honeypot.example.com. ~
-*.freedns.afraid.org.	MX 0 honeypot.example.com. ~
-freedns.afraid.org.	TXT 'dnshijack : malicious : www.mwsl.org.cn/ : 20150703' ~
 
 mqwdaq.com.	A 1.2.3.4 ~
 *.mqwdaq.com.	A 1.2.3.4 ~
@@ -20848,6 +22252,12 @@ c38-mail.ru.	MX 0 honeypot.example.com. ~
 *.c38-mail.ru.	MX 0 honeypot.example.com. ~
 c38-mail.ru.	TXT 'dnshijack : phish : www.spamhaus.org/ : 20150528' ~
 
+mgroadpune.com.	A 1.2.3.4 ~
+*.mgroadpune.com.	A 1.2.3.4 ~
+mgroadpune.com.	MX 0 honeypot.example.com. ~
+*.mgroadpune.com.	MX 0 honeypot.example.com. ~
+mgroadpune.com.	TXT 'dnshijack : cryptowall : techhelplist.com : 20150705' ~
+
 wzxqy.com.	A 1.2.3.4 ~
 *.wzxqy.com.	A 1.2.3.4 ~
 wzxqy.com.	MX 0 honeypot.example.com. ~
@@ -20998,6 +22408,12 @@ jj.2hew7rtu.ru.	MX 0 honeypot.example.com. ~
 *.jj.2hew7rtu.ru.	MX 0 honeypot.example.com. ~
 jj.2hew7rtu.ru.	TXT 'dnshijack : malicious : malwareurls.joxeankoret.com/ : 20150609' ~
 
+volar.eu.	A 1.2.3.4 ~
+*.volar.eu.	A 1.2.3.4 ~
+volar.eu.	MX 0 honeypot.example.com. ~
+*.volar.eu.	MX 0 honeypot.example.com. ~
+volar.eu.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 secondsexandthecity.co.cc.	A 1.2.3.4 ~
 *.secondsexandthecity.co.cc.	A 1.2.3.4 ~
 secondsexandthecity.co.cc.	MX 0 honeypot.example.com. ~
@@ -21129,6 +22545,12 @@ jyhaijiao.com.	A 1.2.3.4 ~
 jyhaijiao.com.	MX 0 honeypot.example.com. ~
 *.jyhaijiao.com.	MX 0 honeypot.example.com. ~
 jyhaijiao.com.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150702 : 20150407' ~
+
+yaroshwelcome.com.	A 1.2.3.4 ~
+*.yaroshwelcome.com.	A 1.2.3.4 ~
+yaroshwelcome.com.	MX 0 honeypot.example.com. ~
+*.yaroshwelcome.com.	MX 0 honeypot.example.com. ~
+yaroshwelcome.com.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 icloud-wky.com.	A 1.2.3.4 ~
 *.icloud-wky.com.	A 1.2.3.4 ~
@@ -21508,6 +22930,12 @@ com-289.net.	MX 0 honeypot.example.com. ~
 *.com-289.net.	MX 0 honeypot.example.com. ~
 com-289.net.	TXT 'dnshijack : malspam : www.mywot.com : 20150607' ~
 
+dkoxqnnednme.biz.	A 1.2.3.4 ~
+*.dkoxqnnednme.biz.	A 1.2.3.4 ~
+dkoxqnnednme.biz.	MX 0 honeypot.example.com. ~
+*.dkoxqnnednme.biz.	MX 0 honeypot.example.com. ~
+dkoxqnnednme.biz.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 1147.org.	A 1.2.3.4 ~
 *.1147.org.	A 1.2.3.4 ~
 1147.org.	MX 0 honeypot.example.com. ~
@@ -21585,6 +23013,12 @@ clk.sjopt.com.	A 1.2.3.4 ~
 clk.sjopt.com.	MX 0 honeypot.example.com. ~
 *.clk.sjopt.com.	MX 0 honeypot.example.com. ~
 clk.sjopt.com.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150702 : 20150407' ~
+
+lyvufixyvet.eu.	A 1.2.3.4 ~
+*.lyvufixyvet.eu.	A 1.2.3.4 ~
+lyvufixyvet.eu.	MX 0 honeypot.example.com. ~
+*.lyvufixyvet.eu.	MX 0 honeypot.example.com. ~
+lyvufixyvet.eu.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 v4securedownload.com.	A 1.2.3.4 ~
 *.v4securedownload.com.	A 1.2.3.4 ~
@@ -21736,6 +23170,12 @@ geotakt.pl.	MX 0 honeypot.example.com. ~
 *.geotakt.pl.	MX 0 honeypot.example.com. ~
 geotakt.pl.	TXT 'dnshijack : malicious : malwareurls.joxeankoret.com : 20150530 : 20150315' ~
 
+jusfrtysjbveoqfam.com.	A 1.2.3.4 ~
+*.jusfrtysjbveoqfam.com.	A 1.2.3.4 ~
+jusfrtysjbveoqfam.com.	MX 0 honeypot.example.com. ~
+*.jusfrtysjbveoqfam.com.	MX 0 honeypot.example.com. ~
+jusfrtysjbveoqfam.com.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 rvkeda.com.	A 1.2.3.4 ~
 *.rvkeda.com.	A 1.2.3.4 ~
 rvkeda.com.	MX 0 honeypot.example.com. ~
@@ -21850,6 +23290,12 @@ rompaservices.com.	MX 0 honeypot.example.com. ~
 *.rompaservices.com.	MX 0 honeypot.example.com. ~
 rompaservices.com.	TXT 'dnshijack : malicious : malwareurls.joxeankoret.com/ : 20150619' ~
 
+winterflower.net.	A 1.2.3.4 ~
+*.winterflower.net.	A 1.2.3.4 ~
+winterflower.net.	MX 0 honeypot.example.com. ~
+*.winterflower.net.	MX 0 honeypot.example.com. ~
+winterflower.net.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 xowamaql.jimdo.com.	A 1.2.3.4 ~
 *.xowamaql.jimdo.com.	A 1.2.3.4 ~
 xowamaql.jimdo.com.	MX 0 honeypot.example.com. ~
@@ -21921,6 +23367,12 @@ whizoffice.com.	A 1.2.3.4 ~
 whizoffice.com.	MX 0 honeypot.example.com. ~
 *.whizoffice.com.	MX 0 honeypot.example.com. ~
 whizoffice.com.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150702 : 20150508' ~
+
+kickasssisters.com.	A 1.2.3.4 ~
+*.kickasssisters.com.	A 1.2.3.4 ~
+kickasssisters.com.	MX 0 honeypot.example.com. ~
+*.kickasssisters.com.	MX 0 honeypot.example.com. ~
+kickasssisters.com.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 gxrcx.com.	A 1.2.3.4 ~
 *.gxrcx.com.	A 1.2.3.4 ~
@@ -22036,6 +23488,12 @@ kanto.cc.	MX 0 honeypot.example.com. ~
 *.kanto.cc.	MX 0 honeypot.example.com. ~
 kanto.cc.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150702 : 20150407' ~
 
+materialcorner.net.	A 1.2.3.4 ~
+*.materialcorner.net.	A 1.2.3.4 ~
+materialcorner.net.	MX 0 honeypot.example.com. ~
+*.materialcorner.net.	MX 0 honeypot.example.com. ~
+materialcorner.net.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 homart-nig.com.	A 1.2.3.4 ~
 *.homart-nig.com.	A 1.2.3.4 ~
 homart-nig.com.	MX 0 honeypot.example.com. ~
@@ -22150,6 +23608,12 @@ heoeee.com.	MX 0 honeypot.example.com. ~
 *.heoeee.com.	MX 0 honeypot.example.com. ~
 heoeee.com.	TXT 'dnshijack : malicious : malwareurls.joxeankoret.com/ : 20150702 : 20150511' ~
 
+aleksandr-usov.com.	A 1.2.3.4 ~
+*.aleksandr-usov.com.	A 1.2.3.4 ~
+aleksandr-usov.com.	MX 0 honeypot.example.com. ~
+*.aleksandr-usov.com.	MX 0 honeypot.example.com. ~
+aleksandr-usov.com.	TXT 'dnshijack : attack_page : www.google.com/safebrowsing : 20150705' ~
+
 globaventure.com.	A 1.2.3.4 ~
 *.globaventure.com.	A 1.2.3.4 ~
 globaventure.com.	MX 0 honeypot.example.com. ~
@@ -22173,6 +23637,12 @@ fastwaysecurities.com.	TXT 'dnshijack : phishing : krebsonsecurity.com : 2015052
 99tif.com.	MX 0 honeypot.example.com. ~
 *.99tif.com.	MX 0 honeypot.example.com. ~
 99tif.com.	TXT 'dnshijack : attackpage : safebrowsing.google.com : 20150530 : 20150307 : 20141213' ~
+
+avtolols.ru.	A 1.2.3.4 ~
+*.avtolols.ru.	A 1.2.3.4 ~
+avtolols.ru.	MX 0 honeypot.example.com. ~
+*.avtolols.ru.	MX 0 honeypot.example.com. ~
+avtolols.ru.	TXT 'dnshijack : attack_page : www.google.com/safebrowsing : 20150705' ~
 
 acakemegood24.com.	A 1.2.3.4 ~
 *.acakemegood24.com.	A 1.2.3.4 ~
@@ -22342,6 +23812,12 @@ app.seojee.com.	MX 0 honeypot.example.com. ~
 *.app.seojee.com.	MX 0 honeypot.example.com. ~
 app.seojee.com.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150530 : 20150327' ~
 
+holehcofcwxm.biz.	A 1.2.3.4 ~
+*.holehcofcwxm.biz.	A 1.2.3.4 ~
+holehcofcwxm.biz.	MX 0 honeypot.example.com. ~
+*.holehcofcwxm.biz.	MX 0 honeypot.example.com. ~
+holehcofcwxm.biz.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 h148.cn.	A 1.2.3.4 ~
 *.h148.cn.	A 1.2.3.4 ~
 h148.cn.	MX 0 honeypot.example.com. ~
@@ -22365,6 +23841,12 @@ xemphimhayhd.ga.	A 1.2.3.4 ~
 xemphimhayhd.ga.	MX 0 honeypot.example.com. ~
 *.xemphimhayhd.ga.	MX 0 honeypot.example.com. ~
 xemphimhayhd.ga.	TXT 'dnshijack : malicious : safebrowsing.clients.google.com : 20150625' ~
+
+ganed.eu.	A 1.2.3.4 ~
+*.ganed.eu.	A 1.2.3.4 ~
+ganed.eu.	MX 0 honeypot.example.com. ~
+*.ganed.eu.	MX 0 honeypot.example.com. ~
+ganed.eu.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 modusaas.com.	A 1.2.3.4 ~
 *.modusaas.com.	A 1.2.3.4 ~
@@ -22414,6 +23896,18 @@ jayahlawat.com.	MX 0 honeypot.example.com. ~
 *.jayahlawat.com.	MX 0 honeypot.example.com. ~
 jayahlawat.com.	TXT 'dnshijack : attackpage : safebrowsing.google.com : 20150530 : 20150307 : 20141213' ~
 
+lifehouse.net.	A 1.2.3.4 ~
+*.lifehouse.net.	A 1.2.3.4 ~
+lifehouse.net.	MX 0 honeypot.example.com. ~
+*.lifehouse.net.	MX 0 honeypot.example.com. ~
+lifehouse.net.	TXT 'dnshijack : c&c : private : 20150708' ~
+
+ygisojwewdsirmo.com.	A 1.2.3.4 ~
+*.ygisojwewdsirmo.com.	A 1.2.3.4 ~
+ygisojwewdsirmo.com.	MX 0 honeypot.example.com. ~
+*.ygisojwewdsirmo.com.	MX 0 honeypot.example.com. ~
+ygisojwewdsirmo.com.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 zzsszz.cn.	A 1.2.3.4 ~
 *.zzsszz.cn.	A 1.2.3.4 ~
 zzsszz.cn.	MX 0 honeypot.example.com. ~
@@ -22443,6 +23937,12 @@ sp-storage.spccint.com.	A 1.2.3.4 ~
 sp-storage.spccint.com.	MX 0 honeypot.example.com. ~
 *.sp-storage.spccint.com.	MX 0 honeypot.example.com. ~
 sp-storage.spccint.com.	TXT 'dnshijack : malicious : malwareurls.joxeankoret.com/ : 20150702 : 20150515' ~
+
+rynyhipexon.eu.	A 1.2.3.4 ~
+*.rynyhipexon.eu.	A 1.2.3.4 ~
+rynyhipexon.eu.	MX 0 honeypot.example.com. ~
+*.rynyhipexon.eu.	MX 0 honeypot.example.com. ~
+rynyhipexon.eu.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 y822.com.	A 1.2.3.4 ~
 *.y822.com.	A 1.2.3.4 ~
@@ -22522,6 +24022,12 @@ mps-style.ru.	MX 0 honeypot.example.com. ~
 *.mps-style.ru.	MX 0 honeypot.example.com. ~
 mps-style.ru.	TXT 'dnshijack : zemot : www.spamhaus.org/ : 20150528' ~
 
+bayuchuntian.com.	A 1.2.3.4 ~
+*.bayuchuntian.com.	A 1.2.3.4 ~
+bayuchuntian.com.	MX 0 honeypot.example.com. ~
+*.bayuchuntian.com.	MX 0 honeypot.example.com. ~
+bayuchuntian.com.	TXT 'dnshijack : attack_page : www.google.com/safebrowsing : 20150705' ~
+
 etbld.com.	A 1.2.3.4 ~
 *.etbld.com.	A 1.2.3.4 ~
 etbld.com.	MX 0 honeypot.example.com. ~
@@ -22539,6 +24045,12 @@ zjlawyeronline.com.	A 1.2.3.4 ~
 zjlawyeronline.com.	MX 0 honeypot.example.com. ~
 *.zjlawyeronline.com.	MX 0 honeypot.example.com. ~
 zjlawyeronline.com.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150702 : 20150403' ~
+
+gadak.eu.	A 1.2.3.4 ~
+*.gadak.eu.	A 1.2.3.4 ~
+gadak.eu.	MX 0 honeypot.example.com. ~
+*.gadak.eu.	MX 0 honeypot.example.com. ~
+gadak.eu.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 honghuamm.com.	A 1.2.3.4 ~
 *.honghuamm.com.	A 1.2.3.4 ~
@@ -22720,6 +24232,12 @@ auinvest.eu.	MX 0 honeypot.example.com. ~
 *.auinvest.eu.	MX 0 honeypot.example.com. ~
 auinvest.eu.	TXT 'dnshijack : attack_page : www.google.com/safebrowsing : 20150530 : 20150326' ~
 
+artemis.isolutiontank.com.	A 1.2.3.4 ~
+*.artemis.isolutiontank.com.	A 1.2.3.4 ~
+artemis.isolutiontank.com.	MX 0 honeypot.example.com. ~
+*.artemis.isolutiontank.com.	MX 0 honeypot.example.com. ~
+artemis.isolutiontank.com.	TXT 'dnshijack : cryptowall : techhelplist.com : 20150705' ~
+
 www293.lewwwz.com.	A 1.2.3.4 ~
 *.www293.lewwwz.com.	A 1.2.3.4 ~
 www293.lewwwz.com.	MX 0 honeypot.example.com. ~
@@ -22750,6 +24268,12 @@ try.jleveux.com.	MX 0 honeypot.example.com. ~
 *.try.jleveux.com.	MX 0 honeypot.example.com. ~
 try.jleveux.com.	TXT 'dnshijack : necurs : isc.sans.org : 20150525' ~
 
+2n2qlh5hqcwrvo.net.	A 1.2.3.4 ~
+*.2n2qlh5hqcwrvo.net.	A 1.2.3.4 ~
+2n2qlh5hqcwrvo.net.	MX 0 honeypot.example.com. ~
+*.2n2qlh5hqcwrvo.net.	MX 0 honeypot.example.com. ~
+2n2qlh5hqcwrvo.net.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 bjhmt.com.	A 1.2.3.4 ~
 *.bjhmt.com.	A 1.2.3.4 ~
 bjhmt.com.	MX 0 honeypot.example.com. ~
@@ -22773,6 +24297,12 @@ www160.xxddoo.com.	A 1.2.3.4 ~
 www160.xxddoo.com.	MX 0 honeypot.example.com. ~
 *.www160.xxddoo.com.	MX 0 honeypot.example.com. ~
 www160.xxddoo.com.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150621' ~
+
+partyspace.net.	A 1.2.3.4 ~
+*.partyspace.net.	A 1.2.3.4 ~
+partyspace.net.	MX 0 honeypot.example.com. ~
+*.partyspace.net.	MX 0 honeypot.example.com. ~
+partyspace.net.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 gxjbl.com.	A 1.2.3.4 ~
 *.gxjbl.com.	A 1.2.3.4 ~
@@ -22840,6 +24370,12 @@ fchabkirchen-frauenberg.de.	TXT 'dnshijack : malicious : malwareurls.joxeankoret
 *.685.so.	MX 0 honeypot.example.com. ~
 685.so.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150530 : 20150322' ~
 
+matheusprado.com.br.	A 1.2.3.4 ~
+*.matheusprado.com.br.	A 1.2.3.4 ~
+matheusprado.com.br.	MX 0 honeypot.example.com. ~
+*.matheusprado.com.br.	MX 0 honeypot.example.com. ~
+matheusprado.com.br.	TXT 'dnshijack : cryptowall : techhelplist.com : 20150705' ~
+
 xiao2013-03.yxdown.cn.	A 1.2.3.4 ~
 *.xiao2013-03.yxdown.cn.	A 1.2.3.4 ~
 xiao2013-03.yxdown.cn.	MX 0 honeypot.example.com. ~
@@ -22881,6 +24417,12 @@ goodluckbean.com.	A 1.2.3.4 ~
 goodluckbean.com.	MX 0 honeypot.example.com. ~
 *.goodluckbean.com.	MX 0 honeypot.example.com. ~
 goodluckbean.com.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150702 : 20150407' ~
+
+lyken.eu.	A 1.2.3.4 ~
+*.lyken.eu.	A 1.2.3.4 ~
+lyken.eu.	MX 0 honeypot.example.com. ~
+*.lyken.eu.	MX 0 honeypot.example.com. ~
+lyken.eu.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 mime-tipe.ru.	A 1.2.3.4 ~
 *.mime-tipe.ru.	A 1.2.3.4 ~
@@ -23164,6 +24706,12 @@ fastfreedownloadion.com.	MX 0 honeypot.example.com. ~
 *.fastfreedownloadion.com.	MX 0 honeypot.example.com. ~
 fastfreedownloadion.com.	TXT 'dnshijack : malicious : malc0de.com/ : 20150702 : 20150403' ~
 
+kiugysyuaigus.com.	A 1.2.3.4 ~
+*.kiugysyuaigus.com.	A 1.2.3.4 ~
+kiugysyuaigus.com.	MX 0 honeypot.example.com. ~
+*.kiugysyuaigus.com.	MX 0 honeypot.example.com. ~
+kiugysyuaigus.com.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 laspfxb.com.	A 1.2.3.4 ~
 *.laspfxb.com.	A 1.2.3.4 ~
 laspfxb.com.	MX 0 honeypot.example.com. ~
@@ -23398,6 +24946,12 @@ ffeifh.com.	MX 0 honeypot.example.com. ~
 *.ffeifh.com.	MX 0 honeypot.example.com. ~
 ffeifh.com.	TXT 'dnshijack : malicious : malwareurls.joxeankoret.com/ : 20150702 : 20150515' ~
 
+ryhuzilywax.eu.	A 1.2.3.4 ~
+*.ryhuzilywax.eu.	A 1.2.3.4 ~
+ryhuzilywax.eu.	MX 0 honeypot.example.com. ~
+*.ryhuzilywax.eu.	MX 0 honeypot.example.com. ~
+ryhuzilywax.eu.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 yclydq.com.	A 1.2.3.4 ~
 *.yclydq.com.	A 1.2.3.4 ~
 yclydq.com.	MX 0 honeypot.example.com. ~
@@ -23476,6 +25030,12 @@ allthatsin.com.	MX 0 honeypot.example.com. ~
 *.allthatsin.com.	MX 0 honeypot.example.com. ~
 allthatsin.com.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150702 : 20150502' ~
 
+winterbottom.net.	A 1.2.3.4 ~
+*.winterbottom.net.	A 1.2.3.4 ~
+winterbottom.net.	MX 0 honeypot.example.com. ~
+*.winterbottom.net.	MX 0 honeypot.example.com. ~
+winterbottom.net.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 xinxinbaidu.com.cn.	A 1.2.3.4 ~
 *.xinxinbaidu.com.cn.	A 1.2.3.4 ~
 xinxinbaidu.com.cn.	MX 0 honeypot.example.com. ~
@@ -23535,6 +25095,12 @@ amazingunigrace.com.	A 1.2.3.4 ~
 amazingunigrace.com.	MX 0 honeypot.example.com. ~
 *.amazingunigrace.com.	MX 0 honeypot.example.com. ~
 amazingunigrace.com.	TXT 'dnshijack : maliciousjs : labs.sucuri.net/ : 20150530 : 20150322' ~
+
+scccrltcccvp.com.	A 1.2.3.4 ~
+*.scccrltcccvp.com.	A 1.2.3.4 ~
+scccrltcccvp.com.	MX 0 honeypot.example.com. ~
+*.scccrltcccvp.com.	MX 0 honeypot.example.com. ~
+scccrltcccvp.com.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 cncc.ccbkr.com.	A 1.2.3.4 ~
 *.cncc.ccbkr.com.	A 1.2.3.4 ~
@@ -23794,6 +25360,12 @@ joomla-green.com.	MX 0 honeypot.example.com. ~
 *.joomla-green.com.	MX 0 honeypot.example.com. ~
 joomla-green.com.	TXT 'dnshijack : magnitude_ek : research.zscaler.com : 20150604' ~
 
+cekharga.ariefew.com.	A 1.2.3.4 ~
+*.cekharga.ariefew.com.	A 1.2.3.4 ~
+cekharga.ariefew.com.	MX 0 honeypot.example.com. ~
+*.cekharga.ariefew.com.	MX 0 honeypot.example.com. ~
+cekharga.ariefew.com.	TXT 'dnshijack : cryptowall : techhelplist.com : 20150705' ~
+
 naturemost.it.	A 1.2.3.4 ~
 *.naturemost.it.	A 1.2.3.4 ~
 naturemost.it.	MX 0 honeypot.example.com. ~
@@ -23811,6 +25383,12 @@ down988.cn.	A 1.2.3.4 ~
 down988.cn.	MX 0 honeypot.example.com. ~
 *.down988.cn.	MX 0 honeypot.example.com. ~
 down988.cn.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150530 : 20150331' ~
+
+torichipinis.com.	A 1.2.3.4 ~
+*.torichipinis.com.	A 1.2.3.4 ~
+torichipinis.com.	MX 0 honeypot.example.com. ~
+*.torichipinis.com.	MX 0 honeypot.example.com. ~
+torichipinis.com.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 52cfw.com.	A 1.2.3.4 ~
 *.52cfw.com.	A 1.2.3.4 ~
@@ -23835,6 +25413,12 @@ htwmusic.com.	A 1.2.3.4 ~
 htwmusic.com.	MX 0 honeypot.example.com. ~
 *.htwmusic.com.	MX 0 honeypot.example.com. ~
 htwmusic.com.	TXT 'dnshijack : attack_page : www.google.com/safebrowsing : 20150530 : 20150326' ~
+
+galor.eu.	A 1.2.3.4 ~
+*.galor.eu.	A 1.2.3.4 ~
+galor.eu.	MX 0 honeypot.example.com. ~
+*.galor.eu.	MX 0 honeypot.example.com. ~
+galor.eu.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 90tif.com.	A 1.2.3.4 ~
 *.90tif.com.	A 1.2.3.4 ~
@@ -23968,6 +25552,12 @@ boatpropshop.com.	MX 0 honeypot.example.com. ~
 *.boatpropshop.com.	MX 0 honeypot.example.com. ~
 boatpropshop.com.	TXT 'dnshijack : malicious : malwareurls.joxeankoret.com/ : 20150607' ~
 
+clocksoffers.com.	A 1.2.3.4 ~
+*.clocksoffers.com.	A 1.2.3.4 ~
+clocksoffers.com.	MX 0 honeypot.example.com. ~
+*.clocksoffers.com.	MX 0 honeypot.example.com. ~
+clocksoffers.com.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 bonuswlf.bget.ru.	A 1.2.3.4 ~
 *.bonuswlf.bget.ru.	A 1.2.3.4 ~
 bonuswlf.bget.ru.	MX 0 honeypot.example.com. ~
@@ -23992,6 +25582,12 @@ bpbrfectchoice1.com.	MX 0 honeypot.example.com. ~
 *.bpbrfectchoice1.com.	MX 0 honeypot.example.com. ~
 bpbrfectchoice1.com.	TXT 'dnshijack : passwordstealer : www.exposedbotnets.com/ : 20150604' ~
 
+dimutobihom.eu.	A 1.2.3.4 ~
+*.dimutobihom.eu.	A 1.2.3.4 ~
+dimutobihom.eu.	MX 0 honeypot.example.com. ~
+*.dimutobihom.eu.	MX 0 honeypot.example.com. ~
+dimutobihom.eu.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 admin1.youmagnofile.com.	A 1.2.3.4 ~
 *.admin1.youmagnofile.com.	A 1.2.3.4 ~
 admin1.youmagnofile.com.	MX 0 honeypot.example.com. ~
@@ -24003,6 +25599,12 @@ avmband.r98.ir.	A 1.2.3.4 ~
 avmband.r98.ir.	MX 0 honeypot.example.com. ~
 *.avmband.r98.ir.	MX 0 honeypot.example.com. ~
 avmband.r98.ir.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150703' ~
+
+nailbreak.net.	A 1.2.3.4 ~
+*.nailbreak.net.	A 1.2.3.4 ~
+nailbreak.net.	MX 0 honeypot.example.com. ~
+*.nailbreak.net.	MX 0 honeypot.example.com. ~
+nailbreak.net.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 softtube.cn.	A 1.2.3.4 ~
 *.softtube.cn.	A 1.2.3.4 ~
@@ -24160,6 +25762,12 @@ xingsi.com.	MX 0 honeypot.example.com. ~
 *.xingsi.com.	MX 0 honeypot.example.com. ~
 xingsi.com.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150530 : 20150327' ~
 
+galep.eu.	A 1.2.3.4 ~
+*.galep.eu.	A 1.2.3.4 ~
+galep.eu.	MX 0 honeypot.example.com. ~
+*.galep.eu.	MX 0 honeypot.example.com. ~
+galep.eu.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 tdbankueuo.com.	A 1.2.3.4 ~
 *.tdbankueuo.com.	A 1.2.3.4 ~
 tdbankueuo.com.	MX 0 honeypot.example.com. ~
@@ -24310,6 +25918,12 @@ congchuzs.com.	MX 0 honeypot.example.com. ~
 *.congchuzs.com.	MX 0 honeypot.example.com. ~
 congchuzs.com.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150702 : 20150407' ~
 
+vsnijvuliiry.com.	A 1.2.3.4 ~
+*.vsnijvuliiry.com.	A 1.2.3.4 ~
+vsnijvuliiry.com.	MX 0 honeypot.example.com. ~
+*.vsnijvuliiry.com.	MX 0 honeypot.example.com. ~
+vsnijvuliiry.com.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 cht.conduit-download.com.	A 1.2.3.4 ~
 *.cht.conduit-download.com.	A 1.2.3.4 ~
 cht.conduit-download.com.	MX 0 honeypot.example.com. ~
@@ -24328,6 +25942,12 @@ www.defygravity.com.	MX 0 honeypot.example.com. ~
 *.www.defygravity.com.	MX 0 honeypot.example.com. ~
 www.defygravity.com.	TXT 'dnshijack : malicious : malwareurls.joxeankoret.com/ : 20150702 : 20150413' ~
 
+ganar.eu.	A 1.2.3.4 ~
+*.ganar.eu.	A 1.2.3.4 ~
+ganar.eu.	MX 0 honeypot.example.com. ~
+*.ganar.eu.	MX 0 honeypot.example.com. ~
+ganar.eu.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 1231166.com.	A 1.2.3.4 ~
 *.1231166.com.	A 1.2.3.4 ~
 1231166.com.	MX 0 honeypot.example.com. ~
@@ -24339,6 +25959,18 @@ bbxdl.com.	A 1.2.3.4 ~
 bbxdl.com.	MX 0 honeypot.example.com. ~
 *.bbxdl.com.	MX 0 honeypot.example.com. ~
 bbxdl.com.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150530 : 20150327' ~
+
+lifehome.net.	A 1.2.3.4 ~
+*.lifehome.net.	A 1.2.3.4 ~
+lifehome.net.	MX 0 honeypot.example.com. ~
+*.lifehome.net.	MX 0 honeypot.example.com. ~
+lifehome.net.	TXT 'dnshijack : c&c : private : 20150708' ~
+
+canyonsdelmaresme.cat.	A 1.2.3.4 ~
+*.canyonsdelmaresme.cat.	A 1.2.3.4 ~
+canyonsdelmaresme.cat.	MX 0 honeypot.example.com. ~
+*.canyonsdelmaresme.cat.	MX 0 honeypot.example.com. ~
+canyonsdelmaresme.cat.	TXT 'dnshijack : cryptowall : techhelplist.com : 20150705' ~
 
 flower814.view.enkj.com.	A 1.2.3.4 ~
 *.flower814.view.enkj.com.	A 1.2.3.4 ~
@@ -24387,6 +26019,12 @@ www.document.pdf.kfunk.co.za.	A 1.2.3.4 ~
 www.document.pdf.kfunk.co.za.	MX 0 honeypot.example.com. ~
 *.www.document.pdf.kfunk.co.za.	MX 0 honeypot.example.com. ~
 www.document.pdf.kfunk.co.za.	TXT 'dnshijack : malicious : safebrowsing.clients.google.com : 20150625' ~
+
+paywelcomefor.com.	A 1.2.3.4 ~
+*.paywelcomefor.com.	A 1.2.3.4 ~
+paywelcomefor.com.	MX 0 honeypot.example.com. ~
+*.paywelcomefor.com.	MX 0 honeypot.example.com. ~
+paywelcomefor.com.	TXT 'dnshijack : cryptowall : techhelplist.com : 20150705' ~
 
 althusia.ronincentr.ru.	A 1.2.3.4 ~
 *.althusia.ronincentr.ru.	A 1.2.3.4 ~
@@ -24574,6 +26212,12 @@ sinopecgroupincop.com.	TXT 'dnshijack : phishing : krebsonsecurity.com : 2015052
 *.941jz.cn.	MX 0 honeypot.example.com. ~
 941jz.cn.	TXT 'dnshijack : malicious : www.mwsl.org.cn/ : 20150615' ~
 
+view-network.com.	A 1.2.3.4 ~
+*.view-network.com.	A 1.2.3.4 ~
+view-network.com.	MX 0 honeypot.example.com. ~
+*.view-network.com.	MX 0 honeypot.example.com. ~
+view-network.com.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 vtndi.com.	A 1.2.3.4 ~
 *.vtndi.com.	A 1.2.3.4 ~
 vtndi.com.	MX 0 honeypot.example.com. ~
@@ -24658,6 +26302,12 @@ com-qpi.net.	TXT 'dnshijack : malspam : www.mywot.com : 20150607' ~
 *.20151001.	MX 0 honeypot.example.com. ~
 20151001.	TXT 'dnshijack : cddbshred.ru : redirections : labs.sucuri.net : 20150115 : 20131221 : 20130505 : 20121122' ~
 
+televisioncable.com.	A 1.2.3.4 ~
+*.televisioncable.com.	A 1.2.3.4 ~
+televisioncable.com.	MX 0 honeypot.example.com. ~
+*.televisioncable.com.	MX 0 honeypot.example.com. ~
+televisioncable.com.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 ritaceveb.com.	A 1.2.3.4 ~
 *.ritaceveb.com.	A 1.2.3.4 ~
 ritaceveb.com.	MX 0 honeypot.example.com. ~
@@ -24687,6 +26337,12 @@ ke8u.com.	A 1.2.3.4 ~
 ke8u.com.	MX 0 honeypot.example.com. ~
 *.ke8u.com.	MX 0 honeypot.example.com. ~
 ke8u.com.	TXT 'dnshijack : malicious : malc0de.com/ : 20150604' ~
+
+gretableta.com.	A 1.2.3.4 ~
+*.gretableta.com.	A 1.2.3.4 ~
+gretableta.com.	MX 0 honeypot.example.com. ~
+*.gretableta.com.	MX 0 honeypot.example.com. ~
+gretableta.com.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 alopsitta.vardtorg.ru.	A 1.2.3.4 ~
 *.alopsitta.vardtorg.ru.	A 1.2.3.4 ~
@@ -24790,6 +26446,12 @@ hnzpjx.com.	MX 0 honeypot.example.com. ~
 *.hnzpjx.com.	MX 0 honeypot.example.com. ~
 hnzpjx.com.	TXT 'dnshijack : attack_page : www.google.com/safebrowsing : 20150530 : 20150326' ~
 
+mossform.com.	A 1.2.3.4 ~
+*.mossform.com.	A 1.2.3.4 ~
+mossform.com.	MX 0 honeypot.example.com. ~
+*.mossform.com.	MX 0 honeypot.example.com. ~
+mossform.com.	TXT 'dnshijack : cryptowall : techhelplist.com : 20150705' ~
+
 wilbys.org.	A 1.2.3.4 ~
 *.wilbys.org.	A 1.2.3.4 ~
 wilbys.org.	MX 0 honeypot.example.com. ~
@@ -24813,6 +26475,12 @@ vt153b0hnl.davidrobertlambert-llc.com.	TXT 'dnshijack : www.google.com/safebrows
 25hp0s0.com.	MX 0 honeypot.example.com. ~
 *.25hp0s0.com.	MX 0 honeypot.example.com. ~
 25hp0s0.com.	TXT 'dnshijack : malicious : www.mwsl.org.cn/ : 20150615' ~
+
+qebahilojam.eu.	A 1.2.3.4 ~
+*.qebahilojam.eu.	A 1.2.3.4 ~
+qebahilojam.eu.	MX 0 honeypot.example.com. ~
+*.qebahilojam.eu.	MX 0 honeypot.example.com. ~
+qebahilojam.eu.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 asherong.sg.	A 1.2.3.4 ~
 *.asherong.sg.	A 1.2.3.4 ~
@@ -24993,6 +26661,12 @@ admin1.magnosoftware.com.	A 1.2.3.4 ~
 admin1.magnosoftware.com.	MX 0 honeypot.example.com. ~
 *.admin1.magnosoftware.com.	MX 0 honeypot.example.com. ~
 admin1.magnosoftware.com.	TXT 'dnshijack : malicious : malwareurls.joxeankoret.com/ : 20150607' ~
+
+mundofomix.com.	A 1.2.3.4 ~
+*.mundofomix.com.	A 1.2.3.4 ~
+mundofomix.com.	MX 0 honeypot.example.com. ~
+*.mundofomix.com.	MX 0 honeypot.example.com. ~
+mundofomix.com.	TXT 'dnshijack : cryptowall : techhelplist.com : 20150705' ~
 
 071899.com.	A 1.2.3.4 ~
 *.071899.com.	A 1.2.3.4 ~
@@ -25210,6 +26884,12 @@ batze.says.it.	MX 0 honeypot.example.com. ~
 *.batze.says.it.	MX 0 honeypot.example.com. ~
 batze.says.it.	TXT 'dnshijack : attack_page : safebrowsing.clients.google.com : 20150703' ~
 
+vocom.eu.	A 1.2.3.4 ~
+*.vocom.eu.	A 1.2.3.4 ~
+vocom.eu.	MX 0 honeypot.example.com. ~
+*.vocom.eu.	MX 0 honeypot.example.com. ~
+vocom.eu.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 aos1738.com.	A 1.2.3.4 ~
 *.aos1738.com.	A 1.2.3.4 ~
 aos1738.com.	MX 0 honeypot.example.com. ~
@@ -25294,6 +26974,12 @@ www.archtopmakers.com.	MX 0 honeypot.example.com. ~
 *.www.archtopmakers.com.	MX 0 honeypot.example.com. ~
 www.archtopmakers.com.	TXT 'dnshijack : malicious : malwareurls.joxeankoret.com : 20150530 : 20150315' ~
 
+ekpool.net.	A 1.2.3.4 ~
+*.ekpool.net.	A 1.2.3.4 ~
+ekpool.net.	MX 0 honeypot.example.com. ~
+*.ekpool.net.	MX 0 honeypot.example.com. ~
+ekpool.net.	TXT 'dnshijack : c&c : private : 20150708' ~
+
 0512lcx.com.	A 1.2.3.4 ~
 *.0512lcx.com.	A 1.2.3.4 ~
 0512lcx.com.	MX 0 honeypot.example.com. ~
@@ -25323,6 +27009,12 @@ ate.vc.	A 1.2.3.4 ~
 ate.vc.	MX 0 honeypot.example.com. ~
 *.ate.vc.	MX 0 honeypot.example.com. ~
 ate.vc.	TXT 'dnshijack : phishing : www.spamhaus.org/ : 20150619' ~
+
+norumikemem.eu.	A 1.2.3.4 ~
+*.norumikemem.eu.	A 1.2.3.4 ~
+norumikemem.eu.	MX 0 honeypot.example.com. ~
+*.norumikemem.eu.	MX 0 honeypot.example.com. ~
+norumikemem.eu.	TXT 'dnshijack : c&c : private : 20150708' ~
 
 adirectdownload-about.com.	A 1.2.3.4 ~
 *.adirectdownload-about.com.	A 1.2.3.4 ~
