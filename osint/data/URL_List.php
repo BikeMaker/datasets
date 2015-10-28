@@ -1,7 +1,11 @@
 <pre>
 VX Vault last 100 Links
-Tue, 27 Oct 2015 15:26:53 +0000
+Wed, 28 Oct 2015 03:36:08 +0000
 
+http://lipetskrulit.com/svchost.exe
+http://91.229.79.231:8080/PWSBin.exe
+http://lipetskrulit.com/886.exe
+http://91.229.79.231:8080/drose.exe
 http://nellisrealestate.com/wp-includes/images/okk/panelnew/Pony.exe
 http://sukhshantisales.com/media/system/winhost.exe
 http://173.240.15.54/mrbux01.exe
@@ -99,7 +103,3 @@ http://yourverifiycation.com/mandis/panelnew/mandada.exe
 http://yourverifiycation.com/buchi/panelnew/papay.exe
 http://yourverifiycation.com/biggy/panelnew/alobam.exe
 http://quoteschronicle.com/win32.exe
-http://62.176.86.241/cclub12.exe
-http://212.129.31.67/svchost.exe
-http://www.cancel-email-request.in.net/dda/micro.exe
-http://microsoftsecurity.systems/update/update.exe
