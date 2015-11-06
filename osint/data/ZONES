@@ -3,56 +3,20 @@
 // It will return 127.0.0.1 for domains serving malicious executables observed by malc0de.com/database/
 // This file will be automatically updated daily and populated with the last 30 days of malicious domains.
 // Additional information to get this working can be found http://www.malwaredomains.com/wordpress/?page_id=6
-// Last updated 2015-10-27	
+// Last updated 2015-11-05	
 
-zone "2cc4.gq"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "3dgame3d.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "wildgames.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "alwaysisoyour.info"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "kics.go.kr"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "arcadegiant.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "facdn.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "autonewgener.info"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "msecnd.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "relaxlittle852.ru"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "china-gold.link"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "amazonaws.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "bohemiainteractive.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "cr173.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "baidu.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "img001.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "caleyscatering.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "download4desktop.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "ppdownload.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "opencandy.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "hwcdn.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "tistory.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "cloudnet2.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "51gugu.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "directexe.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "directoral.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "360safe.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "sogou.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "sogoucdn.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "downlite.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "fripp54.xyz"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "getprivate.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "appinformatica.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "bigspeedpro.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "coolplayerpremium.info"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "filerepair1.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "flashfindmail.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "hbclean.com.br"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "jddfmlafmdamracgrabhosting.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "markazigo.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "oemailrecovery.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "poweriso-mirror.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "my-newblog.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "3xipi4hw91.ru"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "ptbxr9qfd5.ru"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "aru1004.org"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "balancebuddies.co.uk"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "boxx96.com.br"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "hwcdn.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "dellbackupandrecovery.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "cloudfront.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "bitgenmax.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
