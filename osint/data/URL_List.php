@@ -1,7 +1,25 @@
 <pre>
 VX Vault last 100 Links
-Mon, 11 Jan 2016 01:55:21 +0000
+Sat, 16 Jan 2016 04:13:55 +0000
 
+http://185.50.71.148/igregfa.exe
+http://awc.asia/wp-content/themes/twentytwelve/shost.exe
+http://222.186.21.81:100/a.exe
+http://222.186.21.81:100/xdg1
+http://5.34.183.41/shifaki/file/120CR.exe
+http://185.125.32.39/shifaki/file/120CR.exe
+http://5.149.254.84/shifaki/file/120CR.exe
+http://5.189.216.10/shifaki/file/120CR.exe
+http://91.223.88.205/shifaki/file/120CR.exe
+http://77.246.159.154/shifaki/file/120CR.exe
+http://per-forms.com/u5y4g3/76u54g.exe
+http://hotpointrepair.info/u5y4g3/76u54g.exe
+http://91.223.88.205/montana/file/120CR.exe
+http://www.vmodal.mx/5fgbn/7tfr6kj.exe
+http://pastorsschoolinternational.org/5fgbn/7tfr6kj.exe
+http://arellano.biz/5fgbn/7tfr6kj.exe
+http://77.246.159.154/montana/file/120CR.exe
+http://5.189.216.10/montana/file/120CR.exe
 http://115.159.44.22:888/HMK.exe
 http://115.159.44.22:888/w.exe
 http://115.159.44.22:888/d.exe
@@ -85,21 +103,3 @@ http://mfmanastacio.com/76re459/98uy76t.exe
 http://kinderdeszorns.de/76re459/98uy76t.exe
 http://agencjareklamowalodz.com/76re459/98uy76t.exe
 http://216.119.110.104/76re459/98uy76t.exe
-http://gulteknoofis.com/76re459/98uy76t.exe
-http://crimeshop.biz/net.exe
-http://americanpsg.com/order618472.txt.exe
-http://zensmut.com/order714883.txt.exe
-http://steveyuhas.com/~steveyuhas/87tr65/43wedf.exe
-http://www.lama.rs/87tr65/43wedf.exe
-http://shaolinkempokarate.ca/777.exe
-http://www.library-online.org/files/du-bist-terrorist.pdf
-http://176.103.55.73/onprdfi.exe
-http://176.103.54.73/onprdfi.exe
-http://www.virginiacook.com/administrator/components/com_zoo/elements/checkbox/crypt3010-k.exe
-http://212.129.31.67/svchost.exe
-http://www.achesoncorner.com/wp-includes/fonts/69.exe
-http://www.achesoncorner.com/wp-includes/fonts/68.exe
-http://www.achesoncorner.com/wp-includes/fonts/80.exe
-http://www.achesoncorner.com/wp-includes/fonts/73.exe
-http://www.achesoncorner.com/wp-includes/fonts/79.exe
-http://www.achesoncorner.com/wp-includes/fonts/78.exe
