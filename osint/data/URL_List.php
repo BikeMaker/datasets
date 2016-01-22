@@ -1,7 +1,10 @@
 <pre>
 VX Vault last 100 Links
-Thu, 21 Jan 2016 03:35:00 +0000
+Fri, 22 Jan 2016 03:34:59 +0000
 
+http://www.lassethoresen.com/98jh6d5/89hg56fd.exe
+http://202.191.112.60/~n02022-1/98jh6d5/89hg56fd.exe
+http://phaleshop.com/8h75f56f/34qwj9kk.exe
 http://hendricken.net/wp-content/plugins/linkrobo/outl.exe
 http://185.50.71.148/igregfa.exe
 http://awc.asia/wp-content/themes/twentytwelve/shost.exe
@@ -100,6 +103,3 @@ http://studionomadmusic.com/wp-includes/SimplePie/Net/qq.exe
 http://directexe.com/Vxl/Engine.exe
 http://46.151.52.197/80.exe
 http://cabezasdealambre.eu/76re459/98uy76t.exe
-http://mfmanastacio.com/76re459/98uy76t.exe
-http://kinderdeszorns.de/76re459/98uy76t.exe
-http://agencjareklamowalodz.com/76re459/98uy76t.exe
