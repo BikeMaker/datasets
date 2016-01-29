@@ -1,7 +1,13 @@
 <pre>
 VX Vault last 100 Links
-Wed, 27 Jan 2016 03:39:34 +0000
+Fri, 29 Jan 2016 03:35:15 +0000
 
+http://airesdelsahara.com/system/logs/at11_crypted.exe
+http://109.234.35.37/californication/file/120med.exe
+http://5.189.216.105/californication/file/120med.exe
+http://grudeal.com/54t4f4f/7u65j5hg.exe
+http://vinagps.net/54t4f4f/7u65j5hg.exe
+http://trendcheckers.com/54t4f4f/7u65j5hg.exe
 http://boogeeman.tripod.com/webonmediacontents/10.mp4
 http://www.stijnminne.be/ghf56sgu/0976gg.exe
 http://gahal.cz/ghf56sgu/0976gg.exe
@@ -97,9 +103,3 @@ http://46.151.52.231/85.exe
 http://46.151.52.231/82.exe
 http://46.151.52.231/81.exe
 http://46.151.52.231/80.exe
-http://46.151.52.231/78.exe
-http://46.151.52.231/74.exe
-http://46.151.52.231/73.exe
-http://032.xorder.com/system/logs/qq.exe
-http://lisbon-tourguide.com/wp-content/plugins/cached_data/qq.exe
-http://studionomadmusic.com/wp-includes/SimplePie/Net/qq.exe
