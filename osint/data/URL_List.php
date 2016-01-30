@@ -1,7 +1,8 @@
 <pre>
 VX Vault last 100 Links
-Fri, 29 Jan 2016 03:35:15 +0000
+Sat, 30 Jan 2016 03:33:45 +0000
 
+http://inmrvogurin.ru/SY/test/micro.exe
 http://airesdelsahara.com/system/logs/at11_crypted.exe
 http://109.234.35.37/californication/file/120med.exe
 http://5.189.216.105/californication/file/120med.exe
@@ -102,4 +103,3 @@ http://46.151.52.231/86.exe
 http://46.151.52.231/85.exe
 http://46.151.52.231/82.exe
 http://46.151.52.231/81.exe
-http://46.151.52.231/80.exe
