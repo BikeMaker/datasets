@@ -1,7 +1,9 @@
 <pre>
 VX Vault last 100 Links
-Sun, 07 Feb 2016 03:36:55 +0000
+Mon, 08 Feb 2016 03:35:54 +0000
 
+http://78.47.198.134/bot.exe
+http://78.47.198.134/1.exe
 http://sowhatsupwithitff.com/80.exe
 http://helloguysqq.su/80.exe
 http://disturbingnaija.com/wp-content/plugins/youtube/Order_Samples.exe
@@ -101,5 +103,3 @@ http://fernytowd.com/65.exe
 http://fernytowd.com/53.exe
 http://fernytowd.com/51.exe
 http://fernytowd.com/86.exe
-http://fernytowd.com/87.exe
-http://fernytowd.com/89.exe
