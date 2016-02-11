@@ -1,7 +1,13 @@
 <pre>
 VX Vault last 100 Links
-Wed, 10 Feb 2016 03:34:16 +0000
+Thu, 11 Feb 2016 03:32:53 +0000
 
+http://calflytech.com/09u8h76f/65fg67n
+http://g-t-c.co.uk/09u8h76f/65fg67n
+http://opoai.com/09u8h76f/65fg67n
+http://220.181.87.80/k.exe
+http://effone.com/js/playstation4.exe
+http://nejman1905.com/ozze.exe
 http://promo.clickencer.com/4wde34f/4gevfdg
 http://sowhatsupwithitff.com/23.exe
 http://sowhatsupwithitff.com/26.exe
@@ -97,9 +103,3 @@ http://115.159.44.22:888/2.exe
 http://115.159.44.22:888/6
 http://115.159.44.22:888/3
 http://adeilton.com/4d3663fa_crypt_prAZY568ae87401a48.exe
-http://hd0point.cf/vIr/botnet/install.exe
-http://176.103.54.73/obsorbu.exe
-http://jobs.development-india.com/counter/?id=5553515E100B00001724171110074A070B095E3C5E151657565C4A070B095E17505E555051545C53555D52535E55&rnd=8662843
-http://jobs.development-india.com/counter/?id=5553515E100B00001724171110074A070B095E3C5E151657565C4A070B095E17505E555051545C53555D52535E55&rnd=8662842
-http://jobs.development-india.com/counter/?id=5553515E100B00001724171110074A070B095E3C5E151657565C4A070B095E17505E555051545C53555D52535E55&rnd=8662841
-http://martenmini.com/counter/?id=5553515E100B00001724171110074A070B095E3C5E151657565C4A070B095E17505E555051545C53555D52535E55&rnd=8662842
