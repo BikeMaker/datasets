@@ -1,7 +1,15 @@
 <pre>
 VX Vault last 100 Links
-Thu, 11 Feb 2016 03:32:53 +0000
+Fri, 12 Feb 2016 03:35:03 +0000
 
+http://issg.net/wp-content/uploads/2014/03/Les%20Caisses%20Populaire%20De%20Desjardins%20Solutions%20AccesD/wordd.exe
+http://artfor.us/wp-content/themes/classic/wordd.exe
+http://mojoris.com/system/logs/wordd.exe
+http://www.mn3m.com/file/1.exe
+http://www.sum-electronics.co.jp/09u8h76f/65fg67n
+http://31.192.105.24/build.exe
+http://31.192.105.24/1.exe
+http://185.50.71.150/chrome.exe
 http://calflytech.com/09u8h76f/65fg67n
 http://g-t-c.co.uk/09u8h76f/65fg67n
 http://opoai.com/09u8h76f/65fg67n
@@ -95,11 +103,3 @@ http://www.vmodal.mx/5fgbn/7tfr6kj.exe
 http://pastorsschoolinternational.org/5fgbn/7tfr6kj.exe
 http://arellano.biz/5fgbn/7tfr6kj.exe
 http://77.246.159.154/montana/file/120CR.exe
-http://5.189.216.10/montana/file/120CR.exe
-http://115.159.44.22:888/HMK.exe
-http://115.159.44.22:888/w.exe
-http://115.159.44.22:888/d.exe
-http://115.159.44.22:888/2.exe
-http://115.159.44.22:888/6
-http://115.159.44.22:888/3
-http://adeilton.com/4d3663fa_crypt_prAZY568ae87401a48.exe
