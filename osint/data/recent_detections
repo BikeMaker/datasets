@@ -84,7 +84,7 @@
   <input id="is_captcha" name="is_captcha" type="hidden" value="1" />
     <input class="text" id="report-filter" name="site" onFocus="this.value = &#x27;&#x27;" type="text" value="Search website..." />
   <input class="submit-bt" id="add-site" name="commit" type="submit" value="Search" />
-</form><form accept-charset="UTF-8" action="/public/recent_detections" id="search" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="u5VLxFvxWNxFn1lQVG68Ci2+FOwZT/XXGscLC1Emwto=" /></div>
+</form><form accept-charset="UTF-8" action="/public/recent_detections" id="search" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="QZUm+Rd9nataINSSBi+zI9XFnsEBf6tEjZPfPhFvQk0=" /></div>
   <select id="risk" name="risk" onChange="this.form.submit();"><option value="-1">Show all entries</option>
 <option value="2">High Risk entries</option>
 <option value="3">Suspicious entries</option></select>
@@ -97,44 +97,467 @@
     <th>Details</th>
   </tr>
     <tr class="susp-row">
-      <td><span><a href="javascript:;" onclick="show_link('22791902');">http://13453765871837679316.googlegroups ...</a><div id="link_22791902" style="display: none;" title="URL">http://13453765871837679316.googlegroups.com</div></span></td>
+      <td><span><a href="javascript:;" onclick="show_link('22828896');">http://13453765871837679316.googlegroups ...</a><div id="link_22828896" style="display: none;" title="URL">http://13453765871837679316.googlegroups.com</div></span></td>
       <td>Suspicious</td>
-      <td>2016-02-12 03:31:00 UTC</td>
+      <td>2016-02-13 03:32:04 UTC</td>
       <td>
         <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2F13453765871837679316.googlegroups.com">Suspicious pages were found on this site.</a>
         <br>
       </td>
     </tr>
     <tr class="susp-row">
-      <td><span>http://cloud86c.myweb.hinet.net</span></td>
+      <td><span>http://www.leadx.co.il</span></td>
       <td>Suspicious</td>
-      <td>2016-02-12 03:30:53 UTC</td>
+      <td>2016-02-13 03:32:00 UTC</td>
       <td>
-        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fcloud86c.myweb.hinet.net">Suspicious pages were found on this site.</a>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fwww.leadx.co.il">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://www.jagathomes.com</span></td>
+      <td>Suspicious</td>
+      <td>2016-02-13 03:30:57 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fwww.jagathomes.com">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://anherbal.blogspot.mx</span></td>
+      <td>Suspicious</td>
+      <td>2016-02-13 03:30:35 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fanherbal.blogspot.mx">Suspicious pages were found on this site.</a>
         <br>
       </td>
     </tr>
     <tr class="susp-row">
       <td><span>http://0839fc.com</span></td>
       <td>Suspicious</td>
-      <td>2016-02-12 03:09:15 UTC</td>
+      <td>2016-02-13 03:30:08 UTC</td>
       <td>
         <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2F0839fc.com">Suspicious pages were found on this site.</a>
         <br>
       </td>
     </tr>
+    <tr class="susp-row">
+      <td><span>http://angrybirdsfriends.blogspot.com.es</span></td>
+      <td>Suspicious</td>
+      <td>2016-02-13 03:30:07 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fangrybirdsfriends.blogspot.com.es">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://100x.sextgem.com</span></td>
+      <td>Suspicious</td>
+      <td>2016-02-13 03:30:04 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2F100x.sextgem.com">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span><a href="javascript:;" onclick="show_link('22012629');">http://anhkhoathannongbongxxxx.blogspot. ...</a><div id="link_22012629" style="display: none;" title="URL">http://anhkhoathannongbongxxxx.blogspot.kr</div></span></td>
+      <td>Suspicious</td>
+      <td>2016-02-13 03:28:55 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fanhkhoathannongbongxxxx.blogspot.kr">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span><a href="javascript:;" onclick="show_link('22012624');">http://angolamissuniverse2011.blogspot.r ...</a><div id="link_22012624" style="display: none;" title="URL">http://angolamissuniverse2011.blogspot.ru</div></span></td>
+      <td>Suspicious</td>
+      <td>2016-02-13 03:28:53 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fangolamissuniverse2011.blogspot.ru">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span><a href="javascript:;" onclick="show_link('19880063');">http://angolamissuniverse2011.blogspot.c ...</a><div id="link_19880063" style="display: none;" title="URL">http://angolamissuniverse2011.blogspot.com</div></span></td>
+      <td>Suspicious</td>
+      <td>2016-02-13 03:28:35 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fangolamissuniverse2011.blogspot.com">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://10363.vvchem.com</span></td>
+      <td>Suspicious</td>
+      <td>2016-02-13 03:27:39 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2F10363.vvchem.com">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span><a href="javascript:;" onclick="show_link('22323355');">http://anhkhoathannongbongxxxx.blogspot. ...</a><div id="link_22323355" style="display: none;" title="URL">http://anhkhoathannongbongxxxx.blogspot.co.uk</div></span></td>
+      <td>Suspicious</td>
+      <td>2016-02-13 03:27:10 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fanhkhoathannongbongxxxx.blogspot.co.uk">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span><a href="javascript:;" onclick="show_link('21323804');">http://anhkhoathannongbongxxxx.blogspot. ...</a><div id="link_21323804" style="display: none;" title="URL">http://anhkhoathannongbongxxxx.blogspot.ru</div></span></td>
+      <td>Suspicious</td>
+      <td>2016-02-13 03:27:04 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fanhkhoathannongbongxxxx.blogspot.ru">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://anhnudesinhvien.blogspot.ru</span></td>
+      <td>Suspicious</td>
+      <td>2016-02-13 03:26:49 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fanhnudesinhvien.blogspot.ru">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span><a href="javascript:;" onclick="show_link('21323796');">http://angolamissuniverse2011.blogspot.n ...</a><div id="link_21323796" style="display: none;" title="URL">http://angolamissuniverse2011.blogspot.no</div></span></td>
+      <td>Suspicious</td>
+      <td>2016-02-13 03:26:48 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fangolamissuniverse2011.blogspot.no">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://animalporn.bestialitysexgirls.com</span></td>
+      <td>Suspicious</td>
+      <td>2016-02-13 03:26:30 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fanimalporn.bestialitysexgirls.com">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span><a href="javascript:;" onclick="show_link('21750007');">http://animalsex-archive.bestialitysexgi ...</a><div id="link_21750007" style="display: none;" title="URL">http://animalsex-archive.bestialitysexgirls.com</div></span></td>
+      <td>Suspicious</td>
+      <td>2016-02-13 03:25:54 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fanimalsex-archive.bestialitysexgirls.com">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://100jzyx.com</span></td>
+      <td>Suspicious</td>
+      <td>2016-02-13 03:25:45 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2F100jzyx.com">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://animefrase.blogspot.ca</span></td>
+      <td>Suspicious</td>
+      <td>2016-02-13 03:25:45 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fanimefrase.blogspot.ca">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://animal.bestialitysexgirls.com</span></td>
+      <td>Suspicious</td>
+      <td>2016-02-13 03:25:23 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fanimal.bestialitysexgirls.com">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://anhnudesinhvien.blogspot.ca</span></td>
+      <td>Suspicious</td>
+      <td>2016-02-13 03:25:22 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fanhnudesinhvien.blogspot.ca">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://animalxxxporn.blogspot.de</span></td>
+      <td>Suspicious</td>
+      <td>2016-02-13 03:25:21 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fanimalxxxporn.blogspot.de">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://www.primetimesports.com.au</span></td>
+      <td>Suspicious</td>
+      <td>2016-02-13 03:25:03 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fwww.primetimesports.com.au">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span><a href="javascript:;" onclick="show_link('22012642');">http://animegratisterbaru.blogspot.com.e ...</a><div id="link_22012642" style="display: none;" title="URL">http://animegratisterbaru.blogspot.com.es</div></span></td>
+      <td>Suspicious</td>
+      <td>2016-02-13 03:24:55 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fanimegratisterbaru.blogspot.com.es">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://animefrase.blogspot.com.br</span></td>
+      <td>Suspicious</td>
+      <td>2016-02-13 03:24:53 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fanimefrase.blogspot.com.br">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://ankiitpatel.blogspot.ru</span></td>
+      <td>Suspicious</td>
+      <td>2016-02-13 03:24:48 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fankiitpatel.blogspot.ru">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://anhsex99.blogspot.ru</span></td>
+      <td>Suspicious</td>
+      <td>2016-02-13 03:24:14 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fanhsex99.blogspot.ru">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://ankiitpatel.blogspot.com</span></td>
+      <td>Suspicious</td>
+      <td>2016-02-13 03:24:11 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fankiitpatel.blogspot.com">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://anhsex99.blogspot.mx</span></td>
+      <td>Suspicious</td>
+      <td>2016-02-13 03:23:48 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fanhsex99.blogspot.mx">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://apalabun.blogspot.ru</span></td>
+      <td>Suspicious</td>
+      <td>2016-02-13 03:23:43 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fapalabun.blogspot.ru">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://ano-irr.ru</span></td>
+      <td>Suspicious</td>
+      <td>2016-02-13 03:23:40 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fano-irr.ru">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://anshlag.kiev.ua</span></td>
+      <td>Suspicious</td>
+      <td>2016-02-13 03:23:26 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fanshlag.kiev.ua">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://anstrich-maler-prenzlau.de</span></td>
+      <td>Suspicious</td>
+      <td>2016-02-13 03:23:22 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fanstrich-maler-prenzlau.de">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://www.semliki.co.ug</span></td>
+      <td>Suspicious</td>
+      <td>2016-02-13 03:23:21 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fwww.semliki.co.ug">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://ansexpress.com</span></td>
+      <td>Suspicious</td>
+      <td>2016-02-13 03:22:56 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fansexpress.com">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://anjar4ever21-9b.blogspot.com</span></td>
+      <td>Suspicious</td>
+      <td>2016-02-13 03:22:44 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fanjar4ever21-9b.blogspot.com">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://anjar4ever21-9b.blogspot.mx</span></td>
+      <td>Suspicious</td>
+      <td>2016-02-13 03:22:34 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fanjar4ever21-9b.blogspot.mx">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://aolopdephn.blogspot.ru</span></td>
+      <td>Suspicious</td>
+      <td>2016-02-13 03:22:24 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Faolopdephn.blogspot.ru">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://123mv.vn</span></td>
+      <td>Suspicious</td>
+      <td>2016-02-13 03:22:22 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2F123mv.vn">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://12pr.ru</span></td>
+      <td>Suspicious</td>
+      <td>2016-02-13 03:22:20 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2F12pr.ru">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://animefrase.blogspot.com</span></td>
+      <td>Suspicious</td>
+      <td>2016-02-13 03:22:15 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fanimefrase.blogspot.com">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://1320bikes.com</span></td>
+      <td>Suspicious</td>
+      <td>2016-02-13 03:21:59 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2F1320bikes.com">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://artismanja.blogspot.ru</span></td>
+      <td>Suspicious</td>
+      <td>2016-02-13 03:21:49 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fartismanja.blogspot.ru">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://10nerr.com</span></td>
+      <td>Suspicious</td>
+      <td>2016-02-13 03:21:48 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2F10nerr.com">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://108dianka.com</span></td>
+      <td>Suspicious</td>
+      <td>2016-02-13 03:21:35 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2F108dianka.com">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://apivones.blogspot.ru</span></td>
+      <td>Suspicious</td>
+      <td>2016-02-13 03:21:35 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fapivones.blogspot.ru">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://apeiron-foto.de</span></td>
+      <td>Suspicious</td>
+      <td>2016-02-13 03:21:29 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fapeiron-foto.de">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://apalabun.blogspot.mx</span></td>
+      <td>Suspicious</td>
+      <td>2016-02-13 03:21:28 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fapalabun.blogspot.mx">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://animalxxpornn.blogspot.de</span></td>
+      <td>Suspicious</td>
+      <td>2016-02-13 03:21:23 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fanimalxxpornn.blogspot.de">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://apivones.blogspot.mx</span></td>
+      <td>Suspicious</td>
+      <td>2016-02-13 03:21:21 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fapivones.blogspot.mx">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
 </table>
 <div id ='pagination'>  
-  
+  <div class="pagination ajax"><span class="previous_page disabled"><span class="prev">&lsaquo;</span></span> <em class="current">1</em> <a href="#" onclick="$.ajax({url: &#x27;/public/recent_detections?page=2&#x27;, dataType: &#x27;script&#x27;, type: &#x27;post&#x27;});; return false;" rel="next">2</a> <a href="#" onclick="$.ajax({url: &#x27;/public/recent_detections?page=3&#x27;, dataType: &#x27;script&#x27;, type: &#x27;post&#x27;});; return false;">3</a> <a class="next_page" href="#" onclick="$.ajax({url: &#x27;/public/recent_detections?page=2&#x27;, dataType: &#x27;script&#x27;, type: &#x27;post&#x27;});; return false;" rel="next"><span class="next">&rsaquo;</span></a></div>
 </div>
 
     </div>
     
 
-<form accept-charset="UTF-8" action="/public/recent_detections" class="page-list" id="form_list806" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="u5VLxFvxWNxFn1lQVG68Ci2+FOwZT/XXGscLC1Emwto=" /></div>
+<form accept-charset="UTF-8" action="/public/recent_detections" class="page-list" id="form_list203" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="QZUm+Rd9nataINSSBi+zI9XFnsEBf6tEjZPfPhFvQk0=" /></div>
   <input type='hidden' name='id' value=''>
   Display
-  <select class="page-list" id="list806" name="list"><option value="10">10 items per page</option>
+  <select class="page-list" id="list203" name="list"><option value="10">10 items per page</option>
 <option value="20">20 items per page</option>
 <option value="30">30 items per page</option>
 <option value="40">40 items per page</option>
