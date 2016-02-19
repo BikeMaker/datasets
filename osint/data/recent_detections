@@ -84,7 +84,7 @@
   <input id="is_captcha" name="is_captcha" type="hidden" value="1" />
     <input class="text" id="report-filter" name="site" onFocus="this.value = &#x27;&#x27;" type="text" value="Search website..." />
   <input class="submit-bt" id="add-site" name="commit" type="submit" value="Search" />
-</form><form accept-charset="UTF-8" action="/public/recent_detections" id="search" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="4Vko2gS0ZizEoFx3+OVPX8fxVpRGmk8JiA1bJoIX73s=" /></div>
+</form><form accept-charset="UTF-8" action="/public/recent_detections" id="search" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="GbIfqhNiZ9Yz+Td54Qo8JFNvNbe7Z5XrQyiwFf1tJKs=" /></div>
   <select id="risk" name="risk" onChange="this.form.submit();"><option value="-1">Show all entries</option>
 <option value="2">High Risk entries</option>
 <option value="3">Suspicious entries</option></select>
@@ -97,65 +97,65 @@
     <th>Details</th>
   </tr>
     <tr class="susp-row">
-      <td><span><a href="javascript:;" onclick="show_link('23103139');">http://13453765871837679316.googlegroups ...</a><div id="link_23103139" style="display: none;" title="URL">http://13453765871837679316.googlegroups.com</div></span></td>
+      <td><span><a href="javascript:;" onclick="show_link('23170563');">http://13453765871837679316.googlegroups ...</a><div id="link_23170563" style="display: none;" title="URL">http://13453765871837679316.googlegroups.com</div></span></td>
       <td>Suspicious</td>
-      <td>2016-02-18 03:14:16 UTC</td>
+      <td>2016-02-19 03:11:36 UTC</td>
       <td>
         <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2F13453765871837679316.googlegroups.com">Suspicious pages were found on this site.</a>
         <br>
       </td>
     </tr>
-    <tr class="susp-row">
-      <td><span>http://www.shshunlong.com</span></td>
-      <td>Suspicious</td>
-      <td>2016-02-18 02:55:09 UTC</td>
+    <tr class="error-row">
+      <td><span>http://afive.net</span></td>
+      <td>High Risk</td>
+      <td>2016-02-19 03:10:22 UTC</td>
       <td>
-        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fwww.shshunlong.com">Suspicious pages were found on this site.</a>
-        <br>
-      </td>
-    </tr>
-    <tr class="susp-row">
-      <td><span>http://rs-dharmawangsa.com</span></td>
-      <td>Suspicious</td>
-      <td>2016-02-18 02:55:07 UTC</td>
-      <td>
-        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Frs-dharmawangsa.com">Suspicious pages were found on this site.</a>
+        <a href="/public/reports/show_website?result=2&amp;site=http%3A%2F%2Fafive.net">High Risk pages were found on this site.</a>
         <br>
       </td>
     </tr>
     <tr class="susp-row">
       <td><span>http://0839fc.com</span></td>
       <td>Suspicious</td>
-      <td>2016-02-18 02:54:28 UTC</td>
+      <td>2016-02-19 03:01:17 UTC</td>
       <td>
         <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2F0839fc.com">Suspicious pages were found on this site.</a>
         <br>
       </td>
     </tr>
     <tr class="susp-row">
-      <td><span>http://111yc.com</span></td>
+      <td><span>http://www.kvkkalikiri-angrau.org</span></td>
       <td>Suspicious</td>
-      <td>2016-02-18 02:54:14 UTC</td>
+      <td>2016-02-19 02:54:09 UTC</td>
       <td>
-        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2F111yc.com">Suspicious pages were found on this site.</a>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fwww.kvkkalikiri-angrau.org">Suspicious pages were found on this site.</a>
         <br>
       </td>
     </tr>
     <tr class="susp-row">
-      <td><span>http://100x.sextgem.com</span></td>
+      <td><span>http://www.riskillustrated.com</span></td>
       <td>Suspicious</td>
-      <td>2016-02-18 02:52:58 UTC</td>
+      <td>2016-02-19 02:51:36 UTC</td>
       <td>
-        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2F100x.sextgem.com">Suspicious pages were found on this site.</a>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fwww.riskillustrated.com">Suspicious pages were found on this site.</a>
         <br>
       </td>
     </tr>
     <tr class="susp-row">
-      <td><span>http://01.teneta.by</span></td>
+      <td><span>http://maihienxepsaigon.com</span></td>
       <td>Suspicious</td>
-      <td>2016-02-18 02:52:39 UTC</td>
+      <td>2016-02-19 02:48:17 UTC</td>
       <td>
-        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2F01.teneta.by">Suspicious pages were found on this site.</a>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fmaihienxepsaigon.com">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://boschservisigolcuk.org</span></td>
+      <td>Suspicious</td>
+      <td>2016-02-19 02:47:51 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fboschservisigolcuk.org">Suspicious pages were found on this site.</a>
         <br>
       </td>
     </tr>
@@ -167,10 +167,10 @@
     </div>
     
 
-<form accept-charset="UTF-8" action="/public/recent_detections" class="page-list" id="form_list729" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="4Vko2gS0ZizEoFx3+OVPX8fxVpRGmk8JiA1bJoIX73s=" /></div>
+<form accept-charset="UTF-8" action="/public/recent_detections" class="page-list" id="form_list732" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="GbIfqhNiZ9Yz+Td54Qo8JFNvNbe7Z5XrQyiwFf1tJKs=" /></div>
   <input type='hidden' name='id' value=''>
   Display
-  <select class="page-list" id="list729" name="list"><option value="10">10 items per page</option>
+  <select class="page-list" id="list732" name="list"><option value="10">10 items per page</option>
 <option value="20">20 items per page</option>
 <option value="30">30 items per page</option>
 <option value="40">40 items per page</option>
