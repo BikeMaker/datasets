@@ -84,7 +84,7 @@
   <input id="is_captcha" name="is_captcha" type="hidden" value="1" />
     <input class="text" id="report-filter" name="site" onFocus="this.value = &#x27;&#x27;" type="text" value="Search website..." />
   <input class="submit-bt" id="add-site" name="commit" type="submit" value="Search" />
-</form><form accept-charset="UTF-8" action="/public/recent_detections" id="search" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="c7oWflgHcGNWc11qeZQGHC9g5vnDPvKSvZC/+Xgk+no=" /></div>
+</form><form accept-charset="UTF-8" action="/public/recent_detections" id="search" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="f7dQnGarY1dyC6WWBC8JY57hdU3wZpSIr6pHtFE0Qbg=" /></div>
   <select id="risk" name="risk" onChange="this.form.submit();"><option value="-1">Show all entries</option>
 <option value="2">High Risk entries</option>
 <option value="3">Suspicious entries</option></select>
@@ -97,65 +97,11 @@
     <th>Details</th>
   </tr>
     <tr class="susp-row">
-      <td><span><a href="javascript:;" onclick="show_link('23440654');">http://13453765871837679316.googlegroups ...</a><div id="link_23440654" style="display: none;" title="URL">http://13453765871837679316.googlegroups.com</div></span></td>
+      <td><span><a href="javascript:;" onclick="show_link('23515438');">http://13453765871837679316.googlegroups ...</a><div id="link_23515438" style="display: none;" title="URL">http://13453765871837679316.googlegroups.com</div></span></td>
       <td>Suspicious</td>
-      <td>2016-02-24 02:48:59 UTC</td>
+      <td>2016-02-25 02:44:58 UTC</td>
       <td>
         <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2F13453765871837679316.googlegroups.com">Suspicious pages were found on this site.</a>
-        <br>
-      </td>
-    </tr>
-    <tr class="susp-row">
-      <td><span>http://alshab-ahmedalamery.com</span></td>
-      <td>Suspicious</td>
-      <td>2016-02-24 02:47:44 UTC</td>
-      <td>
-        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Falshab-ahmedalamery.com">Suspicious pages were found on this site.</a>
-        <br>
-      </td>
-    </tr>
-    <tr class="susp-row">
-      <td><span>http://www.chase-payments.com</span></td>
-      <td>Suspicious</td>
-      <td>2016-02-24 02:47:20 UTC</td>
-      <td>
-        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fwww.chase-payments.com">Suspicious pages were found on this site.</a>
-        <br>
-      </td>
-    </tr>
-    <tr class="susp-row">
-      <td><span><a href="javascript:;" onclick="show_link('23445886');">http://www.citibank.com.my.betomultimarc ...</a><div id="link_23445886" style="display: none;" title="URL">http://www.citibank.com.my.betomultimarcas.com</div></span></td>
-      <td>Suspicious</td>
-      <td>2016-02-24 02:46:46 UTC</td>
-      <td>
-        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fwww.citibank.com.my.betomultimarcas.com">Suspicious pages were found on this site.</a>
-        <br>
-      </td>
-    </tr>
-    <tr class="susp-row">
-      <td><span><a href="javascript:;" onclick="show_link('22428801');">http://apple.it-secure1.store.apple.appl ...</a><div id="link_22428801" style="display: none;" title="URL">http://apple.it-secure1.store.apple.apple-idacount.tisacoim.com</div></span></td>
-      <td>Suspicious</td>
-      <td>2016-02-24 02:46:12 UTC</td>
-      <td>
-        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fapple.it-secure1.store.apple.apple-idacount.tisacoim.com">Suspicious pages were found on this site.</a>
-        <br>
-      </td>
-    </tr>
-    <tr class="susp-row">
-      <td><span>https://mswebmail.mandirisek.co.id</span></td>
-      <td>Suspicious</td>
-      <td>2016-02-24 02:45:17 UTC</td>
-      <td>
-        <a href="/public/reports/show_website?result=3&amp;site=https%3A%2F%2Fmswebmail.mandirisek.co.id">Suspicious pages were found on this site.</a>
-        <br>
-      </td>
-    </tr>
-    <tr class="susp-row">
-      <td><span>https://www.istemtech.com</span></td>
-      <td>Suspicious</td>
-      <td>2016-02-24 02:40:02 UTC</td>
-      <td>
-        <a href="/public/reports/show_website?result=3&amp;site=https%3A%2F%2Fwww.istemtech.com">Suspicious pages were found on this site.</a>
         <br>
       </td>
     </tr>
@@ -167,10 +113,10 @@
     </div>
     
 
-<form accept-charset="UTF-8" action="/public/recent_detections" class="page-list" id="form_list191" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="c7oWflgHcGNWc11qeZQGHC9g5vnDPvKSvZC/+Xgk+no=" /></div>
+<form accept-charset="UTF-8" action="/public/recent_detections" class="page-list" id="form_list462" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="f7dQnGarY1dyC6WWBC8JY57hdU3wZpSIr6pHtFE0Qbg=" /></div>
   <input type='hidden' name='id' value=''>
   Display
-  <select class="page-list" id="list191" name="list"><option value="10">10 items per page</option>
+  <select class="page-list" id="list462" name="list"><option value="10">10 items per page</option>
 <option value="20">20 items per page</option>
 <option value="30">30 items per page</option>
 <option value="40">40 items per page</option>
