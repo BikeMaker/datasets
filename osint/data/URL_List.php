@@ -1,7 +1,10 @@
 <pre>
 VX Vault last 100 Links
-Sat, 05 Mar 2016 03:33:33 +0000
+Sun, 06 Mar 2016 03:34:31 +0000
 
+http://dukkotrain.tk/bot.exe
+http://dukkotrain.tk/data.exe
+http://softcrk.com/system/logs/4trf3g45.exe
 http://store.celestialgrace.org/system/logs/23f3rf33.exe
 http://choobyta.com/system/logs/23f3rf33.exe
 http://bagbackpack.com/system/logs/23f3rf33.exe
@@ -100,6 +103,3 @@ http://demo.ovh.eu/download/8333330e399175ef63750548e66141ec/update.exe
 http://demo.ovh.eu/download/c418451f9cadf04989044ea17a68bf2a/EasyComm.exe
 http://goonwithmazerqq.com/94.exe
 http://goonwithmazerqq.com/93.exe
-http://goonwithmazerqq.com/85.exe
-http://goonwithmazerqq.com/80.exe
-http://goonwithmazerqq.com/59.exe
