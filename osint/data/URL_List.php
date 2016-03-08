@@ -1,7 +1,21 @@
 <pre>
 VX Vault last 100 Links
-Mon, 07 Mar 2016 03:34:29 +0000
+Tue, 08 Mar 2016 04:16:36 +0000
 
+http://jorgecodas.com/76t2gr345
+http://surprise.co.in/system/logs/87tg7v645c.exe
+http://lightsroom.ru/system/logs/87tg7v645c.exe
+http://dsignshop.com.au/system/logs/87tg7v645c.exe
+http://kievelectric.kiev.ua/art/media/87tg7v645c.exe
+http://promumedical.com/system/logs/87tg7v645c.exe
+http://souqaqonline.com/system/logs/87tg7v645c.exe
+http://aqarhits.com/system/logs/87tg7v645c.exe
+http://shapes.com.pk/system/logs/87tg7v645c.exe
+http://tredolcebambini.com/system/logs/office.exe
+http://azshop24.com.vn/system/logs/87tg7v645c.exe
+http://www.promumedical.com/system/logs/87tg7v645c.exe
+http://hellomydearqq.com/69.exe?1
+http://hellomydearqq.com/80.exe?1
 http://dukkotrain.tk/bot.exe
 http://dukkotrain.tk/data.exe
 http://softcrk.com/system/logs/4trf3g45.exe
@@ -89,17 +103,3 @@ http://electro-cablaj.ro/system/logs/7623dh3f.exe
 http://shop.havtoto.bget.ru/system/logs/45g456jhyfg
 http://acqueli.promilktrade.ru/x_rates_ru.exe
 http://matthewhost.com/2.exe
-http://matthewhost.com/3.exe
-http://4mining.ru/im/stub.exe
-http://chrisjonesmusic.co.uk/nuyff45d/87tf23w.exe
-http://glenwoodscience.co.za/css/igh.exe
-http://glenwoodscience.co.za/css/s3.exe
-http://glenwoodscience.co.za/css/s2.exe
-http://glenwoodscience.co.za/css/s1.exe
-http://demo2.master-pro.biz/images/flags/76ghby6f45.exe
-http://sepadugroup.com.my/system/logs/76ghby6f45.exe
-http://demo.ovh.eu/download/916a1cf20e543864cbb9a57adb643d75/update.exe
-http://demo.ovh.eu/download/8333330e399175ef63750548e66141ec/update.exe
-http://demo.ovh.eu/download/c418451f9cadf04989044ea17a68bf2a/EasyComm.exe
-http://goonwithmazerqq.com/94.exe
-http://goonwithmazerqq.com/93.exe
