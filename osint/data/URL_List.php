@@ -1,7 +1,30 @@
 <pre>
 VX Vault last 100 Links
-Wed, 09 Mar 2016 03:33:31 +0000
+Thu, 10 Mar 2016 03:34:17 +0000
 
+http://www.ekowen.sk/09y8j
+http://23.227.199.83/mm1.exe
+http://23.227.199.83/mm.exe
+http://23.227.199.83/Decrypter.exe
+http://23.227.199.83/mm1.exe
+http://23.227.199.83/bb2old.exe
+http://moenilgroup.com/system/logs/07yhnt7r64.exe
+http://77.106.125.99/pfrotha.exe
+http://saachi.co/system/logs/43ghy8n
+http://thietbianninhngocphuoc.com/system/logs/98yhb764d.exe
+http://magic-beauty.com.ua/system/logs/98yhb764d.exe
+http://ihsanind.com/system/logs/87jhg44g5
+http://planetarchery.com.au/system/logs/q32r45g54
+http://variant13.ru/system/logs/07yhnt7r64.exe
+http://scentualsbodycare.com.vn/system/logs/07yhnt7r64.exe
+http://hieon.com/system/logs/07yhnt7r64.exe
+http://notasvet.ru/system/logs/07yhnt7r64.exe
+http://racingtrack.ru/system/logs/07yhnt7r64.exe
+http://www.claudiocalaprice.com/modules/fedex/pad.exe
+http://e-kalogritsas.gr/system/logs/07yhnt7r64.exe
+http://jjmobilenetwork.com/system/logs/07yhnt7r64.exe
+http://karnavalnye.com/system/logs/07yhnt7r64.exe
+http://gpcarshop.com.br/system/logs/07yhnt7r64.exe
 http://hummmaaa.xyz/4/Panel/micro.exe
 http://hummmaaa.xyz/1/pony/micro.exe
 http://vendeghazanna.hu/counter/?id=555D575E13010624090508010F05084A070B095E275E0F0508114A070B4A0E145E17525E55505153505453505D555E55&rnd=2664721
@@ -80,26 +103,3 @@ http://ohellowruff.com/59.exe
 http://ohellowruff.com/51.exe
 http://ohellowruff.com/34.exe
 http://ohellowruff.com/29.exe
-http://ohellowruff.com/26.exe
-http://ohellowruff.com/25.exe
-http://ohellowruff.com/23.exe
-http://trieugiatrang.net/image/cache/87yhb54cdfy.exe
-http://support.bitdefenderdistributor.cc/intrabmw/get.php
-http://ubermensch.altervista.org/system/logs/87yhb54cdfy.exe
-http://toolsavenue.com/system/cache/87yhb54cdfy.exe
-http://tianshilive.ru/vqmod/xml/87yhb54cdfy.exe
-http://sitemar.ro/5/92buyv5
-http://accessinvestment.net/4/0vexw3s5
-http://pacificgiftcards.com/3/67t54cetvy
-http://tekstil-world.ru/vqmod/install/7ygvtyvb7niim.exe
-http://ohelloyoungmanff.com/93.exe
-http://ohelloyoungmanff.com/85.exe
-http://ohelloyoungmanff.com/80.exe
-http://ohelloyoungmanff.com/59.exe
-http://ohelloyoungmanff.com/51.exe
-http://ohelloyoungmanff.com/34.exe
-http://ohelloyoungmanff.com/29.exe
-http://ohelloyoungmanff.com/26.exe
-http://ohelloyoungmanff.com/25.exe
-http://ohelloyoungmanff.com/23.exe
-http://yesitisqqq.com/94.exe
