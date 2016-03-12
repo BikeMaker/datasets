@@ -3,7 +3,7 @@
 // It will return 127.0.0.1 for domains serving malicious executables observed by malc0de.com/database/
 // This file will be automatically updated daily and populated with the last 30 days of malicious domains.
 // Additional information to get this working can be found http://www.malwaredomains.com/wordpress/?page_id=6
-// Last updated 2016-03-10	
+// Last updated 2016-03-11	
 
 zone "192-168-0-255.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "asi-37.fr"  {type master; file "/etc/namedb/blockeddomain.hosts";};
@@ -139,6 +139,22 @@ zone "downxia.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "variant13.ru"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "an.com.tr"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "you-boost.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "amspeconline.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "anykumeni.info"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "tx-pipe01.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "clavierarabe5000.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "dgcustomgraphics.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "xiazaidown.wang"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "7r7z.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "fortyseven.com.ar"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "hellomississmithqq.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "hummmaaa.xyz"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "anonfile.xyz"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "zijintechnology.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "mkcvi.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "pohniq.org.in"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "gamegogle.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "roblox.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "shantifood.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "thisisyourchangeqq.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "citystategarden.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
