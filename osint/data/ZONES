@@ -3,7 +3,7 @@
 // It will return 127.0.0.1 for domains serving malicious executables observed by malc0de.com/database/
 // This file will be automatically updated daily and populated with the last 30 days of malicious domains.
 // Additional information to get this working can be found http://www.malwaredomains.com/wordpress/?page_id=6
-// Last updated 2016-03-11	
+// Last updated 2016-03-13	
 
 zone "192-168-0-255.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "asi-37.fr"  {type master; file "/etc/namedb/blockeddomain.hosts";};
@@ -150,11 +150,30 @@ zone "fortyseven.com.ar"  {type master; file "/etc/namedb/blockeddomain.hosts";}
 zone "hellomississmithqq.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "hummmaaa.xyz"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "anonfile.xyz"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "cloudnet2.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "cdnxiazai.wang"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "qq.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "gridserver.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "galit-law.co.il"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "zijintechnology.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "joecockerhereqq.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "nro.gov.sd"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "online-gaming-network.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "mkcvi.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "pearlandpm.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "peterdickem.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "pohniq.org.in"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "scorpyofilms.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "gamegogle.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "roblox.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "shantifood.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "thisisyourchangeqq.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "citystategarden.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "jz5u.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "dishdallas.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "xboxlive.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "softwaretop.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "1qingling.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "senggan.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "downloadian.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "plasma1927.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
