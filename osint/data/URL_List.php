@@ -1,7 +1,26 @@
 <pre>
 VX Vault last 100 Links
-Thu, 17 Mar 2016 03:33:22 +0000
+Fri, 18 Mar 2016 03:33:54 +0000
 
+http://cepteknik.org/wp-content/plugins/hello123/89h8btyfde445.exe
+http://blog.couponndeal.us/wp-content/plugins/hello123/89h8btyfde445.exe
+http://blogpl.catlabs.eu/wp-content/plugins/hello123/89h8btyfde445.exe
+http://polscyspecjalisci.pl/x8bn3d5vs
+http://businesscoal.com/wp-content/plugins/hello123/56h4g3b5yh.exe
+http://bakery.woodwardcounseling.com/michigan/map.php
+http://szkoleniasluzb.pl/67j5hg
+http://gooddrink.com.tr/wp-content/plugins/hello123/56h4g3b5yh.exe
+http://ziguinchor.caravanedesdixmots.com/wp-content/plugins/hello123/56h4g3b5yh.exe
+http://elsagu.ir/wp-content/plugins/hello123/56h4g3b5yh.exe
+http://hmsfreights.com/wp-content/plugins/hello123/56h4g3b5yh.exe
+http://corecircle.it/wp-content/plugins/hello123/56h4g3b5yh.exe
+http://david.guiron.perso.sfr.fr/counter/?id=555D535E0553565D5553005124100C0117141D0F0D080801164A070B4A110F5E225E1C0A4949575049170807010508100C55064A1C0A49491455050D5E17525E555051535C515C5053555E55&rnd=6123272
+http://ug-stroy.com/image/flags/tg.exe
+http://trasachthainguyen.com/0l9k7j6
+http://storageinbath.co.uk/78jh5h
+http://tramps-ike.gr/8i67uy4g
+http://art-studia-sharm.com.ua/libraries/simplepie/765g473bf34
+http://smeja.de/i876jh556h
 http://smokediscount.de/786u5h
 http://176.103.56.36/host/file/us.exe
 http://213.159.214.241/host/file/us.exe
@@ -84,22 +103,3 @@ http://surgitek.co.uk/system/logs/98yt
 http://breechdepot.com/image/flags/.../a.exe
 http://tech-filter.ru/system/logs/78tgh76.exe
 http://galleryamjadi.ir/image/flags/he.exe
-http://hkhc-shop.lms.hk/system/logs/87yg7g
-http://giveitallhereqq.com/69
-http://washitallawayff.com/69
-http://giveitallhereqq.com/69.exe
-http://washitallawayff.com/69
-http://washitallawayff.com/69
-http://washitallawayff.com/25
-http://giveitallhereqq.com/93.exe
-http://giveitallhereqq.com/87.exe
-http://giveitallhereqq.com/85.exe
-http://giveitallhereqq.com/80.exe
-http://giveitallhereqq.com/70.exe
-http://giveitallhereqq.com/69.exe
-http://giveitallhereqq.com/25.exe
-http://washitallawayff.com/93.exe
-http://washitallawayff.com/85.exe
-http://washitallawayff.com/80.exe
-http://washitallawayff.com/70.exe
-http://washitallawayff.com/69.exe
