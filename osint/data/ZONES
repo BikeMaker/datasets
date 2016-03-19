@@ -3,7 +3,7 @@
 // It will return 127.0.0.1 for domains serving malicious executables observed by malc0de.com/database/
 // This file will be automatically updated daily and populated with the last 30 days of malicious domains.
 // Additional information to get this working can be found http://www.malwaredomains.com/wordpress/?page_id=6
-// Last updated 2016-03-17	
+// Last updated 2016-03-18	
 
 zone "192-168-0-255.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "asi-37.fr"  {type master; file "/etc/namedb/blockeddomain.hosts";};
@@ -219,6 +219,16 @@ zone "vikasartsjodhpur.com"  {type master; file "/etc/namedb/blockeddomain.hosts
 zone "p55.be"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "winjoytechnologies.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "furusawaya.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "art-studia-sharm.com.ua"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "ali213.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "businesscoal.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "perso.sfr.fr"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "869v.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "ekop.org"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "gooddrink.com.tr"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "hmsfreights.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "satellite-rent.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "trasachthainguyen.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "ug-stroy.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "downloadonic.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "caravanedesdixmots.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};

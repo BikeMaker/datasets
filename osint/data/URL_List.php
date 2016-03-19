@@ -1,7 +1,18 @@
 <pre>
 VX Vault last 100 Links
-Fri, 18 Mar 2016 03:33:54 +0000
+Sat, 19 Mar 2016 03:34:28 +0000
 
+http://digitaldips.pk/wp-content/plugins/hello123/j7u7h54h5.exe
+http://marialorena.com.br/wp-content/plugins/hello123/8888ytc6r.exe
+http://kurirbelanja.com/wp-content/plugins/hello123/8888ytc6r.exe
+http://pncankara.com/wp-content/plugins/hello123/j7u7h54h5.exe
+http://visercorp.com/wqi3pd
+http://luci-ombre.it/wp-content/plugins/hello123/j7u7h54h5.exe
+http://evakuator-lska.com.ua/counter/?id=rZYD9RYqAF-J4Mjj6o-fnT064o9qQa5__hGRqG50g1fdfx942xrwyYmNYeCGjgRgrU0nOkd_WWanNQr8BWlrl2000B8&rnd=4529152
+http://evakuator-lska.com.ua/counter/?id=rZYD9RYqAF-J4Mjj6o-fnT064o9qQa5__hGRqG50g1fdfx942xrwyYmNYeCGjgRgrU0nOkd_WWanNQr8BWlrl2000B8&rnd=4529151
+http://evakuator-lska.com.ua/counter/?ad=15TM1YLoufq5CYXAA3yzkrwGy93HfAP6tQ&dc=37478
+http://cozeh.com/.css/feb.exe
+http://edilmarmoceramic.it/lineaceramic/ssd.exe
 http://cepteknik.org/wp-content/plugins/hello123/89h8btyfde445.exe
 http://blog.couponndeal.us/wp-content/plugins/hello123/89h8btyfde445.exe
 http://blogpl.catlabs.eu/wp-content/plugins/hello123/89h8btyfde445.exe
@@ -92,14 +103,3 @@ http://sribinayakelectricals.com/system/logs/78tgh76.exe
 http://washitallawayff.com/69
 http://washitallawayff.com/69
 http://lffrecycling.com/paining/invoice/ink.exe
-http://lffrecycling.com/paining/invoice/pay.exe
-http://lffrecycling.com/paining/invoice/link.exe
-http://washitallawayff.com/69
-http://gitafashion.com/image/flags/putty.exe
-http://washitallawayff.com/69
-http://giveitallhereqq.com/69
-http://washitallawayff.com/69
-http://surgitek.co.uk/system/logs/98yt
-http://breechdepot.com/image/flags/.../a.exe
-http://tech-filter.ru/system/logs/78tgh76.exe
-http://galleryamjadi.ir/image/flags/he.exe
