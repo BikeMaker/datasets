@@ -3,7 +3,7 @@
 // It will return 127.0.0.1 for domains serving malicious executables observed by malc0de.com/database/
 // This file will be automatically updated daily and populated with the last 30 days of malicious domains.
 // Additional information to get this working can be found http://www.malwaredomains.com/wordpress/?page_id=6
-// Last updated 2016-03-18	
+// Last updated 2016-03-19	
 
 zone "192-168-0-255.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "asi-37.fr"  {type master; file "/etc/namedb/blockeddomain.hosts";};
@@ -232,3 +232,13 @@ zone "trasachthainguyen.com"  {type master; file "/etc/namedb/blockeddomain.host
 zone "ug-stroy.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "downloadonic.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "caravanedesdixmots.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "xxuz.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "cozeh.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "qksee.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "evakuator-lska.com.ua"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "downloadmanager117.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "file888desktop.info"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "hack-legende.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "naairah.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "visercorp.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "utildata.co.kr"  {type master; file "/etc/namedb/blockeddomain.hosts";};

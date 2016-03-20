@@ -1,7 +1,16 @@
 <pre>
 VX Vault last 100 Links
-Sat, 19 Mar 2016 03:34:28 +0000
+Sun, 20 Mar 2016 03:34:56 +0000
 
+http://155.133.82.113/exe.exe
+http://dogtrainclub.com/fik3n5as
+http://bilgenaslan.com/4bsdku3d
+http://salontrend.cz/laa3da
+http://mas-galih.com/nc4f6gf
+http://kitasukatravel.com/l2kdoe
+http://fiomsnclattoneria.it/aoe9d2d
+http://fourthcoast.co/sdi7ud
+http://emf.org.tr/ukdhf2
 http://digitaldips.pk/wp-content/plugins/hello123/j7u7h54h5.exe
 http://marialorena.com.br/wp-content/plugins/hello123/8888ytc6r.exe
 http://kurirbelanja.com/wp-content/plugins/hello123/8888ytc6r.exe
@@ -94,12 +103,3 @@ http://newleaf.org.in/87yg756f5.exe
 http://c001456.aaa.ididp.com/system/logs/87yg756f5.exe
 http://alumaxgroup.in/87yg756f5.exe
 http://flaxxup.com/87yg756f5.exe
-http://giveitalltheresqq.com/69.exe
-http://washitallawayff.com/69
-http://giveitalltheresqq.com/80.exe
-http://mytareef.com/system/logs/officems.exe
-http://washitallawayff.com/69
-http://sribinayakelectricals.com/system/logs/78tgh76.exe
-http://washitallawayff.com/69
-http://washitallawayff.com/69
-http://lffrecycling.com/paining/invoice/ink.exe
