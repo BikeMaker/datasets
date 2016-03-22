@@ -1,7 +1,10 @@
 <pre>
 VX Vault last 100 Links
-Mon, 21 Mar 2016 04:04:33 +0000
+Tue, 22 Mar 2016 03:34:27 +0000
 
+http://bibliotecaatualiza.com.br/counter/?ad=1BPRvxWw75kyZAjTS1UYqDmyCzvRH4eHSc&dc=753123
+http://bibliotecaatualiza.com.br/counter/?id=a5MDyaa6RhRlNZSiV2EZfo_xMgx2viIpDJCLPKkOHEAhoWsDIgmisPaqo4qM8sFGwBy8weZ4uw8ZMBvT2FpUxX2tzQ&rnd=3216832
+http://bibliotecaatualiza.com.br/counter/?id=a5MDyaa6RhRlNZSiV2EZfo_xMgx2viIpDJCLPKkOHEAhoWsDIgmisPaqo4qM8sFGwBy8weZ4uw8ZMBvT2FpUxX2tzQ&rnd=3216831
 http://155.133.82.113/exe.exe
 http://dogtrainclub.com/fik3n5as
 http://bilgenaslan.com/4bsdku3d
@@ -100,6 +103,3 @@ http://hppl.net/87yg756f5.exe
 http://creditwallet.net/87yg756f5.exe
 http://glslindia.com/87yg756f5.exe
 http://newleaf.org.in/87yg756f5.exe
-http://c001456.aaa.ididp.com/system/logs/87yg756f5.exe
-http://alumaxgroup.in/87yg756f5.exe
-http://flaxxup.com/87yg756f5.exe
