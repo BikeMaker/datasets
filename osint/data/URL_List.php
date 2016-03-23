@@ -1,7 +1,9 @@
 <pre>
 VX Vault last 100 Links
-Tue, 22 Mar 2016 03:34:27 +0000
+Wed, 23 Mar 2016 03:34:34 +0000
 
+http://178.151.171.55/pfrotha.exe
+http://www.lightningstars.in/system/logs/87h76hghuhi.exe?wesh-malekal
 http://bibliotecaatualiza.com.br/counter/?ad=1BPRvxWw75kyZAjTS1UYqDmyCzvRH4eHSc&dc=753123
 http://bibliotecaatualiza.com.br/counter/?id=a5MDyaa6RhRlNZSiV2EZfo_xMgx2viIpDJCLPKkOHEAhoWsDIgmisPaqo4qM8sFGwBy8weZ4uw8ZMBvT2FpUxX2tzQ&rnd=3216832
 http://bibliotecaatualiza.com.br/counter/?id=a5MDyaa6RhRlNZSiV2EZfo_xMgx2viIpDJCLPKkOHEAhoWsDIgmisPaqo4qM8sFGwBy8weZ4uw8ZMBvT2FpUxX2tzQ&rnd=3216831
@@ -101,5 +103,3 @@ http://aimsande.com/87yg756f5.exe
 http://gargsons.com/87yg756f5.exe
 http://hppl.net/87yg756f5.exe
 http://creditwallet.net/87yg756f5.exe
-http://glslindia.com/87yg756f5.exe
-http://newleaf.org.in/87yg756f5.exe
