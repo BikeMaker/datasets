@@ -3,9 +3,8 @@
 // It will return 127.0.0.1 for domains serving malicious executables observed by malc0de.com/database/
 // This file will be automatically updated daily and populated with the last 30 days of malicious domains.
 // Additional information to get this working can be found http://www.malwaredomains.com/wordpress/?page_id=6
-// Last updated 2016-03-22	
+// Last updated 2016-03-23	
 
-zone "192-168-0-255.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "asi-37.fr"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "bagbackpack.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "bitmeyenkartusistanbul.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
@@ -258,4 +257,7 @@ zone "ahnlab.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "tv002.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "changeexchange9.ru"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "anansangyo.co.jp"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "divyagangaherbals.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "loslokos.com.br"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "proxy.ge.tt"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "dulichando.org"  {type master; file "/etc/namedb/blockeddomain.hosts";};
