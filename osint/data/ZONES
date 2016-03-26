@@ -3,7 +3,7 @@
 // It will return 127.0.0.1 for domains serving malicious executables observed by malc0de.com/database/
 // This file will be automatically updated daily and populated with the last 30 days of malicious domains.
 // Additional information to get this working can be found http://www.malwaredomains.com/wordpress/?page_id=6
-// Last updated 2016-03-24	
+// Last updated 2016-03-25	
 
 zone "asi-37.fr"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "bagbackpack.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
@@ -270,8 +270,14 @@ zone "altervista.org"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "whitewolfltd.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "softwarevaultsfiles.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "analytics136.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "antalyanalburiye.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "businesshelpa-z.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "businesshelpaz.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "nonglirili.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "foodbeverageandmore.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "greenlive.lms.hk"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "nearlyscrew323.ru"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "bysoft.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "sogou.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "cloudfront.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "compressioneasy.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
