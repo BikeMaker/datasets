@@ -1,7 +1,14 @@
 <pre>
 VX Vault last 100 Links
-Tue, 29 Mar 2016 03:35:15 +0000
+Wed, 30 Mar 2016 03:42:30 +0000
 
+http://kraonkelaere.com/sniffer.exe
+http://kraonkelaere.com/word.exe
+http://kraonkelaere.com/test.exe
+http://kraonkelaere.com/2.exe
+http://zlatnictviolomouc.cz/LtN4B6.exe
+http://kraftstory.com/m1kzos
+http://dropsupply.com/5478hj.exe
 http://bilisimciniz.com/counter/?id=LXYZ6e2teCAVAMvnDdadfT2GAQ9vxqgfnnVwKQwIHNLcHb4HJ6WISkLwW_08jaJrCqUwY_EKbTBy4t_IUHI&rnd=3584612
 http://bilisimciniz.com/counter/?id=LXYZ6e2teCAVAMvnDdadfT2GAQ9vxqgfnnVwKQwIHNLcHb4HJ6WISkLwW_08jaJrCqUwY_EKbTBy4t_IUHI&rnd=3584611
 http://bilisimciniz.com/counter/?ad=1AGDPghgCRik2wM1ShYm6RAJzudZBbSCL8&dc=535994
@@ -96,10 +103,3 @@ http://evakuator-lska.com.ua/counter/?id=rZYD9RYqAF-J4Mjj6o-fnT064o9qQa5__hGRqG5
 http://evakuator-lska.com.ua/counter/?id=rZYD9RYqAF-J4Mjj6o-fnT064o9qQa5__hGRqG50g1fdfx942xrwyYmNYeCGjgRgrU0nOkd_WWanNQr8BWlrl2000B8&rnd=4529151
 http://evakuator-lska.com.ua/counter/?ad=15TM1YLoufq5CYXAA3yzkrwGy93HfAP6tQ&dc=37478
 http://cozeh.com/.css/feb.exe
-http://edilmarmoceramic.it/lineaceramic/ssd.exe
-http://cepteknik.org/wp-content/plugins/hello123/89h8btyfde445.exe
-http://blog.couponndeal.us/wp-content/plugins/hello123/89h8btyfde445.exe
-http://blogpl.catlabs.eu/wp-content/plugins/hello123/89h8btyfde445.exe
-http://polscyspecjalisci.pl/x8bn3d5vs
-http://businesscoal.com/wp-content/plugins/hello123/56h4g3b5yh.exe
-http://bakery.woodwardcounseling.com/michigan/map.php
