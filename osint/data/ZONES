@@ -3,46 +3,36 @@
 // It will return 127.0.0.1 for domains serving malicious executables observed by malc0de.com/database/
 // This file will be automatically updated daily and populated with the last 30 days of malicious domains.
 // Additional information to get this working can be found http://www.malwaredomains.com/wordpress/?page_id=6
-// Last updated 2016-04-09	
+// Last updated 2016-04-10	
 
-zone "3dfishgame.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "musickings.info"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "agustindrago.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "amspeconline.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "anykumeni.info"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "asi-37.fr"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "baanissararesorthuahin.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "bagbackpack.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "canadafiltros.com.br"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "tx-pipe01.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "clavierarabe5000.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "dgcustomgraphics.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "softservers.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "ancamera.co.kr"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "downcdn.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "xiazai2.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "xiazaidown.wang"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "7r7z.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "exeupp.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "fortyseven.com.ar"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "hellomississmithqq.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "hummmaaa.xyz"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "jatukarm-30.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "51jetso.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "anonfile.xyz"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "bagbackpack.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "img001.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "tx-pipe01.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "cloudnet2.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "ummy.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "dgcustomgraphics.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "softservers.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "cdnxiazai.wang"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "downcdn.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "downxiazai.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "downxiazai.org"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "qq.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "zol.com.cn"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "7r7z.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "re58.cn"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "freefiles-8.de"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "exeupp.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "gridserver.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "fortyseven.com.ar"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "galit-law.co.il"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "zijintechnology.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "hellomississmithqq.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "hummmaaa.xyz"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "jatukarm-30.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "joecockerhereqq.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "magic-beauty.com.ua"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "mehulic-art.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
@@ -64,6 +54,7 @@ zone "tredolcebambini.com"  {type master; file "/etc/namedb/blockeddomain.hosts"
 zone "goosai.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "an.com.tr"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "citystategarden.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "51jetso.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "33lc.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "jz5u.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "msecnd.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
@@ -77,6 +68,8 @@ zone "1qingling.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "senggan.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "bonjovijonqq.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "uvwcii.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "ancamera.co.kr"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "xiazai2.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "xiazaidown.org"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "downloadian.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "kaliteliun.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
