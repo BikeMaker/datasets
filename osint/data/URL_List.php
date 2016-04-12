@@ -1,7 +1,29 @@
 <pre>
 VX Vault last 100 Links
-Mon, 11 Apr 2016 03:34:53 +0000
+Tue, 12 Apr 2016 03:33:31 +0000
 
+http://razpokupka.ru/system/logs/xt.exe
+http://kroha.kh.ua/system/logs/xt.exe
+http://zapchast43.ru/system/logs/xt.exe
+http://greetingsyoungqq.com/93.exe
+http://greetingsyoungqq.com/87.exe
+http://greetingsyoungqq.com/85.exe
+http://greetingsyoungqq.com/80.exe
+http://greetingsyoungqq.com/70.exe
+http://greetingsyoungqq.com/69.exe
+http://greetingsyoungqq.com/25.exe
+http://greetingsyoungqq.com/23.exe
+http://realistikkampanya.info/image/data/slider/.../404
+http://167.114.124.88/Windows/Wihost.exe
+http://192.185.100.215/~salesmi/zstealer.exe
+http://cgwpllc.com/87t5gh
+http://artek.cba.pl/87t5gh
+http://xn--frster-logistik-8sb.info/87t5gh
+http://kerryspix.com/87t5gh
+http://kolo17.freehost.pl/87t5gh
+http://covercellulare.it/downloader/567.mov
+http://rc.seomax.biz/system/library/.../403.php?f=2
+http://oootels.ru/87t5gh
 http://rc.seomax.biz/system/library/.../403.php?f=2
 http://192.241.250.132/SH1892739.rar
 http://192.241.250.132/loooksl.rar
@@ -81,25 +103,3 @@ http://greetingseuropasqq.com/87.exe
 http://greetingseuropasqq.com/85.exe
 http://greetingseuropasqq.com/80.exe
 http://greetingseuropasqq.com/69.exe
-http://greetingseuropasqq.com/25.exe
-http://greetingseuropasqq.com/23.exe
-http://isityouornotcc.asia/80.exe
-http://isityouornotcc.asia/25.exe
-http://isityouornotcc.asia/23.exe
-http://bellefonte.net/s.exe
-http://hatgiongrangdong.com/54eftygub
-http://campinglesamis.com/wpscripts/Chrome%20Hijacker.exe
-http://utsi.free.fr/4/4.exe
-http://mediaexpertadvantage.com/wp-content/upgrade/3e2d22ef2.exe
-http://aurovillia.com/wp-content/uploads/2015/03/4545.322
-http://www.fuledotam.fr/css/prog1g.exe
-http://bellefonte.net/5serv.exe
-http://campinglesamis.com/wpscripts/chrome.exe
-http://www.zoreil.re/wordpress/file.exe
-http://www.zoreil.re/file.exe
-http://siparisimneasamada.com/counter/?id=TW4A85TQhdiKYUniji-cHzs55o_SQsmd_xJuKYwS4m6lmhr_oaNEsM9PA8MCbQUr6uTw4_GLTNE-&rnd=1711671
-http://siparisimneasamada.com/counter/?ad=1JophzXPxG3yyrA5ApyqiRfATEHJX6RnfS&dc=730469
-http://siparisimneasamada.com/counter/?id=TW4A85TQhdiKYUniji-cHzs55o_SQsmd_xJuKYwS4m6lmhr_oaNEsM9PA8MCbQUr6uTw4_GLTNE-&rnd=1711672
-http://patience.at/counter/?ad=17CSDu86pU9HqDwatXPFFQXcx77cduuLrA&dc=983056
-http://patience.at/counter/?id=rZT-7AmueCAXAM0EDNaFe7vZAwhoQkoe-XTPKghxU5Y3T9Pv1DFCBrcx3T2cE9qVFVyPpA6LynGSY18pcb7-gHkg_7LX4is&rnd=2199971
-http://patience.at/counter/?id=rZT-7AmueCAXAM0EDNaFe7vZAwhoQkoe-XTPKghxU5Y3T9Pv1DFCBrcx3T2cE9qVFVyPpA6LynGSY18pcb7-gHkg_7LX4is&rnd=2199972
