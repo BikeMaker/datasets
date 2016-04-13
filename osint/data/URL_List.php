@@ -1,7 +1,11 @@
 <pre>
 VX Vault last 100 Links
-Tue, 12 Apr 2016 03:33:31 +0000
+Wed, 13 Apr 2016 03:34:17 +0000
 
+http://323trs.com/wordpress/wp-includes/svchost.exe
+http://onlineaccess.bleutree.info/catalog/wp-login.php
+http://denie.biz/counter/?id=e5Lzzaa6RhR1FY-Ok5rwkN6seiL3ZLfaSLxil19wD5iX9UwNvcP97ZaO1VYXDvS2yQzap2ZzVsb66O2GTVJdLPIUN5vLEQ&rnd=2793292
+http://denie.biz/counter/?id=e5Lzzaa6RhR1FY-Ok5rwkN6seiL3ZLfaSLxil19wD5iX9UwNvcP97ZaO1VYXDvS2yQzap2ZzVsb66O2GTVJdLPIUN5vLEQ&rnd=2793291
 http://razpokupka.ru/system/logs/xt.exe
 http://kroha.kh.ua/system/logs/xt.exe
 http://zapchast43.ru/system/logs/xt.exe
@@ -99,7 +103,3 @@ http://bellefonte.net/dialog.exe
 http://bearskin-apparel.com/54eftygub
 http://greetingseuropasqq.com/70.exe
 http://greetingseuropasqq.com/93.exe
-http://greetingseuropasqq.com/87.exe
-http://greetingseuropasqq.com/85.exe
-http://greetingseuropasqq.com/80.exe
-http://greetingseuropasqq.com/69.exe
