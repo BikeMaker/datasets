@@ -3,44 +3,40 @@
 // It will return 127.0.0.1 for domains serving malicious executables observed by malc0de.com/database/
 // This file will be automatically updated daily and populated with the last 30 days of malicious domains.
 // Additional information to get this working can be found http://www.malwaredomains.com/wordpress/?page_id=6
-// Last updated 2016-04-19	
+// Last updated 2016-04-20	
 
 zone "art-studia-sharm.com.ua"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "bibliotecaatualiza.com.br"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "businesscoal.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "cozeh.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "perso.sfr.fr"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "dgtravel.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "repairlabshost.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "dogtrainclub.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "ancamera.co.kr"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "xiazai2.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "freefiles-4.de"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "webhostinghub.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "electime.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "evakuator-lska.com.ua"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "imgointoeatnowcc.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "chipcalculator.info"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "integrateddebug.info"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "mylftv.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "kidshealingcrohnsandcolitis.org"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "lffrecycling.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "liveshowgirl.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "mas-galih.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "hzbols.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "naairah.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "scredir3.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "snosto.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "sribinayakelectricals.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "trasachthainguyen.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "tratancuongthainguyen.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "ug-stroy.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "goosai.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "washitallawayff.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "exeupp.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "bibliotecaatualiza.com.br"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "dgtravel.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "repairlabshost.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "ancamera.co.kr"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "chipcalculator.info"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "mylftv.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "ahnlab.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "tv002.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "trasachthainguyen.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "tratancuongthainguyen.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "goosai.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "washitallawayff.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "changeexchange9.ru"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "exeupp.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "anansangyo.co.jp"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "divyagangaherbals.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "loslokos.com.br"  {type master; file "/etc/namedb/blockeddomain.hosts";};
