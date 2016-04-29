@@ -3,27 +3,24 @@
 // It will return 127.0.0.1 for domains serving malicious executables observed by malc0de.com/database/
 // This file will be automatically updated daily and populated with the last 30 days of malicious domains.
 // Additional information to get this working can be found http://www.malwaredomains.com/wordpress/?page_id=6
-// Last updated 2016-04-27	
+// Last updated 2016-04-28	
 
 zone "clouddn.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "action4balance.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "antalyanalburiye.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "apps-prodownload.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "bibliotecaatualiza.com.br"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "businesscoal.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "kuai8.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "461gb.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "auhazard.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "dogtrainclub.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "fyeshs.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "jxsjixie.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "qq.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "zol.com.cn"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "ecrans-salamandre.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "epc-test.lms.hk"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "evakuator-lska.com.ua"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "fssblangenlois.ac.at"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "gasparini.com.br"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "file8desktop.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "grandaareyoucc.asia"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "greenlive.lms.hk"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "healthymindhealthysoul.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
@@ -31,20 +28,16 @@ zone "holidaysinkeralam.com"  {type master; file "/etc/namedb/blockeddomain.host
 zone "kanberdemir.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "perso.sfr.fr"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "mas-galih.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "maurarohde.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "naipeclandestino.com.br"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "perfeicao.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "plexcera.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "windows.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "sportstherapy.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "sribinayakelectricals.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "talka-studios.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "texasexablate.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "goosai.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "whitewolfltd.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "wizutil.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "zol.com.cn"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "maurarohde.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "windows.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "8coc.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "wizutil.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "2biking.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "txj888.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "aztechnologies.co.uk"  {type master; file "/etc/namedb/blockeddomain.hosts";};
