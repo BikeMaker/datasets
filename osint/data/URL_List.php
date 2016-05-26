@@ -1,7 +1,32 @@
 <pre>
 VX Vault last 100 Links
-Wed, 25 May 2016 04:19:55 +0000
+Thu, 26 May 2016 04:19:16 +0000
 
+http://hate-metal.com/k7jhrt4hertg
+http://58.221.58.133:8899/SMdds.exe
+http://222.186.15.184:5220/ll.exe
+http://mtldesigns.ca/k7jhrt4hertg
+http://bridgeplacements.com/k7jhrt4hertg
+http://95.213.192.89/elog.exe
+http://16industries.com/k7jhrt4hertg
+http://tendearteplast.com/1.exe
+http://192.240.107.42:8914/d1/ll.exe
+http://192.240.107.42:8914/d1/lssa.exe
+http://comecomunicare.eu/3g34t3t4tggrt
+http://www.appoutpost.com/3g34t3t4tggrt
+http://kitchen38.com/HYPETS.exe
+http://avayeparseh.com/s0faxS.exe
+http://yearnjewelry.com/OnvBrc.exe
+http://purfectcar.com/sHXqZT.exe
+http://crimeshurt.com/3g34t3t4tggrt
+http://unijovem.com.br/3g34t3t4tggrt
+http://comecomunicare.eu/3g34t3t4tggrt
+http://bankruptcymag.com/3g34t3t4tggrt
+http://avi-vest.ro/3g34t3t4tggrt
+http://dossatam.5gbfree.com/goseta/files.exe
+http://95.213.192.89/elog.exe
+http://104.168.188.170/~trehbaof/ass.exe
+http://s3-eu-west-1.amazonaws.com/upload-files-assets/9246b09-invoice.exe
 http://www.lakesidesalestx.com/net/henry.exe
 http://80.87.205.115/2/bbv.exe
 http://www.www.www.freefuckbabes.com/65g434f
@@ -78,28 +103,3 @@ http://dugoutdad.com/0ygubbvvm
 http://certifiedbanker.org/0hn9gb
 http://bigislandhawaiihilorealestate.com/c7ddc7f
 http://beautifulhosting.com.au/98gjkbn
-http://addonworks.com/afavam
-http://s30.co.in/admin/assets/img/test/testing.exe
-http://dev.hartis.org/asvfqh2vn
-http://honeystays.co.za/sajaafafa
-http://dvphysio.com.au/g0bpicjhbv
-http://carseatcoverwarehouse.com.au/zzvmvae
-http://rasahcollections.com/wp-content/plugins/libravatar-replace/schet1905.doc.exe
-http://horny4money.com/s/setup.exe
-http://3pan.com/images/s.exe
-http://enter.edu.vn/js/tt.exe
-http://linguistlounge.org/1.exe
-http://famillesbeaudet.com/asjpnq2v
-http://bailamecuba.com/h89ghb
-http://80.87.205.115/5/x86.exe
-http://168.235.251.172/gps.exe
-http://222.217.3.73:2321/8080.exe
-http://222.217.3.73:2321/yunwu.exe
-http://222.217.3.73:2321/123.exe
-http://theoutlet.updownstyle.at/system/logs/inst.exe
-http://theoutlet.updownstyle.at/system/logs/pm.dll
-http://empiredeckandfence.com/437gfinw2
-http://cvfredrikhartmann.info/437gfinw2
-http://freesource.su/437gfinw2
-http://seehotel.de/hgnh453g
-http://mpriberemennosti.ru/cvfb4g3g43
