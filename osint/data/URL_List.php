@@ -1,7 +1,9 @@
 <pre>
 VX Vault last 100 Links
-Wed, 01 Jun 2016 04:19:19 +0000
+Thu, 02 Jun 2016 04:18:43 +0000
 
+http://vantagem.ru/image/data/len/.../400
+http://luxury-bond.com/1.exe
 http://131.72.138.107/k1.exe
 http://revista.motociclismo.es/4HgJ7t
 http://polibloki.ru/nbTURt
@@ -101,5 +103,3 @@ http://104.216.4.235:8080/abc.exe
 http://yugshajewels.com/jwDKUT
 http://xcig.com/waEJFS
 http://wowletters.com/4njoCt
-http://topdomain.io/KT1sSc
-http://thecharmingtree.com/4tv1zU
