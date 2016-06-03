@@ -1,7 +1,9 @@
 <pre>
 VX Vault last 100 Links
-Thu, 02 Jun 2016 04:18:43 +0000
+Fri, 03 Jun 2016 04:22:16 +0000
 
+http://krugmaintenance.com/wp-content/plugins/quick-setup/filejp.png
+http://mettagems.com/file.exe
 http://vantagem.ru/image/data/len/.../400
 http://luxury-bond.com/1.exe
 http://131.72.138.107/k1.exe
@@ -101,5 +103,3 @@ http://blackstonefx.com/1.exe
 http://ideamix-yar.ru/1.exe
 http://104.216.4.235:8080/abc.exe
 http://yugshajewels.com/jwDKUT
-http://xcig.com/waEJFS
-http://wowletters.com/4njoCt
