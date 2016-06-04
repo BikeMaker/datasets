@@ -1,7 +1,13 @@
 <pre>
 VX Vault last 100 Links
-Fri, 03 Jun 2016 04:22:16 +0000
+Sat, 04 Jun 2016 04:23:33 +0000
 
+http://filokiyurt.at/crypted/1010cerum.exe
+http://turabiruggallery.com/counter/2.bin
+http://turabiruggallery.com/counter/1.bin
+http://87.120.254.142/bin.exe
+http://rakcomic.com/wp-content/plugins/jetpack/modules/minileven/entryfilejp.png
+http://95.213.192.89/saftig.jpg
 http://krugmaintenance.com/wp-content/plugins/quick-setup/filejp.png
 http://mettagems.com/file.exe
 http://vantagem.ru/image/data/len/.../400
@@ -97,9 +103,3 @@ http://cdc-ccd.org/9uh87g756
 http://robinstrading.ru/pen/TaskHostMangr.exe
 http://o7fhzngb5.bkt.clouddn.com/gy.exe
 http://58.221.58.133:8899/Serve1.exe
-http://58.221.58.133:8899/Serve.exe
-http://58.221.58.133:8899/NewRat.exe
-http://blackstonefx.com/1.exe
-http://ideamix-yar.ru/1.exe
-http://104.216.4.235:8080/abc.exe
-http://yugshajewels.com/jwDKUT
