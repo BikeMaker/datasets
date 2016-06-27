@@ -1,7 +1,11 @@
 <pre>
 VX Vault last 100 Links
-Sun, 26 Jun 2016 04:16:47 +0000
+Mon, 27 Jun 2016 04:18:18 +0000
 
+http://beautycollegeofamca.com/h17if71
+http://beautycollegeofamca.com/gfzbzv9j
+http://camera-test.hi2.ro/msjs
+http://212.40.5.95/~tonex/9ln841
 http://makarony.pw/t/1523
 http://yourbc.ru/counter/2.bin
 http://yourbc.ru/counter/1.bin
@@ -99,7 +103,3 @@ http://adhocenergy.com/wp-admin/css/file.exe
 http://justfilehosting.space/download.php?f=tefbs&name=ReFudMe+Scanner.exe
 http://sita-sindrila.ro/Mechanism.exe
 http://www.digphoto.net/guestbook/db/news/ws9000.scr
-http://justfilehosting.space/download.php?f=pvvrq&name=567.png
-http://95.213.192.89/flogo.png
-http://www.softwareupdaterallinvarsiondriversandsettings.com/j4v4upd4t3rL0ads.exe
-http://www.softwareupdaterallinvarsiondriversandsettings.com/Off1cce365upd4te.exe
