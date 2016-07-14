@@ -1,7 +1,13 @@
 <pre>
 VX Vault last 100 Links
-Wed, 13 Jul 2016 04:21:13 +0000
+Thu, 14 Jul 2016 04:20:08 +0000
 
+http://enlighteninfraredsauna.com/pm.dll
+http://jteenpgh.com/wp-content/uploads/2015/10/c1.exe
+http://stanspade.com/wp-content/plugins/libravatar-replace/novi.schet.doc.exe
+http://opieka.info.pl/templates/beez3/file.exe
+http://foornoprty.top/2.gif
+http://foornoprty.top/1.gif
 http://acepipesdeli.com.br/tffx7
 http://ital.com.mx/xswj9
 http://maihama.2jikai-p.net/5mkejwj4
@@ -97,9 +103,3 @@ http://pmimpiantiaosta.com/templates/beez3/file.exe
 http://levinltd.com/54fc3rc3fr
 http://something117.com/54fc3rc3fr
 http://dcimpiantibari.com/54fc3rc3fr
-http://thereputationco.com/office.bin
-http://rtnlogistics.com/citizenboss.exe
-http://prometheuslive.com/wp-admin/css/file.exe
-http://www.comeci.eu/localization/odios/boffi.scr
-http://wallpaperswithquotes.com/counter/2.bin
-http://wallpaperswithquotes.com/counter/1.bin
