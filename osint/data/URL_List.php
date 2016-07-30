@@ -1,7 +1,13 @@
 <pre>
 VX Vault last 100 Links
-Fri, 29 Jul 2016 04:16:19 +0000
+Sat, 30 Jul 2016 04:16:43 +0000
 
+http://uploads.ninja/uploads/smcix.exe
+http://ghanashippingawards.com/wp-content/uploads/2016/07/build.exe
+http://ghanashippingawards.com/wp-content/uploads/2016/07/medusa.exe
+http://ghanashippingawards.com/wp-content/uploads/2016/07/andromeda.exe
+http://ghanashippingawards.com/wp-content/uploads/2016/07/build.exe
+http://whvf2gm5n.homepage.t-online.de/j988765
 http://1fichier.com/?n7aksbrw6s
 http://50.115.164.10/update.exe
 http://media.mycatpics.tech/usa_drones_rate_is_90_percent_civilians_killed_10_percent_terrorists/3751bf/Track_and_Trace.scr
@@ -97,9 +103,3 @@ http://opieka.info.pl/templates/beez3/file.exe
 http://foornoprty.top/2.gif
 http://foornoprty.top/1.gif
 http://acepipesdeli.com.br/tffx7
-http://ital.com.mx/xswj9
-http://maihama.2jikai-p.net/5mkejwj4
-http://inextenso.hu/xc3739l
-http://wacker-etm.ru/jfbmxlhy
-http://diablitos.no/ogmrgs
-http://jstudio.com.my/5mkejwj4
