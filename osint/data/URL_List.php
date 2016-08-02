@@ -1,7 +1,15 @@
 <pre>
 VX Vault last 100 Links
-Mon, 01 Aug 2016 04:17:16 +0000
+Tue, 02 Aug 2016 04:16:22 +0000
 
+http://polishbrandsintl.com/files/mi.exe
+http://polishbrandsintl.com/files/jizzy.exe
+http://polishbrandsintl.com/files/ike.exe
+http://polishbrandsintl.com/files/elber.exe
+http://polishbrandsintl.com/files/agogo.exe
+http://polishbrandsintl.com/files/Purchase%20Order.exe
+http://polishbrandsintl.com/files/oga.exe
+http://61.58.45.36/.dll1/hrt12.exe
 http://uploads.ninja/uploads/smcix.exe
 http://ghanashippingawards.com/wp-content/uploads/2016/07/build.exe
 http://ghanashippingawards.com/wp-content/uploads/2016/07/medusa.exe
@@ -95,11 +103,3 @@ http://ulagee.com/c1.exe
 http://promovere.ru/counter/2.bin
 http://promovere.ru/counter/1.bin
 http://na-den.cz/counter/2.bin
-http://na-den.cz/counter/1.bin
-http://enlighteninfraredsauna.com/pm.dll
-http://jteenpgh.com/wp-content/uploads/2015/10/c1.exe
-http://stanspade.com/wp-content/plugins/libravatar-replace/novi.schet.doc.exe
-http://opieka.info.pl/templates/beez3/file.exe
-http://foornoprty.top/2.gif
-http://foornoprty.top/1.gif
-http://acepipesdeli.com.br/tffx7
