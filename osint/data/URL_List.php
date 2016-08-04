@@ -1,7 +1,17 @@
 <pre>
 VX Vault last 100 Links
-Wed, 03 Aug 2016 04:18:48 +0000
+Thu, 04 Aug 2016 04:16:43 +0000
 
+http://doreviold.ml/lina.exe
+http://songphuongrninh.com/chidi/order.exe
+http://tclogs.tk/pon/host.exe
+http://tclogs.tk/upx/win.exe
+http://tclogs.tk/upx/chrome.exe
+http://criandoseunegocio.com.br/pc/p/micro.exe
+http://edutshely.com/dk/crypted.exe
+http://www.songphuongrninh.com/chidi/order.exe
+http://www.songphuongrninh.com/frank/invoice.exe
+http://www.songphuongrninh.com/janta/order.exe
 http://www.jehovahshippings.com/abia/emeka.exe
 http://devb0t.duckdns.org/host
 http://devb0t.duckdns.org/loader
@@ -93,13 +103,3 @@ http://rebelionfitness.com/pm.dll
 http://formationinnovation.net/09uhv65hg
 http://pmlingua.strefa.pl/09uhv65hg
 http://teamneweragaming.com/wp-content/plugins/libravatar-replace/novi.schet.doc.exe
-http://shaman-studio.com/09uhv65hg
-http://tcmandarin.ru/09uhv65hg
-http://dtrealty.us/09uhv65hg
-http://assopeltro.com/09uhv65hg
-http://artigianasalumi.com/09uhv65hg
-http://abejasmallorca.com/09uhv65hg
-http://larg1.free.fr/09uhv65hg
-http://spruielldrilling.com/09uhv65hg
-http://lot7fold.top/2.gif
-http://lot7fold.top/1.gif
