@@ -1,7 +1,11 @@
 <pre>
 VX Vault last 100 Links
-Thu, 04 Aug 2016 04:16:43 +0000
+Fri, 05 Aug 2016 04:16:46 +0000
 
+http://sentembertolls.ru/pony/Pony.exe
+http://sumofmind.com/wp-includes/pomo/inst1.exe
+http://www.korean4all.net/wp-admin/pm.dll
+http://samogontoronto.tk/1owukixwuoqholyeffyoz.exe
 http://doreviold.ml/lina.exe
 http://songphuongrninh.com/chidi/order.exe
 http://tclogs.tk/pon/host.exe
@@ -99,7 +103,3 @@ http://pmlingua.strefa.pl/09uhv65hg
 http://lilabners.com/09uhv65hg
 http://articolidacasa.com/winupdate.exe
 http://sacredserum.com/c1.exe
-http://rebelionfitness.com/pm.dll
-http://formationinnovation.net/09uhv65hg
-http://pmlingua.strefa.pl/09uhv65hg
-http://teamneweragaming.com/wp-content/plugins/libravatar-replace/novi.schet.doc.exe
