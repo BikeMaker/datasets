@@ -1,7 +1,8 @@
 <pre>
 VX Vault last 100 Links
-Wed, 10 Aug 2016 04:16:28 +0000
+Thu, 11 Aug 2016 04:16:44 +0000
 
+http://updo.nl/file/8e90723b.exe
 http://qawsf1gy.bget.ru/us.exe
 http://dryversandsettyngsall0ficceversions.info/j4v4upd4t3rL0ad1s.exe
 http://dryversandsettyngsall0ficceversions.info/Off1cce365upd4te.exe
@@ -102,4 +103,3 @@ http://manhattanfi.com/xml/images/july2.exe
 http://reikitg.ru/counter/2.bin
 http://reikitg.ru/counter/1.bin
 http://coachmbark.fr/clc.exe
-http://stritaschools.com/abukh/cpanelzs/panel/loader.exe
