@@ -1,7 +1,14 @@
 <pre>
 VX Vault last 100 Links
-Thu, 11 Aug 2016 04:16:44 +0000
+Fri, 12 Aug 2016 04:17:15 +0000
 
+http://88.119.179.160/1biycuhoqetzowaawneab.exe
+http://shopbaite.ru/webfaq/files/usagold.exe
+http://shopbaite.ru/webfaq/bot.exe
+http://www.teolds.com/wp-content/plugins/libravatar-replace/scrwin.exe
+http://oneminutemedicine.com/wp-content/plugins/wp-os-flv/inst1.exe
+http://portlandgoldbuyers.com/wp-includes/in.dll
+http://gallery.nash-news.com/wp-content/themes/thematic/pm.dll
 http://updo.nl/file/8e90723b.exe
 http://qawsf1gy.bget.ru/us.exe
 http://dryversandsettyngsall0ficceversions.info/j4v4upd4t3rL0ad1s.exe
@@ -96,10 +103,3 @@ http://www.volleycherasco.it/forum/include/happy.scr
 http://aaron.ayz.pl/shit/dede.php?key=U&fid=626
 http://marcinek.republika.pl/54ghnnuo
 http://bursaforex.home.ro/54ghnnuo
-http://naturopatheenligne.free.fr/54ghnnuo
-http://mediacentre.in/counter/2.bin
-http://mediacentre.in/counter/1.bin
-http://manhattanfi.com/xml/images/july2.exe
-http://reikitg.ru/counter/2.bin
-http://reikitg.ru/counter/1.bin
-http://coachmbark.fr/clc.exe
