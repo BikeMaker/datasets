@@ -84,7 +84,7 @@
   <input id="is_captcha" name="is_captcha" type="hidden" value="1" />
     <input class="text" id="report-filter" name="site" onFocus="this.value = &#x27;&#x27;" type="text" value="Search website..." />
   <input class="submit-bt" id="add-site" name="commit" type="submit" value="Search" />
-</form><form accept-charset="UTF-8" action="/public/recent_detections" id="search" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="A+aJyjlBfzwtDQ6sPmCSxMVvCbmGb5SRUHxL2msfff8=" /></div>
+</form><form accept-charset="UTF-8" action="/public/recent_detections" id="search" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="VhPzeAzrWmVSpS8cvwRkux4PbgV44fa4qndW9H1sTrw=" /></div>
   <select id="risk" name="risk" onChange="this.form.submit();"><option value="-1">Show all entries</option>
 <option value="2">High Risk entries</option>
 <option value="3">Suspicious entries</option></select>
@@ -97,20 +97,74 @@
     <th>Details</th>
   </tr>
     <tr class="susp-row">
-      <td><span><a href="javascript:;" onclick="show_link('30191014');">http://13453765871837679316.googlegroups ...</a><div id="link_30191014" style="display: none;" title="URL">http://13453765871837679316.googlegroups.com</div></span></td>
+      <td><span><a href="javascript:;" onclick="show_link('30154847');">http://13453765871837679316.googlegroups ...</a><div id="link_30154847" style="display: none;" title="URL">http://13453765871837679316.googlegroups.com</div></span></td>
       <td>Suspicious</td>
-      <td>2016-08-12 03:34:00 UTC</td>
+      <td>2016-08-13 03:29:59 UTC</td>
       <td>
         <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2F13453765871837679316.googlegroups.com">Suspicious pages were found on this site.</a>
         <br>
       </td>
     </tr>
     <tr class="susp-row">
-      <td><span>http://www.keralasidco.com</span></td>
+      <td><span>http://www.artanmobile.ir</span></td>
       <td>Suspicious</td>
-      <td>2016-08-12 02:55:30 UTC</td>
+      <td>2016-08-13 03:28:56 UTC</td>
       <td>
-        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fwww.keralasidco.com">Suspicious pages were found on this site.</a>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fwww.artanmobile.ir">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://suseguroenlinea.com</span></td>
+      <td>Suspicious</td>
+      <td>2016-08-13 03:28:56 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fsuseguroenlinea.com">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://www.mytech-sy.com</span></td>
+      <td>Suspicious</td>
+      <td>2016-08-13 03:27:57 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fwww.mytech-sy.com">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://www.wirtualnemeble.pl</span></td>
+      <td>Suspicious</td>
+      <td>2016-08-13 03:27:55 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fwww.wirtualnemeble.pl">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://www.brazilianbikes.com.br</span></td>
+      <td>Suspicious</td>
+      <td>2016-08-13 03:27:45 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fwww.brazilianbikes.com.br">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://darekgawronski.pl</span></td>
+      <td>Suspicious</td>
+      <td>2016-08-13 03:26:12 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fdarekgawronski.pl">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://www.angelsinthehome.com</span></td>
+      <td>Suspicious</td>
+      <td>2016-08-13 03:21:27 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fwww.angelsinthehome.com">Suspicious pages were found on this site.</a>
         <br>
       </td>
     </tr>
@@ -122,10 +176,10 @@
     </div>
     
 
-<form accept-charset="UTF-8" action="/public/recent_detections" class="page-list" id="form_list258" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="A+aJyjlBfzwtDQ6sPmCSxMVvCbmGb5SRUHxL2msfff8=" /></div>
+<form accept-charset="UTF-8" action="/public/recent_detections" class="page-list" id="form_list450" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="VhPzeAzrWmVSpS8cvwRkux4PbgV44fa4qndW9H1sTrw=" /></div>
   <input type='hidden' name='id' value=''>
   Display
-  <select class="page-list" id="list258" name="list"><option value="10">10 items per page</option>
+  <select class="page-list" id="list450" name="list"><option value="10">10 items per page</option>
 <option value="20">20 items per page</option>
 <option value="30">30 items per page</option>
 <option value="40">40 items per page</option>

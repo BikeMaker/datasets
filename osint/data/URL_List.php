@@ -1,7 +1,8 @@
 <pre>
 VX Vault last 100 Links
-Fri, 12 Aug 2016 04:17:15 +0000
+Sat, 13 Aug 2016 04:16:24 +0000
 
+http://coffeol.com/fend/raw_server.exe
 http://88.119.179.160/1biycuhoqetzowaawneab.exe
 http://shopbaite.ru/webfaq/files/usagold.exe
 http://shopbaite.ru/webfaq/bot.exe
@@ -102,4 +103,3 @@ http://pratikkornis.com/tmp/dhl.exe
 http://www.volleycherasco.it/forum/include/happy.scr
 http://aaron.ayz.pl/shit/dede.php?key=U&fid=626
 http://marcinek.republika.pl/54ghnnuo
-http://bursaforex.home.ro/54ghnnuo
