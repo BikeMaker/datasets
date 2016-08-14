@@ -1,7 +1,9 @@
 <pre>
 VX Vault last 100 Links
-Sat, 13 Aug 2016 04:16:24 +0000
+Sun, 14 Aug 2016 04:16:51 +0000
 
+http://flgueras.com/pon/data.exe
+http://reworder.adultgamesite.ru/js/boxun4.exe
 http://coffeol.com/fend/raw_server.exe
 http://88.119.179.160/1biycuhoqetzowaawneab.exe
 http://shopbaite.ru/webfaq/files/usagold.exe
@@ -101,5 +103,3 @@ http://frankyaski.ru/x/setup1.exe
 http://klasste.tripod.com/54ghnnuo
 http://pratikkornis.com/tmp/dhl.exe
 http://www.volleycherasco.it/forum/include/happy.scr
-http://aaron.ayz.pl/shit/dede.php?key=U&fid=626
-http://marcinek.republika.pl/54ghnnuo
