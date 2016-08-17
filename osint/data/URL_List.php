@@ -1,7 +1,9 @@
 <pre>
 VX Vault last 100 Links
-Tue, 16 Aug 2016 04:16:38 +0000
+Wed, 17 Aug 2016 04:16:44 +0000
 
+http://foodfool.xyz/admin.php?f=400
+http://aoolertv.top/admin.php?f=400
 http://livelife24.com/templates/redevo_aphelion_green/pm.dll
 http://ymcasc.org.nz/modules/mod_analytics/inst1.exe
 http://qawsf1gy.bget.ru/files/us.exe
@@ -101,5 +103,3 @@ http://iceskochi.org/mbv58gbv
 http://swipemobilerepairs.com/templates/ja_brisk/file.exe
 http://2000388.ru/system/logs/inst1.exe
 http://montredeclasse.com/sBuild1.exe
-http://methninja.tk/private/DuJAhyQs5N.exe
-http://frankyaski.ru/x/setup1.exe
