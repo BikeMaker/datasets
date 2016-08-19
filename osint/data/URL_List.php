@@ -1,7 +1,12 @@
 <pre>
 VX Vault last 100 Links
-Thu, 18 Aug 2016 04:16:15 +0000
+Fri, 19 Aug 2016 04:16:42 +0000
 
+http://xaxxola.top/admin.php?f=400
+http://xwerkq.top/admin.php?f=400
+http://gnhdd.com/templates/file.exe
+http://ccharbor.com/wp-admin/inst3.exe
+http://uhrenblog.watchhouse.de/wp-includes/pm.dll
 http://foomerow.top/admin.php?f=400
 http://foodfool.xyz/admin.php?f=400
 http://aoolertv.top/admin.php?f=400
@@ -98,8 +103,3 @@ http://gkostrow.pl/media/akeeba_strapper/css/smoothness/images/joomla_rss.jpg
 http://jengosupport.tw/merde.png
 http://www.supermanbook.com/media/editors/tinymce/plugins/visualblocks/context.jpg
 http://zuerich-gewerbe.ch/mbv58gbv
-http://plantengineer.biz/mbv58gbv
-http://australiandietitian.com/mbv58gbv
-http://iceskochi.org/mbv58gbv
-http://swipemobilerepairs.com/templates/ja_brisk/file.exe
-http://2000388.ru/system/logs/inst1.exe
