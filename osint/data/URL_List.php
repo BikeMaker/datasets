@@ -1,7 +1,18 @@
 <pre>
 VX Vault last 100 Links
-Wed, 24 Aug 2016 04:16:27 +0000
+Thu, 25 Aug 2016 04:16:46 +0000
 
+http://93.174.91.49/bbcrypt.exe
+http://93.174.91.49/encrypted.exe
+http://93.174.91.49/bb.exe
+http://otagetmangal.com/wp-admin/halifia_output4669F20.exe
+http://boksring.5v.pl/ss
+http://boksring.5v.pl/s
+http://boksring.5v.pl/1
+http://boksring.5v.pl/work.exe
+http://93.174.91.49/file1.exe
+http://93.174.91.49/diablo.exe
+http://f68wdifa67.duckdns.org/dl/54ed65rgtyuh.exe
 http://disk.karelia.pro/yISVfed/54k.png
 http://micromgroup.com/server/slideshow.exe
 http://220.181.87.80/s.exe
@@ -92,14 +103,3 @@ http://mt2black.hi2.ro/j988765
 http://24legal.ru/search/pm.exe
 http://ainp.ru/counter/2.bin
 http://ainp.ru/counter/1.bin
-http://www.morpho.it/j988765
-http://www.bgrea.karoo.net/j988765
-http://46.30.41.112/b.exe
-http://gopldrtop.top/log.php?f=2.jpg
-http://gopldrtop.top/log.php?f=1.jpg
-http://wookendom.top/admin.php?f=2.gif
-http://wookendom.top/admin.php?f=1.gif
-http://tolperipa.top/admin.php?f=2.gif
-http://tolperipa.top/admin.php?f=1.gif
-http://rokklerte.top/admin.php?f=2.gif
-http://rokklerte.top/admin.php?f=1.gif
