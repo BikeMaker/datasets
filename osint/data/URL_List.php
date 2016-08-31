@@ -1,7 +1,10 @@
 <pre>
 VX Vault last 100 Links
-Tue, 30 Aug 2016 04:19:49 +0000
+Wed, 31 Aug 2016 04:16:54 +0000
 
+http://ivanovimportexportltd.co.uk/4.exe
+http://blog.centralrestaurant.com/wp-content/file.exe
+http://sanjose24hourtowing.com/inst.exe
 http://judo-club-solesmois-59.fr/bin/ip.exe
 http://judo-club-solesmois-59.fr/bin/bot.exe
 http://judo-club-solesmois-59.fr/bin/1.exe
@@ -100,6 +103,3 @@ http://doreviold.ml/lina.exe
 http://songphuongrninh.com/chidi/order.exe
 http://tclogs.tk/pon/host.exe
 http://tclogs.tk/upx/win.exe
-http://tclogs.tk/upx/chrome.exe
-http://criandoseunegocio.com.br/pc/p/micro.exe
-http://edutshely.com/dk/crypted.exe
