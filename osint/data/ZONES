@@ -3,7 +3,7 @@
 // It will return 127.0.0.1 for domains serving malicious executables observed by malc0de.com/database/
 // This file will be automatically updated daily and populated with the last 30 days of malicious domains.
 // Additional information to get this working can be found http://www.malwaredomains.com/wordpress/?page_id=6
-// Last updated 2016-08-30	
+// Last updated 2016-08-31	
 
 zone "2biking.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "antalyanalburiye.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
@@ -22,28 +22,6 @@ zone "54nb.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "iprojhq.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "izmirhavaalaniarackiralama.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "01lm.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "jingshang.com.tw"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "justgetitfaster.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "kanberdemir.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "kraonkelaere.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "perso.sfr.fr"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "laptopb4you.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "mireene.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "liftune.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "martiniracing.com.br"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "m-games.huu.cz"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "cloudme.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "bplaced.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "plexcera.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "windows.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "gamegogle.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "sf-addon.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "skypedong.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "9364.org"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "gezila.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "sportstherapy.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "updatestar.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "spirlymo.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "ccharbor.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "duckdns.org"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "netdna-cdn.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
@@ -57,4 +35,6 @@ zone "boydhaven.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "korean4all.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "ymcasc.org.nz"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "yumbrad.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "centralrestaurant.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "ivanovimportexportltd.co.uk"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "go890.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
