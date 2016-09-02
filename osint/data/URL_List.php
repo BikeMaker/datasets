@@ -1,7 +1,11 @@
 <pre>
 VX Vault last 100 Links
-Thu, 01 Sep 2016 04:28:19 +0000
+Fri, 02 Sep 2016 04:16:42 +0000
 
+http://massage4urwellbeing.co.nz/wp/wp-content/themes/file/ORDER%20ITEMS.pif
+http://46.30.46.165/gitler.kaput2
+http://mitteoderso.bplaced.net/CriticalGen.exe
+http://judo-club-solesmois-59.fr/bin/dll.exe
 http://asi-37.fr/images/team.exe
 http://www.mssnunilorin.com/bosspony.exe
 http://judo-club-solesmois-59.fr/bin/dll.exe
@@ -99,7 +103,3 @@ http://reworder.adultgamesite.ru/js/boxun4.exe
 http://coffeol.com/fend/raw_server.exe
 http://88.119.179.160/1biycuhoqetzowaawneab.exe
 http://shopbaite.ru/webfaq/files/usagold.exe
-http://shopbaite.ru/webfaq/bot.exe
-http://www.teolds.com/wp-content/plugins/libravatar-replace/scrwin.exe
-http://oneminutemedicine.com/wp-content/plugins/wp-os-flv/inst1.exe
-http://portlandgoldbuyers.com/wp-includes/in.dll
