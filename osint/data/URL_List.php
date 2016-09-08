@@ -1,7 +1,13 @@
 <pre>
 VX Vault last 100 Links
-Wed, 07 Sep 2016 04:16:23 +0000
+Thu, 08 Sep 2016 04:16:31 +0000
 
+http://mobgroup.ga/putty/putty.exe
+http://boutiquehandmade.com/DOC_DOC.exe
+http://art.inpiar.ru/sites/all/modules/pathauto/pm.dll
+http://twcorp.intelartifice.fr/libraries/phputf8/utils/Java.tmp
+http://kewxsyxnfgum.lightsquint.ru/start_page.exe
+http://humade.kr/backup/pc/avs.exe
 http://nptel.pec.edu/5.exe
 http://nptel.pec.edu/4.exe
 http://nptel.pec.edu/s.exe
@@ -97,9 +103,3 @@ http://220.181.87.80/s.exe
 http://220.181.87.80/c.exe
 http://lunar.com.tw/image/dm_w3j.exe
 http://elolontha.eleven-spray.ru/nethost.exe
-http://beta4.t1nkem.com/3.scr
-http://220.181.87.80/t.exe
-http://220.181.87.80/p.exe
-http://yumbrad.com/wp-content/plugins/youtuber/pm.dll
-http://robertsplacements.ru/torrent/sample.exe
-http://teamadrenaline.com/js/t1.exe
