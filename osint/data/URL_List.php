@@ -1,7 +1,18 @@
 <pre>
 VX Vault last 100 Links
-Thu, 08 Sep 2016 04:16:31 +0000
+Fri, 09 Sep 2016 04:16:07 +0000
 
+http://vibaavaacademy.com/images/w.exe
+http://vibaavaacademy.com/images/ss.exe
+http://vibaavaacademy.com/images/tt.exe
+http://vibaavaacademy.com/images/t.exe
+http://vibaavaacademy.com/images/s.exe
+http://115.239.248.35:1/caonimei.exe
+http://108.171.215.221:443/sslm.exe
+http://henanairway.tk/Invoice%20J-801265.pdf.exe
+http://radioemprendedor.com/cli/ss.exe
+http://radioemprendedor.com/cli/tup.exe
+http://220.181.87.80/t.exe
 http://mobgroup.ga/putty/putty.exe
 http://boutiquehandmade.com/DOC_DOC.exe
 http://art.inpiar.ru/sites/all/modules/pathauto/pm.dll
@@ -92,14 +103,3 @@ http://93.174.91.49/bb.exe
 http://otagetmangal.com/wp-admin/halifia_output4669F20.exe
 http://boksring.5v.pl/ss
 http://boksring.5v.pl/s
-http://boksring.5v.pl/1
-http://boksring.5v.pl/work.exe
-http://93.174.91.49/file1.exe
-http://93.174.91.49/diablo.exe
-http://f68wdifa67.duckdns.org/dl/54ed65rgtyuh.exe
-http://disk.karelia.pro/yISVfed/54k.png
-http://micromgroup.com/server/slideshow.exe
-http://220.181.87.80/s.exe
-http://220.181.87.80/c.exe
-http://lunar.com.tw/image/dm_w3j.exe
-http://elolontha.eleven-spray.ru/nethost.exe
