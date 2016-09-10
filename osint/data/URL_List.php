@@ -1,7 +1,14 @@
 <pre>
 VX Vault last 100 Links
-Fri, 09 Sep 2016 04:16:07 +0000
+Sat, 10 Sep 2016 04:05:06 +0000
 
+http://sonysoftn.top/log.php?f=4.bin
+http://sonysoftn.top/log.php?f=2.bin
+http://sonysoftn.top/log.php?f=1.bin
+http://sonysoftn.top/log.php?f=3.bin
+http://cjourner.com/wp-content/themes/sketch/pm.dll
+http://brooklandclubinc.com/wp-content/themes/Divi/inst.exe
+http://moriawear.com/wp-content/themes/woopress/inst.exe
 http://vibaavaacademy.com/images/w.exe
 http://vibaavaacademy.com/images/ss.exe
 http://vibaavaacademy.com/images/tt.exe
@@ -96,10 +103,3 @@ http://pics.theadultgame.ru/js/boxun4.exe
 http://lloydsbankiing.com/cap2408_new_cr182.exe
 http://golitar.top/update.exe
 http://canprotool.com/wp-content/file.exe
-http://cl.ly/3W1P1A370N2O/download/100.office
-http://93.174.91.49/bbcrypt.exe
-http://93.174.91.49/encrypted.exe
-http://93.174.91.49/bb.exe
-http://otagetmangal.com/wp-admin/halifia_output4669F20.exe
-http://boksring.5v.pl/ss
-http://boksring.5v.pl/s
