@@ -3,7 +3,7 @@
 // It will return 127.0.0.1 for domains serving malicious executables observed by malc0de.com/database/
 // This file will be automatically updated daily and populated with the last 30 days of malicious domains.
 // Additional information to get this working can be found http://www.malwaredomains.com/wordpress/?page_id=6
-// Last updated 2016-09-09	
+// Last updated 2016-09-10	
 
 zone "2biking.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "antalyanalburiye.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
@@ -84,7 +84,22 @@ zone "textcube.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "storebox1.info"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "vibaavaacademy.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "pf11.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "brooklandclubinc.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "tistory.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "vtrbandaancha.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "tcgame.com.cn"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "baidu.co.th"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "avira-update.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "sonysoftn.top"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "boonty.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "tec16.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "dvdvideosoft.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "download-servers.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "ask.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "iwin.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "ttu998d.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "jrsoftware.org"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "guttermaster.co.uk"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "superduperdns.xyz"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "telegraphnepal.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "multi-bygg.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
