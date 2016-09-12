@@ -1,7 +1,14 @@
 <pre>
 VX Vault last 100 Links
-Sun, 11 Sep 2016 04:16:20 +0000
+Mon, 12 Sep 2016 04:15:57 +0000
 
+http://www.treasure007.top/link/Theme/assets/img/Update.exe
+http://www.treasure007.top/link/Theme/assets/img/isupport.exe
+http://www.treasure007.top/link/Theme/assets/img/5.exe
+http://www.treasure007.top/link/Theme/assets/img/IMG-477465758.exe
+http://exploitsauce.com/mo/files/us.exe
+http://clinique-sainte-marie.top/js/Scrypt.exe
+http://clinique-sainte-marie.top/images/css/site-logo/us.exe
 http://sonysoftn.top/log.php?f=4.bin
 http://sonysoftn.top/log.php?f=2.bin
 http://sonysoftn.top/log.php?f=1.bin
@@ -96,10 +103,3 @@ http://www.przemyslawszymanowski.pl/20000.exe
 http://www.przemyslawszymanowski.pl/test/trust.exe
 http://www.przemyslawszymanowski.pl/test/kc.exe
 http://webstudentsa.com/teesside/wp-includes/SimplePie/Parse/panelnew/Pony.exe
-http://faradaxa.com/aaa/order.exe
-http://115.239.248.50:1/1.exe
-http://220.181.87.80/c.jpg
-http://pics.theadultgame.ru/js/boxun4.exe
-http://lloydsbankiing.com/cap2408_new_cr182.exe
-http://golitar.top/update.exe
-http://canprotool.com/wp-content/file.exe
