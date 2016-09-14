@@ -1,7 +1,9 @@
 <pre>
 VX Vault last 100 Links
-Tue, 13 Sep 2016 04:16:09 +0000
+Wed, 14 Sep 2016 04:16:34 +0000
 
+http://judo-club-solesmois-59.fr/bin/dll.exe
+http://dailynewfeed.xyz/wp-content/themes/twentysixteen/inst.exe
 http://limlim00000.rozup.ir/senario104.jpg
 http://www.treasure007.top/link/Theme/assets/img/Update.exe
 http://www.treasure007.top/link/Theme/assets/img/isupport.exe
@@ -101,5 +103,3 @@ http://hivotac.com/diamond/raytt.exe
 http://kelurahanpanjunan.com/wp-content/file.exe
 http://www.dryversandsettyngsall0ficceversions.info/Off1cce365upd4te.exe
 http://www.przemyslawszymanowski.pl/20000.exe
-http://www.przemyslawszymanowski.pl/test/trust.exe
-http://www.przemyslawszymanowski.pl/test/kc.exe

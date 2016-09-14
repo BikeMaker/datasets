@@ -3,7 +3,7 @@
 // It will return 127.0.0.1 for domains serving malicious executables observed by malc0de.com/database/
 // This file will be automatically updated daily and populated with the last 30 days of malicious domains.
 // Additional information to get this working can be found http://www.malwaredomains.com/wordpress/?page_id=6
-// Last updated 2016-09-12	
+// Last updated 2016-09-13	
 
 zone "2biking.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "antalyanalburiye.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
@@ -143,3 +143,7 @@ zone "wanyouxi7.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "qq.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "pdfforge.org"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "appsapi.info"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "newmdsx.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "cursor.co.il"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "zol.com.cn"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "ke5fx.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
