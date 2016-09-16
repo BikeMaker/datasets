@@ -3,7 +3,7 @@
 // It will return 127.0.0.1 for domains serving malicious executables observed by malc0de.com/database/
 // This file will be automatically updated daily and populated with the last 30 days of malicious domains.
 // Additional information to get this working can be found http://www.malwaredomains.com/wordpress/?page_id=6
-// Last updated 2016-09-14	
+// Last updated 2016-09-15	
 
 zone "2biking.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "antalyanalburiye.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
@@ -156,7 +156,17 @@ zone "mfdod.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "xiazaidc.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "downyouxi.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "ouyaoxiazai.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "mqa-cristal.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "xjtu.edu.cn"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "gezila.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "wallawallwombit.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "thickslope639.ru"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "869v.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "dragonsoft.com.br"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "48wwuved42.ru"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "professor315.ru"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "qiniudn.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "scanware.co.kr"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "officekeeper.co.kr"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "freegames4rest.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "incredimail.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
