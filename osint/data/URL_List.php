@@ -1,7 +1,10 @@
 <pre>
 VX Vault last 100 Links
-Fri, 16 Sep 2016 04:18:21 +0000
+Sat, 17 Sep 2016 04:16:02 +0000
 
+http://chinchinchin344.com/god.exe
+http://www.radsport-voggel.de/wp-admin/includes/log.exe
+http://gpdi-lippocikarang.com/emaxx/shit.exe
 http://tscl.com.bd/m/solfzz.exe
 http://account.exceeddating.ru/js/boxun4.bin
 http://200.98.70.230/system/MA-1.0.0.0/EdgeUpdate.dll
@@ -100,6 +103,3 @@ http://hivotac.com/raw/scan0021.exe
 http://hivotac.com/raw/bspye.exe
 http://hivotac.com/raw/OfreshLL.exe
 http://hivotac.com/raw/Final-LL.exe
-http://hivotac.com/raw/1.exe
-http://hivotac.com/amana/new-one.exe
-http://hivotac.com/amana/AMANOK-LL.exe

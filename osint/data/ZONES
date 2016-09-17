@@ -3,7 +3,7 @@
 // It will return 127.0.0.1 for domains serving malicious executables observed by malc0de.com/database/
 // This file will be automatically updated daily and populated with the last 30 days of malicious domains.
 // Additional information to get this working can be found http://www.malwaredomains.com/wordpress/?page_id=6
-// Last updated 2016-09-15	
+// Last updated 2016-09-16	
 
 zone "2biking.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "antalyanalburiye.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
@@ -161,12 +161,29 @@ zone "xjtu.edu.cn"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "gezila.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "wallawallwombit.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "thickslope639.ru"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "emotiplus.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "97you.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "daydaicongnghiep.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "dellbackupandrecovery.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "869v.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "dragonsoft.com.br"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "48wwuved42.ru"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "sendspace.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "professor315.ru"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "qiniudn.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "trikhaus.info"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "scanware.co.kr"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "xunyou.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "officekeeper.co.kr"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "freegames4rest.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "incredimail.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "50webs.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "theuniverseisbeautiful.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "softwo.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "getgosoft.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "drivers.drp.su"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "uzzf.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "cmbchina.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "tv002.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "maxrevinstaller.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "onestopsoft.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
