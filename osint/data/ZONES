@@ -3,7 +3,7 @@
 // It will return 127.0.0.1 for domains serving malicious executables observed by malc0de.com/database/
 // This file will be automatically updated daily and populated with the last 30 days of malicious domains.
 // Additional information to get this working can be found http://www.malwaredomains.com/wordpress/?page_id=6
-// Last updated 2016-09-18	
+// Last updated 2016-09-19	
 
 zone "2biking.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "antalyanalburiye.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
@@ -204,3 +204,21 @@ zone "awsremrded.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "magiciso.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "nch.com.au"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "suda123.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "dxias.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "download.drp.su"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "akamaihd.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "windows10portal.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "djmixpro.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "yanderesimulator.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "adescbrasil.com.br"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "apnpartners.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "bucakbilgisayar.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "backupgrid.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "cloudwm.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "bomul.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "utilpack.co.kr"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "epson.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "sindoh.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "secureddl.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "ricoh.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "prchk.com.hk"  {type master; file "/etc/namedb/blockeddomain.hosts";};
