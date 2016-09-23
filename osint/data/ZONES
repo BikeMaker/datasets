@@ -3,7 +3,7 @@
 // It will return 127.0.0.1 for domains serving malicious executables observed by malc0de.com/database/
 // This file will be automatically updated daily and populated with the last 30 days of malicious domains.
 // Additional information to get this working can be found http://www.malwaredomains.com/wordpress/?page_id=6
-// Last updated 2016-09-21	
+// Last updated 2016-09-22	
 
 zone "2biking.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "antalyanalburiye.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
@@ -17,9 +17,6 @@ zone "holidaysinkeralam.com"  {type master; file "/etc/namedb/blockeddomain.host
 zone "hotlaps.com.au"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "bow-spell-effect1.ru"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "kpzip.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "igetmyservice.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "54nb.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "iprojhq.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "ccharbor.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "duckdns.org"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "netdna-cdn.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
@@ -241,3 +238,8 @@ zone "prosecret.co.kr"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "flawlesscomplexion.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "poweriso-files.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "51jetso.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "soft365.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "v3.co.kr"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "easydriverpro.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "trusteer.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "driverscape.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
