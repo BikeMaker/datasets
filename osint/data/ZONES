@@ -3,7 +3,7 @@
 // It will return 127.0.0.1 for domains serving malicious executables observed by malc0de.com/database/
 // This file will be automatically updated daily and populated with the last 30 days of malicious domains.
 // Additional information to get this working can be found http://www.malwaredomains.com/wordpress/?page_id=6
-// Last updated 2016-09-23	
+// Last updated 2016-09-24	
 
 zone "2biking.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "antalyanalburiye.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
@@ -13,10 +13,6 @@ zone "gasparini.com.br"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "getpics.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "glazeautocaremobile.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "goldenlifewomen.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "holidaysinkeralam.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "hotlaps.com.au"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "bow-spell-effect1.ru"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "kpzip.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "ccharbor.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "duckdns.org"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "netdna-cdn.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
@@ -242,10 +238,18 @@ zone "soft365.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "v3.co.kr"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "easydriverpro.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "trusteer.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "kpzip.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "driverscape.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "ewon.biz"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "montiera.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "mypcbackup.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "patanjaliasansol.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "dlcvit.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "lrxlfl6ns3.ru"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "newhua.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "ummy.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "doublegames.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "redematriz.com.br"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "bagwo.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "bitbanksoftware.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "eurocastdesign.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
