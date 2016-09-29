@@ -3,16 +3,11 @@
 // It will return 127.0.0.1 for domains serving malicious executables observed by malc0de.com/database/
 // This file will be automatically updated daily and populated with the last 30 days of malicious domains.
 // Additional information to get this working can be found http://www.malwaredomains.com/wordpress/?page_id=6
-// Last updated 2016-09-27	
+// Last updated 2016-09-28	
 
 zone "2biking.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "antalyanalburiye.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "bellefonte.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "fssblangenlois.ac.at"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "gasparini.com.br"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "getpics.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "glazeautocaremobile.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "goldenlifewomen.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "ccharbor.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "duckdns.org"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "netdna-cdn.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
@@ -272,4 +267,13 @@ zone "vinhphuc.edu.vn"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "battoexeconverter.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "hao365.cc"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "oovoo.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "discordapp.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "gaygang.xyz"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "picosmos.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "fwxgx.com.cn"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "qii678.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "gamegogle.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "stgbssint.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "yn5h.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "448868.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "ahtvu.ah.cn"  {type master; file "/etc/namedb/blockeddomain.hosts";};
