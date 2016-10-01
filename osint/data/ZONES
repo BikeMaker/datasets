@@ -3,13 +3,12 @@
 // It will return 127.0.0.1 for domains serving malicious executables observed by malc0de.com/database/
 // This file will be automatically updated daily and populated with the last 30 days of malicious domains.
 // Additional information to get this working can be found http://www.malwaredomains.com/wordpress/?page_id=6
-// Last updated 2016-09-29	
+// Last updated 2016-09-30	
 
 zone "centralrestaurant.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "ccharbor.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "duckdns.org"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "netdna-cdn.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "golitar.top"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "hivotac.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "ivanovimportexportltd.co.uk"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "judo-club-solesmois-59.fr"  {type master; file "/etc/namedb/blockeddomain.hosts";};
@@ -19,10 +18,10 @@ zone "webstudentsa.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "boydhaven.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "go890.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "korean4all.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "ymcasc.org.nz"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "yumbrad.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "mssnunilorin.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "windowsdryvrsettingsupdate.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "ymcasc.org.nz"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "yumbrad.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "zizoo.co.uk"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "asi-37.fr"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "bplaced.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
@@ -275,10 +274,25 @@ zone "yn5h.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "448868.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "ahtvu.ah.cn"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "77kvip.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "pomf.cat"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "benchmarkemailsite.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "09p9.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "uniblue.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "fplr.biz"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "fotoprix.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "mpex.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "netpia.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "samyhookf.top"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "stanmilanowski.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "packetkeeper.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "utilityupdate.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "wagnardmobile.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "adadad.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "bhfinder.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "geniesoftsystem.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "feiyang163.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "unadnet.com.cn"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "myvpn.co.kr"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "roblox.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "hao123.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "tinyurl.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
