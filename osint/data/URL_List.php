@@ -1,7 +1,11 @@
 <pre>
 VX Vault last 100 Links
-Sat, 01 Oct 2016 04:16:24 +0000
+Sun, 02 Oct 2016 04:15:57 +0000
 
+http://down.microsoftsup.com/down/2.exe
+http://adobedownloadupdate.com/dem/files/us.exe
+http://adobedownloadupdate.com/me/files/us.exe
+http://adobedownloadupdate.com/50/files/us.exe
 http://franny.goadultgame.ru/js/boxun4.exe
 http://partycloud.tk/server/imm.exe
 http://differenceg.top/user.php?f=0.dat
@@ -99,7 +103,3 @@ http://220.181.87.80/t.exe
 http://mobgroup.ga/putty/putty.exe
 http://boutiquehandmade.com/DOC_DOC.exe
 http://art.inpiar.ru/sites/all/modules/pathauto/pm.dll
-http://twcorp.intelartifice.fr/libraries/phputf8/utils/Java.tmp
-http://kewxsyxnfgum.lightsquint.ru/start_page.exe
-http://humade.kr/backup/pc/avs.exe
-http://nptel.pec.edu/5.exe
