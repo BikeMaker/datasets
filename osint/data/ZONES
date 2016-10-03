@@ -3,7 +3,7 @@
 // It will return 127.0.0.1 for domains serving malicious executables observed by malc0de.com/database/
 // This file will be automatically updated daily and populated with the last 30 days of malicious domains.
 // Additional information to get this working can be found http://www.malwaredomains.com/wordpress/?page_id=6
-// Last updated 2016-10-01	
+// Last updated 2016-10-02	
 
 zone "asi-37.fr"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "centralrestaurant.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
@@ -14,15 +14,15 @@ zone "hivotac.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "ivanovimportexportltd.co.uk"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "judo-club-solesmois-59.fr"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "l3d.pp.ru"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "massage4urwellbeing.co.nz"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "bplaced.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "otagetmangal.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "webstudentsa.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "go890.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "windowsdryvrsettingsupdate.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "ymcasc.org.nz"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "yumbrad.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "zizoo.co.uk"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "massage4urwellbeing.co.nz"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "go890.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "score-cross725.ru"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "sourceforge.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "ntrsupport.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
@@ -299,6 +299,12 @@ zone "roblox.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "hao123.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "tinyurl.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "entechtaiwan.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "fullpccare.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "microsoftsup.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "xiazai2.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "dell.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "hallway204.ru"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "srcconfig.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "utiljoy.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "refusetosuffer.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "4k5.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
