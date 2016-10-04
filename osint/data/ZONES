@@ -3,10 +3,9 @@
 // It will return 127.0.0.1 for domains serving malicious executables observed by malc0de.com/database/
 // This file will be automatically updated daily and populated with the last 30 days of malicious domains.
 // Additional information to get this working can be found http://www.malwaredomains.com/wordpress/?page_id=6
-// Last updated 2016-10-02	
+// Last updated 2016-10-03	
 
 zone "asi-37.fr"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "centralrestaurant.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "ccharbor.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "duckdns.org"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "netdna-cdn.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
@@ -308,3 +307,15 @@ zone "srcconfig.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "utiljoy.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "refusetosuffer.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "4k5.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "brothersoft.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "integrateddebug.info"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "softwareserver05.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "repairlabshost.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "2345.cn"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "nullsoft.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "topspace.co.kr"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "playfree.org"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "freefullversion.org"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "reasoninghollow.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "deepcom.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "p-dd.org.uk"  {type master; file "/etc/namedb/blockeddomain.hosts";};
