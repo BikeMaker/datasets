@@ -3,32 +3,32 @@
 // It will return 127.0.0.1 for domains serving malicious executables observed by malc0de.com/database/
 // This file will be automatically updated daily and populated with the last 30 days of malicious domains.
 // Additional information to get this working can be found http://www.malwaredomains.com/wordpress/?page_id=6
-// Last updated 2016-10-04	
+// Last updated 2016-10-05	
 
-zone "asi-37.fr"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "ccharbor.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "duckdns.org"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "netdna-cdn.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "hivotac.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "score-cross725.ru"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "ivanovimportexportltd.co.uk"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "sourceforge.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "judo-club-solesmois-59.fr"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "l3d.pp.ru"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "massage4urwellbeing.co.nz"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "bplaced.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "ntrsupport.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "nutbasket-market.biz"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "otagetmangal.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "tduou.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "webstudentsa.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "cadkas.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "go890.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "freenetname.co.uk"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "windowsdryvrsettingsupdate.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "ymcasc.org.nz"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "yumbrad.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "zizoo.co.uk"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "score-cross725.ru"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "sourceforge.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "ntrsupport.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "nutbasket-market.biz"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "tduou.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "cadkas.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "freenetname.co.uk"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "asi-37.fr"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "sogou.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "enigmasoftware.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "winzip.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
@@ -327,5 +327,11 @@ zone "magickey.com.br"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "programe-tv-online.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "stellarinfo.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "tibiadb.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "4sinstalls.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "jxjyzy.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "softwaresplash.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "cfast1.us"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "lge.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "rapidfilestorage.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "360tpcdn.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "starcatacherx.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
