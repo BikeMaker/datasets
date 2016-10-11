@@ -84,7 +84,7 @@
   <input id="is_captcha" name="is_captcha" type="hidden" value="1" />
     <input class="text" id="report-filter" name="site" onFocus="this.value = &#x27;&#x27;" type="text" value="Search website..." />
   <input class="submit-bt" id="add-site" name="commit" type="submit" value="Search" />
-</form><form accept-charset="UTF-8" action="/public/recent_detections" id="search" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Am7dOksTzeMyqSBkIyA7cfngXwi14Jghtcx3laGV5L4=" /></div>
+</form><form accept-charset="UTF-8" action="/public/recent_detections" id="search" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="FMyNU98kGOGHD9n/Q0Ri44jF7b7GTBBITzmLBQl2lg0=" /></div>
   <select id="risk" name="risk" onChange="this.form.submit();"><option value="-1">Show all entries</option>
 <option value="2">High Risk entries</option>
 <option value="3">Suspicious entries</option></select>
@@ -96,81 +96,468 @@
     <th>Last Detected At</th>
     <th>Details</th>
   </tr>
+    <tr class="error-row">
+      <td><span>http://hyhpzx.cn</span></td>
+      <td>High Risk</td>
+      <td>2016-11-28 00:08:35 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=2&amp;site=http%3A%2F%2Fhyhpzx.cn">High Risk pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
     <tr class="susp-row">
-      <td><span><a href="javascript:;" onclick="show_link('32250664');">http://13453765871837679316.googlegroups ...</a><div id="link_32250664" style="display: none;" title="URL">http://13453765871837679316.googlegroups.com</div></span></td>
+      <td><span>http://coplaste.com.br</span></td>
       <td>Suspicious</td>
-      <td>2016-10-10 03:06:30 UTC</td>
+      <td>2016-11-28 00:07:23 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fcoplaste.com.br">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://eliteloungegroup.com.au</span></td>
+      <td>Suspicious</td>
+      <td>2016-11-28 00:07:13 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Feliteloungegroup.com.au">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://living4u.80port.net</span></td>
+      <td>Suspicious</td>
+      <td>2016-11-28 00:07:11 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fliving4u.80port.net">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://cyberoxen.com</span></td>
+      <td>Suspicious</td>
+      <td>2016-11-28 00:06:43 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fcyberoxen.com">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://donatemycarnova.com</span></td>
+      <td>Suspicious</td>
+      <td>2016-11-28 00:06:33 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fdonatemycarnova.com">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://dogansoyelektrik.com</span></td>
+      <td>Suspicious</td>
+      <td>2016-11-28 00:05:49 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fdogansoyelektrik.com">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://livingston.rs</span></td>
+      <td>Suspicious</td>
+      <td>2016-11-28 00:05:40 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Flivingston.rs">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://insta-contest.com</span></td>
+      <td>Suspicious</td>
+      <td>2016-11-28 00:05:33 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Finsta-contest.com">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://sigacapacitacion.cl</span></td>
+      <td>Suspicious</td>
+      <td>2016-11-28 00:04:59 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fsigacapacitacion.cl">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://terrazasdelareina.cl</span></td>
+      <td>Suspicious</td>
+      <td>2016-11-28 00:03:31 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fterrazasdelareina.cl">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://reversemortgageapproval.net</span></td>
+      <td>Suspicious</td>
+      <td>2016-11-28 00:03:31 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Freversemortgageapproval.net">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://sunshinebooksellers.com</span></td>
+      <td>Suspicious</td>
+      <td>2016-11-28 00:03:29 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fsunshinebooksellers.com">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://strataconsulting.com.au</span></td>
+      <td>Suspicious</td>
+      <td>2016-11-28 00:03:17 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fstrataconsulting.com.au">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://bhardwajlawfirm.com</span></td>
+      <td>Suspicious</td>
+      <td>2016-11-28 00:03:09 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fbhardwajlawfirm.com">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://killerpinkdesign.com</span></td>
+      <td>Suspicious</td>
+      <td>2016-11-28 00:03:01 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fkillerpinkdesign.com">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://www.guarusite.com.br</span></td>
+      <td>Suspicious</td>
+      <td>2016-11-28 00:02:46 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fwww.guarusite.com.br">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://bagpipermildura.com.au</span></td>
+      <td>Suspicious</td>
+      <td>2016-11-28 00:02:45 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fbagpipermildura.com.au">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://www.myhouselistingz.com</span></td>
+      <td>Suspicious</td>
+      <td>2016-11-28 00:02:44 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fwww.myhouselistingz.com">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://www.remax-inci-ist.com</span></td>
+      <td>Suspicious</td>
+      <td>2016-11-28 00:02:43 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fwww.remax-inci-ist.com">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>https://www.vgphosting.com.br</span></td>
+      <td>Suspicious</td>
+      <td>2016-11-28 00:02:40 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=https%3A%2F%2Fwww.vgphosting.com.br">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://www.redapplied.com</span></td>
+      <td>Suspicious</td>
+      <td>2016-11-28 00:02:40 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fwww.redapplied.com">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://www.savingfaithchurch.org</span></td>
+      <td>Suspicious</td>
+      <td>2016-11-28 00:02:18 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fwww.savingfaithchurch.org">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://www.avantlog.com.br</span></td>
+      <td>Suspicious</td>
+      <td>2016-11-28 00:02:15 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fwww.avantlog.com.br">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://bambuuafryk.com</span></td>
+      <td>Suspicious</td>
+      <td>2016-11-28 00:02:15 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fbambuuafryk.com">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://avoneus.com</span></td>
+      <td>Suspicious</td>
+      <td>2016-11-28 00:02:13 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Favoneus.com">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://avionselect.com</span></td>
+      <td>Suspicious</td>
+      <td>2016-11-28 00:01:39 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Favionselect.com">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span><a href="javascript:;" onclick="show_link('28445050');">http://assets.wetransfer.net.debrawhitin ...</a><div id="link_28445050" style="display: none;" title="URL">http://assets.wetransfer.net.debrawhitingfoundation.com</div></span></td>
+      <td>Suspicious</td>
+      <td>2016-11-28 00:01:39 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fassets.wetransfer.net.debrawhitingfoundation.com">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://savingfaithchurch.org</span></td>
+      <td>Suspicious</td>
+      <td>2016-11-28 00:01:37 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fsavingfaithchurch.org">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://alibachir.cm</span></td>
+      <td>Suspicious</td>
+      <td>2016-11-28 00:01:36 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Falibachir.cm">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://aversian.com</span></td>
+      <td>Suspicious</td>
+      <td>2016-11-28 00:01:30 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Faversian.com">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://www.danartri.com</span></td>
+      <td>Suspicious</td>
+      <td>2016-11-28 00:01:18 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fwww.danartri.com">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://tcretail.com</span></td>
+      <td>Suspicious</td>
+      <td>2016-11-28 00:01:15 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Ftcretail.com">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://stateparking.net</span></td>
+      <td>Suspicious</td>
+      <td>2016-11-28 00:01:12 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fstateparking.net">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://www.healthcarestock.net</span></td>
+      <td>Suspicious</td>
+      <td>2016-11-28 00:00:58 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fwww.healthcarestock.net">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://gabydel.free.fr</span></td>
+      <td>Suspicious</td>
+      <td>2016-11-28 00:00:55 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fgabydel.free.fr">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="error-row">
+      <td><span>http://www.kf25zx.com</span></td>
+      <td>High Risk</td>
+      <td>2016-11-28 00:00:54 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=2&amp;site=http%3A%2F%2Fwww.kf25zx.com">High Risk pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://nobelagrow.top</span></td>
+      <td>Suspicious</td>
+      <td>2016-11-28 00:00:52 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fnobelagrow.top">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://minhanhtransport.com</span></td>
+      <td>Suspicious</td>
+      <td>2016-11-28 00:00:43 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fminhanhtransport.com">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://admins-expert.com</span></td>
+      <td>Suspicious</td>
+      <td>2016-11-28 00:00:41 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fadmins-expert.com">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://www.alagroup.com.au</span></td>
+      <td>Suspicious</td>
+      <td>2016-11-28 00:00:36 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fwww.alagroup.com.au">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://www.stkipsetiabudhi.ac.id</span></td>
+      <td>Suspicious</td>
+      <td>2016-11-28 00:00:00 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fwww.stkipsetiabudhi.ac.id">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://palhavitoria.com.br</span></td>
+      <td>Suspicious</td>
+      <td>2016-11-27 23:59:04 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fpalhavitoria.com.br">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="error-row">
+      <td><span>http://www.bjcurio.com</span></td>
+      <td>High Risk</td>
+      <td>2016-11-27 23:58:43 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=2&amp;site=http%3A%2F%2Fwww.bjcurio.com">High Risk pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://docusfilereview.com</span></td>
+      <td>Suspicious</td>
+      <td>2016-11-27 23:58:30 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fdocusfilereview.com">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://www.neodelight.com</span></td>
+      <td>Suspicious</td>
+      <td>2016-11-27 23:58:15 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fwww.neodelight.com">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://www.lmcreativedesign.com.br</span></td>
+      <td>Suspicious</td>
+      <td>2016-11-27 23:57:45 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fwww.lmcreativedesign.com.br">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>https://cpanel.creatiside.com</span></td>
+      <td>Suspicious</td>
+      <td>2016-11-27 23:57:32 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=https%3A%2F%2Fcpanel.creatiside.com">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span>http://linkedtotal.com</span></td>
+      <td>Suspicious</td>
+      <td>2016-11-27 23:57:25 UTC</td>
+      <td>
+        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Flinkedtotal.com">Suspicious pages were found on this site.</a>
+        <br>
+      </td>
+    </tr>
+    <tr class="susp-row">
+      <td><span><a href="javascript:;" onclick="show_link('34087993');">http://13453765871837679316.googlegroups ...</a><div id="link_34087993" style="display: none;" title="URL">http://13453765871837679316.googlegroups.com</div></span></td>
+      <td>Suspicious</td>
+      <td>2016-11-27 23:57:22 UTC</td>
       <td>
         <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2F13453765871837679316.googlegroups.com">Suspicious pages were found on this site.</a>
         <br>
       </td>
     </tr>
-    <tr class="susp-row">
-      <td><span><a href="javascript:;" onclick="show_link('31428816');">http://107sbtd9cbhsbtd5d80a13c0db1f54675 ...</a><div id="link_31428816" style="display: none;" title="URL">http://107sbtd9cbhsbtd5d80a13c0db1f546757jnq9j5754675796210431.bodydesign.com.au</div></span></td>
-      <td>Suspicious</td>
-      <td>2016-10-10 02:56:04 UTC</td>
-      <td>
-        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2F107sbtd9cbhsbtd5d80a13c0db1f546757jnq9j5754675796210431.bodydesign.com.au">Suspicious pages were found on this site.</a>
-        <br>
-      </td>
-    </tr>
-    <tr class="susp-row">
-      <td><span>https://www.spartner.rspas.in</span></td>
-      <td>Suspicious</td>
-      <td>2016-10-10 02:53:47 UTC</td>
-      <td>
-        <a href="/public/reports/show_website?result=3&amp;site=https%3A%2F%2Fwww.spartner.rspas.in">Suspicious pages were found on this site.</a>
-        <br>
-      </td>
-    </tr>
-    <tr class="susp-row">
-      <td><span>http://www.hotel-beskyd.cz</span></td>
-      <td>Suspicious</td>
-      <td>2016-10-10 02:52:00 UTC</td>
-      <td>
-        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fwww.hotel-beskyd.cz">Suspicious pages were found on this site.</a>
-        <br>
-      </td>
-    </tr>
-    <tr class="susp-row">
-      <td><span>http://www.teastallbd.com</span></td>
-      <td>Suspicious</td>
-      <td>2016-10-10 02:51:40 UTC</td>
-      <td>
-        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fwww.teastallbd.com">Suspicious pages were found on this site.</a>
-        <br>
-      </td>
-    </tr>
-    <tr class="susp-row">
-      <td><span>http://safe4pc20.xyz</span></td>
-      <td>Suspicious</td>
-      <td>2016-10-10 02:50:17 UTC</td>
-      <td>
-        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fsafe4pc20.xyz">Suspicious pages were found on this site.</a>
-        <br>
-      </td>
-    </tr>
-    <tr class="susp-row">
-      <td><span>http://mail.alwaysharriet.com</span></td>
-      <td>Suspicious</td>
-      <td>2016-10-10 02:27:41 UTC</td>
-      <td>
-        <a href="/public/reports/show_website?result=3&amp;site=http%3A%2F%2Fmail.alwaysharriet.com">Suspicious pages were found on this site.</a>
-        <br>
-      </td>
-    </tr>
 </table>
 <div id ='pagination'>  
-  
+  <div class="pagination ajax"><span class="previous_page disabled"><span class="prev">&lsaquo;</span></span> <em class="current">1</em> <a href="#" onclick="$.ajax({url: &#x27;/public/recent_detections?page=2&#x27;, dataType: &#x27;script&#x27;, type: &#x27;post&#x27;});; return false;" rel="next">2</a> <a href="#" onclick="$.ajax({url: &#x27;/public/recent_detections?page=3&#x27;, dataType: &#x27;script&#x27;, type: &#x27;post&#x27;});; return false;">3</a> <a href="#" onclick="$.ajax({url: &#x27;/public/recent_detections?page=4&#x27;, dataType: &#x27;script&#x27;, type: &#x27;post&#x27;});; return false;">4</a> <a href="#" onclick="$.ajax({url: &#x27;/public/recent_detections?page=5&#x27;, dataType: &#x27;script&#x27;, type: &#x27;post&#x27;});; return false;">5</a> <a href="#" onclick="$.ajax({url: &#x27;/public/recent_detections?page=6&#x27;, dataType: &#x27;script&#x27;, type: &#x27;post&#x27;});; return false;">6</a> <a href="#" onclick="$.ajax({url: &#x27;/public/recent_detections?page=7&#x27;, dataType: &#x27;script&#x27;, type: &#x27;post&#x27;});; return false;">7</a> <a href="#" onclick="$.ajax({url: &#x27;/public/recent_detections?page=8&#x27;, dataType: &#x27;script&#x27;, type: &#x27;post&#x27;});; return false;">8</a> <a href="#" onclick="$.ajax({url: &#x27;/public/recent_detections?page=9&#x27;, dataType: &#x27;script&#x27;, type: &#x27;post&#x27;});; return false;">9</a> <span class="gap">&hellip;</span> <a href="#" onclick="$.ajax({url: &#x27;/public/recent_detections?page=15&#x27;, dataType: &#x27;script&#x27;, type: &#x27;post&#x27;});; return false;">15</a> <a href="#" onclick="$.ajax({url: &#x27;/public/recent_detections?page=16&#x27;, dataType: &#x27;script&#x27;, type: &#x27;post&#x27;});; return false;">16</a> <a class="next_page" href="#" onclick="$.ajax({url: &#x27;/public/recent_detections?page=2&#x27;, dataType: &#x27;script&#x27;, type: &#x27;post&#x27;});; return false;" rel="next"><span class="next">&rsaquo;</span></a></div>
 </div>
 
     </div>
     
 
-<form accept-charset="UTF-8" action="/public/recent_detections" class="page-list" id="form_list50" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Am7dOksTzeMyqSBkIyA7cfngXwi14Jghtcx3laGV5L4=" /></div>
+<form accept-charset="UTF-8" action="/public/recent_detections" class="page-list" id="form_list524" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="FMyNU98kGOGHD9n/Q0Ri44jF7b7GTBBITzmLBQl2lg0=" /></div>
   <input type='hidden' name='id' value=''>
   Display
-  <select class="page-list" id="list50" name="list"><option value="10">10 items per page</option>
+  <select class="page-list" id="list524" name="list"><option value="10">10 items per page</option>
 <option value="20">20 items per page</option>
 <option value="30">30 items per page</option>
 <option value="40">40 items per page</option>
