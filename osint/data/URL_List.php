@@ -1,7 +1,31 @@
 <pre>
 VX Vault last 100 Links
-Thu, 01 Dec 2016 01:34:50 +0000
+Fri, 02 Dec 2016 01:34:58 +0000
 
+http://sharespoints.top/pointsexcelsup.exe
+http://opennewsgroup.com/wp-includes/js/form.qwe
+http://tomkamstra.com/978t6rve
+http://speckftp.de/978t6rve
+http://23.102.61.2/encrypted.exe
+http://trehoada.org/878hf33f34f
+http://hqserv000.top/search.php?f=x2.dat
+http://hqserv000.top/search.php?f=x1.dat
+http://santoringrece.fr/978t6rve
+http://sudarsan.net/878hf33f34f
+http://sharespoints.top/pointsexcels.exe
+http://torbellon.com/878hf33f34f
+http://set-electro.myjino.ru/jpmjqch
+http://butterchoco.net/admin/bull/Buny.exe
+http://aaoreseton.top/user.php?f=2.dat
+http://aaoreseton.top/user.php?f=1.dat
+http://sieuthinem.com/978t6rve
+http://traductio.co.uk/978t6rve
+http://ruggeveld.be/978t6rve
+http://opennewsgroup.com/wp-includes/js/form.qwe
+http://mohdsuhaimy.com/wp-content/uploads/2006/06/background.png
+http://saminox.ca/873nf3g
+http://siriwat.co.th/978t6rve
+http://sandat-bali.com/873nf3g
 http://samaraorgsintez.ru/873nf3g
 http://sam4x4.com/873nf3g
 http://royaloakripon.co.uk/987t67g
@@ -79,27 +103,3 @@ http://slut-land.com/oebtxhux
 http://templeofrefuge.net/ohktld
 http://jsydjc.com/xfsxwi
 http://vmeste-hudeem.ru/yr387n3
-http://phonerepairguy.com/g3r7ewc
-http://thinx.net/rkp2tpxlrg
-http://repka.eu/tg2cyp
-http://vanks.cl/plby8w55
-http://ilikedisneyworldtravel.com/images/htaccess.exe
-http://phukiengalaxy.com/g3r7ewc
-http://snurrepin.com/doc.exe
-http://134.255.220.79/iee.exe
-http://203.162.253.20/get.exe
-http://203.162.253.20/p.exe
-http://vollyuper.top/admin.php?f=2.dat
-http://vollyuper.top/admin.php?f=1.dat
-http://skuter.c0.pl/g3r7ewc
-http://readtogether.org.uk/g3r7ewc
-http://svcangel.com/g3r7ewc
-http://v-maxautos.nl/ntkv9j
-http://thinx.net/pj01w
-http://hylegmassy.net/5b0fnjcsn
-http://vitreus.nl/hu3sdurj
-http://selindiwon.ga/1ixicgiavbyluyvoginby.exe
-http://nikitassalon.com/08yhrf3
-http://unykmodels.com/xrbbd1pg
-http://134.255.220.79/iee.exe
-http://senabel.com/g3r7ewc
