@@ -1,7 +1,13 @@
 <pre>
 VX Vault last 100 Links
-Fri, 02 Dec 2016 01:34:58 +0000
+Sat, 03 Dec 2016 01:34:48 +0000
 
+http://rent-guarantee-insurance.co.uk/978t6rve
+http://modusmimarlik.com/wp-admin/form.qwe
+http://clickfinder123.com/kqaer2c56ds34caq12/file.exe
+http://thecodega.com/6v5r7thh
+http://senabel.com/7mo0pu9nzq
+http://ythongye.com/cznwg
 http://sharespoints.top/pointsexcelsup.exe
 http://opennewsgroup.com/wp-includes/js/form.qwe
 http://tomkamstra.com/978t6rve
@@ -97,9 +103,3 @@ http://agamaflop.net/kvlj0
 http://supplyglassess.com/yr387n3
 http://setoxy.com/yr387n3
 http://fiveelementsliving.com/counter/2
-http://fiveelementsliving.com/counter/1
-http://muffben.net/n86rv07wep
-http://slut-land.com/oebtxhux
-http://templeofrefuge.net/ohktld
-http://jsydjc.com/xfsxwi
-http://vmeste-hudeem.ru/yr387n3
