@@ -23,6 +23,11 @@ wget -N -P data/ http://www.projecthoneypot.org/list_of_ips.php?rss=1
 wget -N -P data/ http://dragonresearchgroup.org/insight/sshpwauth.txt
 wget -N -P data/ http://dragonresearchgroup.org/insight/vncprobe.txt
 wget -N -P data/ https://feodotracker.abuse.ch/blocklist/?download=ipblocklist
+wget -N -P data/ https://security.berkeley.edu/aggressive_ips/ips
+
+#Chaos Reigns
+wget -N -P data/ http://www.chaosreigns.com/iprep/iprep.txt
+
 
 ##Grab datasets from the CIArmy group
 wget -N -P data/ http://cinsscore.com/list/ci-badguys.txt
@@ -41,6 +46,7 @@ wget -N -P data/ http://www.dshield.org/ipsascii.html
 
 ##Grab datasets from ET
 wget -N -P data/ http://rules.emergingthreats.net/blockrules/compromised-ips.txt
+wget -N -P data/ https://raw.githubusercontent.com/EmergingThreats/et-open-bad-ip-list/master/IPs.txt
 
 ##Grab datasets from EvilSSH
 wget -N -P data/ http://vmx.yourcmc.ru/BAD_HOSTS.IP4
@@ -50,6 +56,11 @@ wget -N -P data/ http://charles.the-haleys.org/ssh_dico_attack_hdeny_format.php/
 
 ##Grab data from the Infiltrated blacklist
 wget -N -P data/ http://www.infiltrated.net/blacklisted
+
+#ISC Unusual domains
+wget -N -P data/ https://isc.sans.edu/feeds/suspiciousdomains_High.txt
+wget -N -P data/ https://isc.sans.edu/feeds/suspiciousdomains_Medium.txt
+wget -N -P data/ https://isc.sans.edu/feeds/suspiciousdomains_Low.txt
 
 ##Grab data from MalwareDomains
 wget -N -P data/ http://mirror1.malwaredomains.com/files/domains.txt
@@ -69,6 +80,9 @@ wget -N -P data/ http://www.malwaredomainlist.com/hostslist/hosts.txt
 wget -N -P data/ http://www.malwaredomainlist.com/hostslist/delisted.txt
 wget -N -P data/ http://www.malwaredomainlist.com/hostslist/domains.txt
 
+#Malware Domains bulk registrars
+wget -N -P data/ http://mirror3.malwaredomains.com/files/bulk_registrars.zip
+
 ##Grab data from Malware Group
 wget -N -P data/ http://www.malwaregroup.com/ipaddresses/malicious
 wget -N -P data/ http://www.malwaregroup.com/ipaddresses
@@ -80,10 +94,22 @@ wget -N -P data/ http://malc0de.com/bl/IP_Blacklist.txt
 ##Grab data from SANs Top IPs
 wget -N -P data/ https://isc.sans.edu/api/topips/records/2000
 
+
+## Malicious SIP endpoints
+wget -N -P data/ http://stefan.gofferje.net/sipblocklist.zone
+
+
 ##Grab data from OpenBL
-wget -N -P data/ http://www.openbl.org/lists/base.txt
-wget -N -P data/ http://www.openbl.org/lists/base_all.txt
-wget -N -P data/ http://www.openbl.org/lists/base_30days.txt
+##wget -N -P data/ http://www.openbl.org/lists/base.txt
+##wget -N -P data/ http://www.openbl.org/lists/base_all.txt
+##wget -N -P data/ http://www.openbl.org/lists/base_30days.txt
+
+#PhishTank
+wget -N -P data/ http://data.phishtank.com/data/online-valid.json
+
+
+#Snort Labs
+wget -N -P data/ http://labs.snort.org/feeds/ip-filter.blf
 
 ##Grab data from StopForumSpam
 wget -N -P data/ http://www.stopforumspam.com/downloads/toxic_ip_cidr.txt
@@ -93,6 +119,31 @@ wget -N -P data/ http://www.stopforumspam.com/downloads/listed_email_30.zip
 wget -N -P data/ http://www.stopforumspam.com/downloads/listed_email_30_all.zip
 wget -N -P data/ http://www.stopforumspam.com/downloads/listed_username_30.zip
 wget -N -P data/ http://www.stopforumspam.com/downloads/listed_username_30_all.zip
+
+
+#Tor Exit Nodes
+wget -N -P data/ https://cydef.us/torexit.txt
+wget -N -P data/ https://www.dan.me.uk/torlist/
+wget -N -P data/ http://torstatus.blutmagie.de/ip_list_exit.php/Tor_ip_list_EXIT.csv
+
+
+#Quttera
+wget -N -P data/ http://quttera.com/lists/malicious
+wget -N -P data/ http://quttera.com/lists/suspicious
+wget -N -P data/ http://quttera.com/lists/potentially_suspicious
+
+
+#Web Inspect
+wget -N -P data/ http://app.webinspector.com/public/recent_detections
+
+#VMX 
+wget -N -P data/ http://vmx.yourcmc.ru/BAD_HOSTS.IP4
+
+#VX Vault
+wget -N -P data/ http://vxvault.net//URL_List.php
+
+#Alex Top 1 million domains
+wget -N -P data/ http://s3.amazonaws.com/alexa-static/top-1m.csv.zip
 
 ##Add to the repository
 git add data/*.* data/*
