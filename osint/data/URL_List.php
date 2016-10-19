@@ -1,7 +1,11 @@
 <pre>
 VX Vault last 100 Links
-Mon, 05 Dec 2016 01:34:48 +0000
+Tue, 06 Dec 2016 01:39:03 +0000
 
+http://sorata.iweb.hu/74t3nf4gv4
+http://rhinohosts.com/74t3nf4gv4
+http://stjohns2012.ca/74t3nf4gv4
+http://vreida.club/1.exe
 http://rent-guarantee-insurance.co.uk/978t6rve
 http://modusmimarlik.com/wp-admin/form.qwe
 http://clickfinder123.com/kqaer2c56ds34caq12/file.exe
@@ -99,7 +103,3 @@ http://restauranttajmahal.ca/87nft3
 http://phonerepairguy.com/87nft3
 http://unykmodels.com/vpjuwe
 http://dodowiz.com/ynux4ac
-http://agamaflop.net/kvlj0
-http://supplyglassess.com/yr387n3
-http://setoxy.com/yr387n3
-http://fiveelementsliving.com/counter/2
