@@ -3,37 +3,28 @@
 // It will return 127.0.0.1 for domains serving malicious executables observed by malc0de.com/database/
 // This file will be automatically updated daily and populated with the last 30 days of malicious domains.
 // Additional information to get this working can be found http://www.malwaredomains.com/wordpress/?page_id=6
-// Last updated 2016-12-09	
+// Last updated 2016-12-10	
 
-zone "4fang.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "awaelschool.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "reimage.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "bogaziciradyo.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "360safe.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "microsoftsup.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "iolo.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "freefiles-8.de"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "tweakbit.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "ethanwalker.co.uk"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "findserviceapp.com.br"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "flashpile.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "miteikina.info"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "naratipsittisook.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "there-pale20.ru"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "sonajp.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "sourceforge.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "upstreams.info"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "222bz.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "tduou.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "hyperionics.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "inspector-software.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "freenetname.co.uk"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "job391.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "bogaziciradyo.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "360safe.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "nitropdf.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "keir.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "megsan.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "miteikina.info"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "naratipsittisook.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "there-pale20.ru"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "raas.tech"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "sourceforge.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "upstreams.info"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "ussrback.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "hyperionics.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "freenetname.co.uk"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "job391.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "kpzip.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "topswingusa.top"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "uniblue.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
@@ -41,6 +32,7 @@ zone "ouyaoxiazai.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "1aj18ipp74.ru"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "pekalongan.site"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "nch.com.au"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "reimage.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "oo-software.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "paltalk.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "z780qjwjb2.ru"  {type master; file "/etc/namedb/blockeddomain.hosts";};
@@ -59,6 +51,7 @@ zone "econopaginas.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "parsasco.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "pathofexile.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "v-hinet.co.kr"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "222bz.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "softwaresplash.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "stellarinfo.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "vaxasoftware.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
@@ -114,6 +107,7 @@ zone "technoinfo.com.br"  {type master; file "/etc/namedb/blockeddomain.hosts";}
 zone "9foo9.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "cesaronefew.top"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "doc-sharepoint.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "freefiles-8.de"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "dpcdn-s11q.pl"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "driverupdate.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "geosystem.com.my"  {type master; file "/etc/namedb/blockeddomain.hosts";};
@@ -236,3 +230,11 @@ zone "nearly-city354.ru"  {type master; file "/etc/namedb/blockeddomain.hosts";}
 zone "mypcbackup.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "mbticons.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "v2files1.ru"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "ava.rent"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "cache.wps.cn"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "onesafe-software.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "doopriv8.info"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "e-fotopolis.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "mancomfort.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "saskia-online.co.uk"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "tomyyplayde.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};

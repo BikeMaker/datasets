@@ -1,7 +1,9 @@
 <pre>
 VX Vault last 100 Links
-Sat, 10 Dec 2016 03:35:51 +0000
+Sun, 11 Dec 2016 03:31:34 +0000
 
+http://hacking-lab.ru/ddos/driver.exe
+http://ooo-strm.ru/hb74
 http://plutosos.tk/1ihxeyshezexioripkyma.exe
 http://preciousmoments.site/Actualizacao782611.exe
 http://vreida.club/1.exe
@@ -101,5 +103,3 @@ http://secur.ph/vag0tdzi
 http://riviera-ligure.it/w1uoe
 http://sandinthesky.com/en4vlvn
 http://zoekeith.com/hfycn33
-http://zzgooglryesf.top/user.php?f=2.dat
-http://zzgooglryesf.top/user.php?f=1.dat
