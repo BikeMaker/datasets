@@ -1,6 +1,6 @@
 <pre>
 VX Vault last 100 Links
-Sun, 11 Dec 2016 03:31:34 +0000
+Mon, 12 Dec 2016 03:31:44 +0000
 
 http://hacking-lab.ru/ddos/driver.exe
 http://ooo-strm.ru/hb74

@@ -76,12 +76,12 @@
                               <form method="post" action="account" class="login-form" id="login-form">
                                 <fieldset>
                                   <div class="input-wrapper">
-                                    <input name="login" placeholder="Username" type="text">
+                                    <input placeholder="Username" type="text" name="login">
                                   </div>
 
                                   <div class="input-wrapper">
                                     <input name="password" type="password" placeholder="Password">
-                                    <input type="hidden" name="pkit_login" value="1">
+                                    <input type="hidden" value="1" name="pkit_login">
                                     <input type="hidden" name="pkit_done" value="account">
                                   </div>
 
@@ -145,8 +145,8 @@
                   <li>
                     <form method="get" action="https://www.google.com/cse" class="navbar-form pull-left search-form">
                       <fieldset>
-                        <input type="hidden" value="012897451125057753504:rxeipfvkafe" name="cx">
-                        <input name="q" type="text" maxlength="30" placeholder="Search">
+                        <input value="012897451125057753504:rxeipfvkafe" name="cx" type="hidden">
+                        <input maxlength="30" type="text" placeholder="Search" name="q">
                         <button type="submit" class="go-button">GO</button>
                       </fieldset>
                     </form>
@@ -1525,7 +1525,7 @@ olark.identify('8022-431-10-3383');/*]]>*/</script><noscript><a href="https://ww
 <script type="text/javascript" src="/v/1481297805/js/maxmind.js"></script>
 
 <script>
-  $.ajaxSetup({ headers: {'X-CSRF-Token': '38da613d642e81578e2f61a9bf6a70fe677cb894'}});
+  $.ajaxSetup({ headers: {'X-CSRF-Token': '4c4b5e99222cd548511191f157bb3b08b736e094'}});
 </script>
 
 
