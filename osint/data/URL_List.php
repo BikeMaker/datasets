@@ -1,7 +1,13 @@
 <pre>
 VX Vault last 100 Links
-Tue, 13 Dec 2016 03:31:22 +0000
+Wed, 14 Dec 2016 03:31:35 +0000
 
+http://ggjghhfhfh.com/kqaer2c56ds34caq12/file2.exe
+http://donasongl.top/admin.php?f=1
+http://sudarsan.net/7x6ghbe1u
+http://94.127.33.126/knby545
+http://delicvent.online/x/a.exe
+http://qopahighk.top/read.php?f=404
 http://51892372.de.strato-hosting.eu/cgi-data/1.exe
 http://argeesportswear.cf/install/admin/luck.exe
 http://l1v3f1r3.us/exec/1201612122157022461.exe
@@ -97,9 +103,3 @@ http://kozmologic.com/hb74
 http://zealcon.com/098tb
 http://xlr8services.com/098tb
 http://cr-inos.com/rayefpix2t
-http://www.pgringette.ca/a8crrwrc2t
-http://maycongtrinhduylong.com/098tb
-http://www.lordrc.ch/29b8g6
-http://tsira.net/8w7szdf0
-http://zytrade.cn/aust7a6ik
-http://vppl.com.au/3ifnbb0im3
