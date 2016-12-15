@@ -76,13 +76,13 @@
                               <form method="post" action="account" class="login-form" id="login-form">
                                 <fieldset>
                                   <div class="input-wrapper">
-                                    <input type="text" name="login" placeholder="Username">
+                                    <input placeholder="Username" type="text" name="login">
                                   </div>
 
                                   <div class="input-wrapper">
                                     <input name="password" type="password" placeholder="Password">
-                                    <input value="1" type="hidden" name="pkit_login">
-                                    <input type="hidden" name="pkit_done" value="account">
+                                    <input value="1" name="pkit_login" type="hidden">
+                                    <input value="account" type="hidden" name="pkit_done">
                                   </div>
 
                                   <div class="row_form">
@@ -145,7 +145,7 @@
                   <li>
                     <form method="get" action="https://www.google.com/cse" class="navbar-form pull-left search-form">
                       <fieldset>
-                        <input name="cx" type="hidden" value="012897451125057753504:rxeipfvkafe">
+                        <input value="012897451125057753504:rxeipfvkafe" name="cx" type="hidden">
                         <input placeholder="Search" maxlength="30" name="q" type="text">
                         <button type="submit" class="go-button">GO</button>
                       </fieldset>
@@ -1525,7 +1525,7 @@ olark.identify('8022-431-10-3383');/*]]>*/</script><noscript><a href="https://ww
 <script type="text/javascript" src="/v/1481639171/js/maxmind.js"></script>
 
 <script>
-  $.ajaxSetup({ headers: {'X-CSRF-Token': '7cdd8ac121a1d977517cd9b6468cd5135637dde6'}});
+  $.ajaxSetup({ headers: {'X-CSRF-Token': '900764cf6db05bf8f864f3384dda87772668bd69'}});
 </script>
 
 
