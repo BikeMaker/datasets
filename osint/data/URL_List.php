@@ -1,7 +1,14 @@
 <pre>
 VX Vault last 100 Links
-Fri, 16 Dec 2016 03:31:28 +0000
+Sat, 17 Dec 2016 03:31:38 +0000
 
+http://amaniinitiative.org/ubaupn
+http://demo.ahost5.ru/dhvzqqbo
+http://followmyleadatl.com/bcnv8324
+http://harlequinheadboards.co.uk/zm/appda.exe
+http://nnapoakea.top/read.php?f=1.dat
+http://nnapoakea.top/read.php?f=0.dat
+http://karakavakasm.com/helpconfig.exe
 http://tecnomundo.uy/a8rnlgzv
 http://www.angeljob.com/sgdijtu
 http://bigtreerecord.com/qvwjc
@@ -96,10 +103,3 @@ http://picturehost.date/picture
 http://104.214.150.216/aa.exe
 http://doladolaladont.com/update/audio/artifact2.exe
 http://ggjghhfhfh.com/kqaer2c56ds34caq12/file.exe
-http://xlsnewshare.top/infosdocs.exe
-http://youtoof.info/search.php
-http://facerecognition.com.ba/34f43
-http://visbymaklarna.se/knby545
-http://www.imaginmor.com/modules/mod_araticllws/scrwin.exe
-http://rkanswers.com/knby545
-http://nbjzpx.com/knby545
