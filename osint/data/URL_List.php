@@ -1,7 +1,8 @@
 <pre>
 VX Vault last 100 Links
-Sat, 17 Dec 2016 03:31:38 +0000
+Sun, 18 Dec 2016 03:31:38 +0000
 
+http://vulcan-csgo.ru/assets/js/shit.exe
 http://amaniinitiative.org/ubaupn
 http://demo.ahost5.ru/dhvzqqbo
 http://followmyleadatl.com/bcnv8324
@@ -102,4 +103,3 @@ http://imgpix.trade/image27
 http://picturehost.date/picture
 http://104.214.150.216/aa.exe
 http://doladolaladont.com/update/audio/artifact2.exe
-http://ggjghhfhfh.com/kqaer2c56ds34caq12/file.exe
