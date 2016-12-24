@@ -76,13 +76,13 @@
                               <form method="post" action="account" class="login-form" id="login-form">
                                 <fieldset>
                                   <div class="input-wrapper">
-                                    <input name="login" type="text" placeholder="Username">
+                                    <input type="text" name="login" placeholder="Username">
                                   </div>
 
                                   <div class="input-wrapper">
-                                    <input type="password" name="password" placeholder="Password">
-                                    <input type="hidden" name="pkit_login" value="1">
-                                    <input type="hidden" name="pkit_done" value="account">
+                                    <input placeholder="Password" type="password" name="password">
+                                    <input value="1" type="hidden" name="pkit_login">
+                                    <input value="account" name="pkit_done" type="hidden">
                                   </div>
 
                                   <div class="row_form">
@@ -146,7 +146,7 @@
                     <form method="get" action="https://www.google.com/cse" class="navbar-form pull-left search-form">
                       <fieldset>
                         <input value="012897451125057753504:rxeipfvkafe" name="cx" type="hidden">
-                        <input maxlength="30" type="text" name="q" placeholder="Search">
+                        <input placeholder="Search" name="q" type="text" maxlength="30">
                         <button type="submit" class="go-button">GO</button>
                       </fieldset>
                     </form>
@@ -1525,7 +1525,7 @@ olark.identify('8022-431-10-3383');/*]]>*/</script><noscript><a href="https://ww
 <script type="text/javascript" src="/v/1482162488/js/maxmind.js"></script>
 
 <script>
-  $.ajaxSetup({ headers: {'X-CSRF-Token': '3012f513a454295fdd6c08ced3fc4510bb883780'}});
+  $.ajaxSetup({ headers: {'X-CSRF-Token': 'fb85f28064a926e2f9321c4bc7221de17825062b'}});
 </script>
 
 

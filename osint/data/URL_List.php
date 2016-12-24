@@ -1,6 +1,6 @@
 <pre>
 VX Vault last 100 Links
-Fri, 23 Dec 2016 03:32:05 +0000
+Sat, 24 Dec 2016 03:32:18 +0000
 
 http://vulcan-csgo.ru/assets/js/shit.exe
 http://amaniinitiative.org/ubaupn
