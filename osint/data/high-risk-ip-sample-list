@@ -76,12 +76,12 @@
                               <form method="post" action="account" class="login-form" id="login-form">
                                 <fieldset>
                                   <div class="input-wrapper">
-                                    <input type="text" name="login" placeholder="Username">
+                                    <input placeholder="Username" type="text" name="login">
                                   </div>
 
                                   <div class="input-wrapper">
-                                    <input placeholder="Password" type="password" name="password">
-                                    <input value="1" type="hidden" name="pkit_login">
+                                    <input placeholder="Password" name="password" type="password">
+                                    <input type="hidden" name="pkit_login" value="1">
                                     <input value="account" name="pkit_done" type="hidden">
                                   </div>
 
@@ -145,8 +145,8 @@
                   <li>
                     <form method="get" action="https://www.google.com/cse" class="navbar-form pull-left search-form">
                       <fieldset>
-                        <input value="012897451125057753504:rxeipfvkafe" name="cx" type="hidden">
-                        <input placeholder="Search" name="q" type="text" maxlength="30">
+                        <input type="hidden" name="cx" value="012897451125057753504:rxeipfvkafe">
+                        <input maxlength="30" name="q" type="text" placeholder="Search">
                         <button type="submit" class="go-button">GO</button>
                       </fieldset>
                     </form>
@@ -1525,7 +1525,7 @@ olark.identify('8022-431-10-3383');/*]]>*/</script><noscript><a href="https://ww
 <script type="text/javascript" src="/v/1482162488/js/maxmind.js"></script>
 
 <script>
-  $.ajaxSetup({ headers: {'X-CSRF-Token': 'fb85f28064a926e2f9321c4bc7221de17825062b'}});
+  $.ajaxSetup({ headers: {'X-CSRF-Token': '3e95ed107d582a03d0b0f25c9cb7d55314153223'}});
 </script>
 
 
