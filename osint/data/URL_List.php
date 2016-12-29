@@ -1,7 +1,13 @@
 <pre>
 VX Vault last 100 Links
-Wed, 28 Dec 2016 03:31:37 +0000
+Thu, 29 Dec 2016 03:31:19 +0000
 
+http://budget2017.info:81/fd3v/files/us.exe
+http://nsholiday.com/wp-content/plugins/HUwjZr/4DUi5.exe
+http://d2.share.az/files/2/wg67q6c6wrtdjg/1234.exe
+http://d3.share.az/files/9/hpjdnbavrkaxl5/123.exe
+http://91.210.106.120/media/162.exe
+http://183.81.171.242/t.exe
 http://vulcan-csgo.ru/assets/js/shit.exe
 http://amaniinitiative.org/ubaupn
 http://demo.ahost5.ru/dhvzqqbo
@@ -97,9 +103,3 @@ http://028cdxyk.com/nbv364
 http://aria-asp.ir/k7cwvi
 http://eastoncorporatefinance.com/nbv364
 http://houssiere.daniel.formations-web.alsace/nbv364
-http://safataj.ir/nbv364
-http://cendereci.com/dasphdasodasopjdaspjdasdasa.png
-http://imgpix.trade/image27
-http://picturehost.date/picture
-http://104.214.150.216/aa.exe
-http://doladolaladont.com/update/audio/artifact2.exe
