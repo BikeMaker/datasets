@@ -1,7 +1,15 @@
 <pre>
 VX Vault last 100 Links
-Thu, 29 Dec 2016 03:31:19 +0000
+Fri, 30 Dec 2016 03:31:30 +0000
 
+http://193.28.179.40/sollhlp.exe
+http://197.50.191.92/sollhlp.exe
+http://119.67.18.172/sollhlp.exe
+http://philaprayer.org/Images/wp-content/plugins/cache/Yq7D8RCK/xudRpJA4.exe
+http://whfarm2.com/blog80/wp-content/plugins/wp-db-backup-made/uc0jzfvD/S1yuCmdm.exe
+http://geoprodukt.cz/system/helper/json/mang.bbk
+http://www.printerplastics.com/koko.exe
+http://w2afipbza0zj.pw/blog/wnx0bykhutp2.exe
 http://budget2017.info:81/fd3v/files/us.exe
 http://nsholiday.com/wp-content/plugins/HUwjZr/4DUi5.exe
 http://d2.share.az/files/2/wg67q6c6wrtdjg/1234.exe
@@ -95,11 +103,3 @@ http://seven-cards.com/nbv364
 http://wasulab.com/helpconfig.exe
 http://johndada.se/pzn0d9w
 http://decouer.com/ohpj3
-http://shop.cxweixin.cn/jt6e9avj
-http://hotmusic.vipereskariot.ru/nbv364
-http://aeroptim.com/9lhtqtw
-http://pizzatr.net/9nzb5q7v
-http://028cdxyk.com/nbv364
-http://aria-asp.ir/k7cwvi
-http://eastoncorporatefinance.com/nbv364
-http://houssiere.daniel.formations-web.alsace/nbv364
