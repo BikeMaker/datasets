@@ -1,7 +1,10 @@
 <pre>
 VX Vault last 100 Links
-Fri, 30 Dec 2016 03:31:30 +0000
+Sat, 31 Dec 2016 03:31:30 +0000
 
+http://brainspa.pl/winsyst.exe
+http://201.234.204.52/sollhlp.exe
+http://193.28.179.40/sollhlp.exe
 http://193.28.179.40/sollhlp.exe
 http://197.50.191.92/sollhlp.exe
 http://119.67.18.172/sollhlp.exe
@@ -100,6 +103,3 @@ http://antonbogov.com/nbv364
 http://tunca.bel.tr/nbv364
 http://allan.multimediedesignerskive.dk/nbv364
 http://seven-cards.com/nbv364
-http://wasulab.com/helpconfig.exe
-http://johndada.se/pzn0d9w
-http://decouer.com/ohpj3
