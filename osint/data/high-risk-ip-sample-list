@@ -76,13 +76,13 @@
                               <form method="post" action="account" class="login-form" id="login-form">
                                 <fieldset>
                                   <div class="input-wrapper">
-                                    <input placeholder="Username" type="text" name="login">
+                                    <input type="text" name="login" placeholder="Username">
                                   </div>
 
                                   <div class="input-wrapper">
-                                    <input placeholder="Password" name="password" type="password">
-                                    <input value="1" type="hidden" name="pkit_login">
-                                    <input type="hidden" name="pkit_done" value="account">
+                                    <input placeholder="Password" type="password" name="password">
+                                    <input name="pkit_login" type="hidden" value="1">
+                                    <input name="pkit_done" type="hidden" value="account">
                                   </div>
 
                                   <div class="row_form">
@@ -145,8 +145,8 @@
                   <li>
                     <form method="get" action="https://www.google.com/cse" class="navbar-form pull-left search-form">
                       <fieldset>
-                        <input type="hidden" name="cx" value="012897451125057753504:rxeipfvkafe">
-                        <input type="text" name="q" maxlength="30" placeholder="Search">
+                        <input name="cx" type="hidden" value="012897451125057753504:rxeipfvkafe">
+                        <input placeholder="Search" maxlength="30" name="q" type="text">
                         <button type="submit" class="go-button">GO</button>
                       </fieldset>
                     </form>
@@ -1438,7 +1438,7 @@
             <div class="container">
                         <span class="logo fn org pull-left"><a href="#">maxmind</a></span>
                         <p>MaxMind, GeoIP, minFraud, and related trademarks are the trademarks of MaxMind, Inc.</p>
-                        <p>Copyright&copy; 2012-2016 MaxMind, Inc. All Rights Reserved.</p>
+                        <p>Copyright&copy; 2012-2017 MaxMind, Inc. All Rights Reserved.</p>
                         <nav class="nav">
                             <ul>
                                 <li><a href="terms_of_use">Terms of Use</a></li>
@@ -1477,7 +1477,7 @@ olark.identify('8022-431-10-3383');/*]]>*/</script><noscript><a href="https://ww
 <script type="text/javascript" src="/v/1482162488/js/maxmind.js"></script>
 
 <script>
-  $.ajaxSetup({ headers: {'X-CSRF-Token': 'fc4ef6f759b0379149c9d0a7175fa5bc60af114b'}});
+  $.ajaxSetup({ headers: {'X-CSRF-Token': '79b794301ced6327076dd57fcc8ff7bb0b5d48b5'}});
 </script>
 
 
