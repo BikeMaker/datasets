@@ -76,13 +76,13 @@
                               <form method="post" action="account" class="login-form" id="login-form">
                                 <fieldset>
                                   <div class="input-wrapper">
-                                    <input type="text" name="login" placeholder="Username">
+                                    <input placeholder="Username" name="login" type="text">
                                   </div>
 
                                   <div class="input-wrapper">
-                                    <input placeholder="Password" type="password" name="password">
-                                    <input name="pkit_login" type="hidden" value="1">
-                                    <input name="pkit_done" type="hidden" value="account">
+                                    <input name="password" type="password" placeholder="Password">
+                                    <input value="1" name="pkit_login" type="hidden">
+                                    <input value="account" name="pkit_done" type="hidden">
                                   </div>
 
                                   <div class="row_form">
@@ -145,8 +145,8 @@
                   <li>
                     <form method="get" action="https://www.google.com/cse" class="navbar-form pull-left search-form">
                       <fieldset>
-                        <input name="cx" type="hidden" value="012897451125057753504:rxeipfvkafe">
-                        <input placeholder="Search" maxlength="30" name="q" type="text">
+                        <input type="hidden" name="cx" value="012897451125057753504:rxeipfvkafe">
+                        <input placeholder="Search" type="text" name="q" maxlength="30">
                         <button type="submit" class="go-button">GO</button>
                       </fieldset>
                     </form>
@@ -1477,7 +1477,7 @@ olark.identify('8022-431-10-3383');/*]]>*/</script><noscript><a href="https://ww
 <script type="text/javascript" src="/v/1482162488/js/maxmind.js"></script>
 
 <script>
-  $.ajaxSetup({ headers: {'X-CSRF-Token': '79b794301ced6327076dd57fcc8ff7bb0b5d48b5'}});
+  $.ajaxSetup({ headers: {'X-CSRF-Token': 'ad9abeeb2f6fc1752f1e2ad7c1cc59c0c1851ef3'}});
 </script>
 
 
