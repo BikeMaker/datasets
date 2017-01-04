@@ -1,7 +1,9 @@
 <pre>
 VX Vault last 100 Links
-Tue, 03 Jan 2017 03:31:42 +0000
+Wed, 04 Jan 2017 03:31:29 +0000
 
+http://campcosupply.com/news/1.exe
+http://183.81.171.242/c.jpg
 http://buzzardsroost.com/result
 http://eskulanscoop.com/result
 http://dvdpostal.net/result
@@ -101,5 +103,3 @@ http://ao5uvedqfplfrwp3.onion.to/explore.exe
 http://dux.baidu.com/toihm6
 http://89.40.181.39/file/e.exe
 http://m.cuisines-aviva.com/q3hopc9w
-http://porticutoof.info/search.php
-http://watchmeninc.com/nbv364

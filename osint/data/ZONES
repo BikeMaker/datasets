@@ -3,35 +3,28 @@
 // It will return 127.0.0.1 for domains serving malicious executables observed by malc0de.com/database/
 // This file will be automatically updated daily and populated with the last 30 days of malicious domains.
 // Additional information to get this working can be found http://www.malwaredomains.com/wordpress/?page_id=6
-// Last updated 2017-01-02	
+// Last updated 2017-01-03	
 
 zone "xiazaidown.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "aaoreseton.top"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "butterchoco.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "reimage.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "clickfinder123.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "encompassingcrescent.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "xiazaidc.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "freemake.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "tweakbit.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "fiveelementsliving.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "jotzey.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "amazonaws.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "maxesupport.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "modusmimarlik.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "addr.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "sharespoints.top"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "tweakbit.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "squeeze549.ru"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "ghostspill720.ru"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "222bz.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "goosai.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "tudown.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "hermes56.ru"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "850sss.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "go890.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "freenetname.co.uk"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "xiazaidc.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "freemake.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "jotzey.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "squeeze549.ru"  {type master; file "/etc/namedb/blockeddomain.hosts";};
-zone "ghostspill720.ru"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "dvdvideosoft.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "gooddig406.ru"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "go890.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "z-credit.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "technician284.ru"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "hao88988.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
@@ -53,6 +46,7 @@ zone "hqtopof.info"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "darling988.ru"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "xunyou.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "wingsbiotech.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
+zone "freenetname.co.uk"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "zzgooglryesf.top"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "carrolltonluxuryapartments.com"  {type master; file "/etc/namedb/blockeddomain.hosts";};
 zone "backupgrid.net"  {type master; file "/etc/namedb/blockeddomain.hosts";};
