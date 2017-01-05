@@ -1,7 +1,11 @@
 <pre>
 VX Vault last 100 Links
-Wed, 04 Jan 2017 03:31:29 +0000
+Thu, 05 Jan 2017 03:31:58 +0000
 
+http://crystalbrighlplastic.com/it/items.exe
+http://ragasazeh.com/wp-content/plugins/wpsecone/encrypted1.exe
+http://pooyarahyaft.com/amana/8E7F0FF.exe
+http://wiredpetals.com/new/1224.exe
 http://campcosupply.com/news/1.exe
 http://183.81.171.242/c.jpg
 http://buzzardsroost.com/result
@@ -99,7 +103,3 @@ http://89.248.169.50/bash
 http://doconlineaof.top/read.php?f=404
 http://ustadhanif.com/nbv364
 http://doclosegoa.top/read.php?f=404
-http://ao5uvedqfplfrwp3.onion.to/explore.exe
-http://dux.baidu.com/toihm6
-http://89.40.181.39/file/e.exe
-http://m.cuisines-aviva.com/q3hopc9w

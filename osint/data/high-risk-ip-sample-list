@@ -76,11 +76,11 @@
                               <form method="post" action="account" class="login-form" id="login-form">
                                 <fieldset>
                                   <div class="input-wrapper">
-                                    <input name="login" type="text" placeholder="Username">
+                                    <input placeholder="Username" type="text" name="login">
                                   </div>
 
                                   <div class="input-wrapper">
-                                    <input placeholder="Password" name="password" type="password">
+                                    <input type="password" name="password" placeholder="Password">
                                     <input value="1" type="hidden" name="pkit_login">
                                     <input name="pkit_done" type="hidden" value="account">
                                   </div>
@@ -146,7 +146,7 @@
                     <form method="get" action="https://www.google.com/cse" class="navbar-form pull-left search-form">
                       <fieldset>
                         <input value="012897451125057753504:rxeipfvkafe" type="hidden" name="cx">
-                        <input type="text" name="q" maxlength="30" placeholder="Search">
+                        <input placeholder="Search" maxlength="30" type="text" name="q">
                         <button type="submit" class="go-button">GO</button>
                       </fieldset>
                     </form>
@@ -1477,7 +1477,7 @@ olark.identify('8022-431-10-3383');/*]]>*/</script><noscript><a href="https://ww
 <script type="text/javascript" src="/v/1483455416/js/maxmind.js"></script>
 
 <script>
-  $.ajaxSetup({ headers: {'X-CSRF-Token': 'aa2510714a832aba5c339677ee15838f4d8a2d83'}});
+  $.ajaxSetup({ headers: {'X-CSRF-Token': '623857bef56658684f65adf55fa58e9090f125fd'}});
 </script>
 
 
