@@ -1,7 +1,10 @@
 <pre>
 VX Vault last 100 Links
-Thu, 05 Jan 2017 03:31:58 +0000
+Fri, 06 Jan 2017 03:31:25 +0000
 
+http://a.pomf.cat/ibvacc.exe
+http://ayorbolahtour.com/karis/raatt/stub.exe
+http://hldklshzunakfbm.airportcome.top/start_page.exe
 http://crystalbrighlplastic.com/it/items.exe
 http://ragasazeh.com/wp-content/plugins/wpsecone/encrypted1.exe
 http://pooyarahyaft.com/amana/8E7F0FF.exe
@@ -100,6 +103,3 @@ http://89.248.169.50/cron
 http://89.248.169.50/sh
 http://89.248.169.50/ftp
 http://89.248.169.50/bash
-http://doconlineaof.top/read.php?f=404
-http://ustadhanif.com/nbv364
-http://doclosegoa.top/read.php?f=404
