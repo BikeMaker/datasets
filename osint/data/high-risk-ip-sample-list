@@ -10,9 +10,9 @@
 
     <base href="/en/">
     <link rel="stylesheet" type="text/css" href="https://cloud.typography.com/7530532/759068/css/fonts.css" />
-    <link media="all" rel="stylesheet" type="text/css" href="/v/1483581700/css/maxmind.css">
+    <link media="all" rel="stylesheet" type="text/css" href="/v/1483723079/css/maxmind.css">
     <!--[if lt IE 9]>
-      <script src="/v/1483581700/js/html5shiv.js"></script>
+      <script src="/v/1483723079/js/html5shiv.js"></script>
     <![endif]-->
 
     
@@ -76,12 +76,13 @@
                               <form method="post" action="account" class="login-form" id="login-form">
                                 <fieldset>
                                   <div class="input-wrapper">
-                                    <input type="text" name="login" placeholder="Username">
+                                    <input name="login" type="text" placeholder="Username">
                                   </div>
 
                                   <div class="input-wrapper">
-                                    <input type="password" placeholder="Password" name="password">
-                                    <input value="1" name="pkit_login" type="hidden">
+                                    <input placeholder="Password" name="password" type="password">
+                                    <input type="hidden" name="csrf_token" value="35fd36945340a0d30e522576127bd33c036999cb" />
+                                    <input type="hidden" name="pkit_login" value="1">
                                     <input value="account" name="pkit_done" type="hidden">
                                   </div>
 
@@ -145,8 +146,8 @@
                   <li>
                     <form method="get" action="https://www.google.com/cse" class="navbar-form pull-left search-form">
                       <fieldset>
-                        <input type="hidden" value="012897451125057753504:rxeipfvkafe" name="cx">
-                        <input maxlength="30" placeholder="Search" name="q" type="text">
+                        <input type="hidden" name="cx" value="012897451125057753504:rxeipfvkafe">
+                        <input placeholder="Search" maxlength="30" type="text" name="q">
                         <button type="submit" class="go-button">GO</button>
                       </fieldset>
                     </form>
@@ -1473,11 +1474,11 @@ olark.identify('8022-431-10-3383');/*]]>*/</script><noscript><a href="https://ww
 <!-- end olark code -->
 
 
-<script type="text/javascript" src="/v/1483581700/js/vendor.js"></script>
-<script type="text/javascript" src="/v/1483581700/js/maxmind.js"></script>
+<script type="text/javascript" src="/v/1483723079/js/vendor.js"></script>
+<script type="text/javascript" src="/v/1483723079/js/maxmind.js"></script>
 
 <script>
-  $.ajaxSetup({ headers: {'X-CSRF-Token': '4967ce4bede069d5ac26e03baa64b0dedc686120'}});
+  $.ajaxSetup({ headers: {'X-CSRF-Token': '35fd36945340a0d30e522576127bd33c036999cb'}});
 </script>
 
 
@@ -1487,7 +1488,7 @@ olark.identify('8022-431-10-3383');/*]]>*/</script><noscript><a href="https://ww
   (function() {
     var loadDeviceJs = function() {
       var element = document.createElement('script');
-      element.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + '//www.maxmind.com/v/1483581700/js/device.js';
+      element.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + '//www.maxmind.com/v/1483723079/js/device.js';
         document.body.appendChild(element);
     }
     if (window.addEventListener) {

@@ -1,7 +1,8 @@
 <pre>
 VX Vault last 100 Links
-Fri, 06 Jan 2017 03:31:25 +0000
+Sat, 07 Jan 2017 03:31:33 +0000
 
+http://i01001.dgn.vn/1.exe
 http://a.pomf.cat/ibvacc.exe
 http://ayorbolahtour.com/karis/raatt/stub.exe
 http://hldklshzunakfbm.airportcome.top/start_page.exe
@@ -102,4 +103,3 @@ http://www.butterfly.idv.tw/wp-content/themes/dust-317/inst1.exe
 http://89.248.169.50/cron
 http://89.248.169.50/sh
 http://89.248.169.50/ftp
-http://89.248.169.50/bash
