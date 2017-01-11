@@ -1,7 +1,10 @@
 <pre>
 VX Vault last 100 Links
-Tue, 10 Jan 2017 10:59:51 +0000
+Wed, 11 Jan 2017 10:59:56 +0000
 
+http://qcqwyfknkmhym.boresunlight.top/nethost.exe
+http://aoopoerope.top/read.php?f=0.dat
+http://farizcollection.com/images/localhost/55.exe
 http://bogidoggy.top/search.php
 http://aoopoerope.top/read.php?f=0.dat
 http://109.120.142.156/loader4/files/console.exe
@@ -100,6 +103,3 @@ http://0668.com/k5bhgn
 http://chungcuvinhomemydinh.com/6dvjasf
 http://test.sousouyo.com/feaetpnuee
 http://www.myboatplans.net/6d7ukeco6
-http://csgolegal.com/pony/shit.exe
-http://www.marcinkwasny.com/wp-admin/includes/pm2.dll
-http://bargainshop.councilofcoders.com/wp-includes/pm2.dll
