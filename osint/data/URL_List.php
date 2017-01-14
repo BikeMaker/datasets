@@ -1,7 +1,19 @@
 <pre>
 VX Vault last 100 Links
-Fri, 13 Jan 2017 03:34:17 +0000
+Sat, 14 Jan 2017 03:33:20 +0000
 
+http://oamnohndpiwpicgm.onion.to/upload/fee4143866c153a465d7d83b231b3e51.dat
+http://oamnohndpiwpicgm.onion.to/upload/63b873380be779512d2ff1acdc2cc063.dat
+http://suntimbers.com/LL_Kazy_Crypted.exe
+http://suntimbers.com/betabot_crypted.exe
+http://suntimbers.com/clean.exe
+http://zonexxopera.top/read.php?f=0.dat
+http://oamnohndpiwpicgm.onion.nu/10.mov
+http://suntimbers.com/whitemoves_LL_Crypted.exe
+http://cdn.che.moe/phcaen.exe
+http://jflo.ca/wp-content/plugins/akismit/d101.exe
+http://projetomac.org/wp-includes/pomo/pp.exe
+http://cldup.com/6yIk9wSjWP.exe?download=Fraser.exe
 http://marymazaly.com/wp-admin/includes/inst.exe
 http://vins-guadeloupe.net/wp-includes/inst.exe
 http://reshapestrategies.com/wp-includes/pomo/inst.exe
@@ -91,15 +103,3 @@ http://scaune.qmagazin.ro/5hktu4h
 http://dentistintijuana.org/wp-includes/form.uio
 http://movewithgrace.ca/nbv364
 http://perspektive-fuer-kinder.de/nbv364
-http://web-shuttle.in/eeo9oc
-http://environment.ae/0od5hn
-http://xlr8services.com/n970foumf
-http://travelinsider.com.au/mwaefb4b
-http://facerecognition.com.ba/nbv364
-http://35.165.197.153:81/MUXACC.exe
-http://www.avvocatofiori.com/immm/spt/1.jpeg
-http://mainlinecarriers.co.tz/nbv364
-http://zhongguanjiaoshi.com/nbv364
-http://www.monitorspeakers.net//up1/1/4fv3b5.exe
-http://old.strommarnas.se/nbv364
-http://artcommitted.com/wp-includes/js/json2.uio

@@ -10,9 +10,9 @@
 
     <base href="/en/">
     <link rel="stylesheet" type="text/css" href="https://cloud.typography.com/7530532/759068/css/fonts.css" />
-    <link media="all" rel="stylesheet" type="text/css" href="/v/1484155217/css/maxmind.css">
+    <link media="all" rel="stylesheet" type="text/css" href="/v/1484329974/css/maxmind.css">
     <!--[if lt IE 9]>
-      <script src="/v/1484155217/js/html5shiv.js"></script>
+      <script src="/v/1484329974/js/html5shiv.js"></script>
     <![endif]-->
 
     
@@ -76,14 +76,14 @@
                               <form method="post" action="account" class="login-form" id="login-form">
                                 <fieldset>
                                   <div class="input-wrapper">
-                                    <input name="login" placeholder="Username" type="text">
+                                    <input placeholder="Username" name="login" type="text">
                                   </div>
 
                                   <div class="input-wrapper">
-                                    <input placeholder="Password" type="password" name="password">
-                                    <input type="hidden" value="46e7c8a0179e475422c7957c1de3dc5e067b0ad6" name="csrf_token" />
-                                    <input value="1" name="pkit_login" type="hidden">
-                                    <input value="account" name="pkit_done" type="hidden">
+                                    <input type="password" name="password" placeholder="Password">
+                                    <input type="hidden" value="978c1827b193187d5b2f56bdf10baab1a1a45ec6" name="csrf_token" />
+                                    <input name="pkit_login" type="hidden" value="1">
+                                    <input name="pkit_done" value="account" type="hidden">
                                   </div>
 
                                   <div class="row_form">
@@ -146,8 +146,8 @@
                   <li>
                     <form method="get" action="https://www.google.com/cse" class="navbar-form pull-left search-form">
                       <fieldset>
-                        <input value="012897451125057753504:rxeipfvkafe" name="cx" type="hidden">
-                        <input type="text" placeholder="Search" maxlength="30" name="q">
+                        <input name="cx" type="hidden" value="012897451125057753504:rxeipfvkafe">
+                        <input type="text" maxlength="30" name="q" placeholder="Search">
                         <button type="submit" class="go-button">GO</button>
                       </fieldset>
                     </form>
@@ -1412,11 +1412,11 @@ olark.identify('8022-431-10-3383');/*]]>*/</script><noscript><a href="https://ww
 <!-- end olark code -->
 
 
-<script type="text/javascript" src="/v/1484155217/js/vendor.js"></script>
-<script type="text/javascript" src="/v/1484155217/js/maxmind.js"></script>
+<script type="text/javascript" src="/v/1484329974/js/vendor.js"></script>
+<script type="text/javascript" src="/v/1484329974/js/maxmind.js"></script>
 
 <script>
-  $.ajaxSetup({ headers: {'X-CSRF-Token': '46e7c8a0179e475422c7957c1de3dc5e067b0ad6'}});
+  $.ajaxSetup({ headers: {'X-CSRF-Token': '978c1827b193187d5b2f56bdf10baab1a1a45ec6'}});
 </script>
 
 
@@ -1426,7 +1426,7 @@ olark.identify('8022-431-10-3383');/*]]>*/</script><noscript><a href="https://ww
   (function() {
     var loadDeviceJs = function() {
       var element = document.createElement('script');
-      element.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + '//www.maxmind.com/v/1484155217/js/device.js';
+      element.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + '//www.maxmind.com/v/1484329974/js/device.js';
         document.body.appendChild(element);
     }
     if (window.addEventListener) {
