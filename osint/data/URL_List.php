@@ -1,7 +1,8 @@
 <pre>
 VX Vault last 100 Links
-Sun, 15 Jan 2017 03:33:57 +0000
+Mon, 16 Jan 2017 03:33:21 +0000
 
+http://109.120.142.156/loader4/files/01.exe
 http://oamnohndpiwpicgm.onion.to/upload/fee4143866c153a465d7d83b231b3e51.dat
 http://oamnohndpiwpicgm.onion.to/upload/63b873380be779512d2ff1acdc2cc063.dat
 http://suntimbers.com/LL_Kazy_Crypted.exe
@@ -102,4 +103,3 @@ http://slankmethode.nl/4zzq1am
 http://scaune.qmagazin.ro/5hktu4h
 http://dentistintijuana.org/wp-includes/form.uio
 http://movewithgrace.ca/nbv364
-http://perspektive-fuer-kinder.de/nbv364
